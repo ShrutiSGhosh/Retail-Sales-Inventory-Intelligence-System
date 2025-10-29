@@ -1,0 +1,1446 @@
+customer_id,total_orders,total_sales,total_quantity,last_order_date,avg_order_value,recency_days,first_name,last_name,phone,email,street,city,state,zip_code
+1,3,27888.1834,17,2016-09-12,9296.061133333335,816.0,Debra,Burks,,debra.burks@yahoo.com,9273 Thorne Ave.,Orchard Park,NY,14127
+2,3,19329.0849,15,2018-09-04,6443.028300000001,94.0,Kasha,Todd,,kasha.todd@yahoo.com,910 Vine Street,Campbell,CA,95008
+3,3,24051.5279,19,2018-06-04,8017.175966666667,186.0,Tameka,Fisher,,tameka.fisher@aol.com,769C Honey Creek St.,Redondo Beach,CA,90278
+4,3,21150.8927,13,2017-07-02,7050.297566666667,523.0,Daryl,Spence,,daryl.spence@aol.com,988 Pearl Lane,Uniondale,NY,11553
+5,3,17520.2919,13,2016-10-06,5840.0973,792.0,Charolette,Rice,(916) 381-6003,charolette.rice@msn.com,107 River Dr.,Sacramento,CA,95820
+6,3,32675.072500000006,16,2018-06-09,10891.690833333336,181.0,Lyndsey,Bean,,lyndsey.bean@hotmail.com,769 West Road,Fairport,NY,14450
+7,3,7147.1629,6,2016-03-03,2382.3876333333333,1009.0,Latasha,Hays,(716) 986-3359,latasha.hays@hotmail.com,7014 Manor Station Rd.,Buffalo,NY,14215
+8,3,2201.6567,5,2018-12-04,733.8855666666667,3.0,Jacquline,Duncan,,jacquline.duncan@yahoo.com,15 Brown St.,Jackson Heights,NY,11372
+9,3,24433.8818,13,,8144.627266666666,9999.0,Genoveva,Baldwin,,genoveva.baldwin@msn.com,8550 Spruce Drive,Port Washington,NY,11050
+10,3,33634.2604,18,2017-07-04,11211.420133333333,521.0,Pamelia,Newman,,pamelia.newman@gmail.com,476 Chestnut Ave.,Monroe,NY,10950
+11,3,3690.2361,7,2018-09-02,1230.0787,96.0,Deshawn,Mendoza,,deshawn.mendoza@yahoo.com,8790 Cobblestone Street,Monsey,NY,10952
+12,3,24305.1394,12,2016-06-03,8101.713133333334,917.0,Robby,Sykes,(516) 583-7761,robby.sykes@hotmail.com,486 Rock Maple Street,Hempstead,NY,11550
+13,3,14774.4583,13,2018-12-04,4924.819433333333,3.0,Lashawn,Ortiz,,lashawn.ortiz@msn.com,27 Washington Rd.,Longview,TX,75604
+14,3,15766.7006,13,2016-05-08,5255.566866666667,943.0,Garry,Espinoza,,garry.espinoza@hotmail.com,7858 Rockaway Court,Forney,TX,75126
+15,3,9586.801800000001,10,2018-02-04,3195.6006,306.0,Linnie,Branch,,linnie.branch@gmail.com,314 South Columbia Ave.,Plattsburgh,NY,12901
+16,3,31925.8857,19,2018-09-04,10641.9619,94.0,Emmitt,Sanchez,(212) 945-8823,emmitt.sanchez@hotmail.com,461 Squaw Creek Road,New York,NY,10002
+17,3,5275.326999999999,10,2016-06-07,1758.4423333333332,913.0,Caren,Stephens,,caren.stephens@msn.com,914 Brook St.,Scarsdale,NY,10583
+18,3,14877.289,15,2016-11-12,4959.096333333334,755.0,Georgetta,Hardin,,georgetta.hardin@aol.com,474 Chapel Dr.,Canandaigua,NY,14424
+19,3,16739.9958,14,2017-07-11,5579.9986,514.0,Lizzette,Stein,,lizzette.stein@yahoo.com,19 Green Hill Lane,Orchard Park,NY,14127
+20,3,11102.47,10,2018-12-04,3700.8233333333333,3.0,Aleta,Shepard,,aleta.shepard@aol.com,684 Howard St.,Sugar Land,TX,77478
+21,3,17123.997499999998,12,2017-12-10,5707.999166666666,362.0,Tobie,Little,,tobie.little@gmail.com,10 Silver Spear Dr.,Victoria,TX,77904
+22,2,16651.0484,12,2018-08-04,8325.5242,125.0,Adelle,Larsen,,adelle.larsen@gmail.com,683 West Kirkland Dr.,East Northport,NY,11731
+23,2,4775.9635,4,2018-01-04,2387.98175,337.0,Kaylee,English,,kaylee.english@msn.com,8786 Fulton Rd.,Hollis,NY,11423
+24,3,14199.9558,16,2017-01-10,4733.3186,696.0,Corene,Wall,,corene.wall@msn.com,9601 Ocean Rd.,Atwater,CA,95301
+25,2,14529.2583,13,2018-09-04,7264.62915,94.0,Regenia,Vaughan,,regenia.vaughan@gmail.com,44 Stonybrook Street,Mahopac,NY,10541
+26,2,9514.0705,10,2018-11-04,4757.03525,33.0,Theo,Reese,(562) 215-2907,theo.reese@gmail.com,8755 W. Wild Horse St.,Long Beach,NY,11561
+27,2,10719.0988,11,2018-01-04,5359.5494,337.0,Santos,Valencia,,santos.valencia@yahoo.com,7479 Carpenter Street,Sunnyside,NY,11104
+28,2,19992.8648,15,,9996.4324,9999.0,Jeanice,Frost,,jeanice.frost@hotmail.com,76 Devon Lane,Ossining,NY,10562
+29,2,11979.9467,6,,5989.97335,9999.0,Syreeta,Hendricks,,syreeta.hendricks@msn.com,193 Spruce Road,Mahopac,NY,10541
+30,3,10355.390800000001,14,2016-03-08,3451.7969333333335,1004.0,Jamaal,Albert,,jamaal.albert@gmail.com,853 Stonybrook Street,Torrance,CA,90505
+31,3,19756.6432,15,2018-06-04,6585.547733333333,186.0,Williemae,Holloway,(510) 246-8375,williemae.holloway@msn.com,69 Cypress St.,Oakland,CA,94603
+32,3,18037.285,10,2018-10-04,6012.428333333333,64.0,Araceli,Golden,,araceli.golden@msn.com,12 Ridgeview Ave.,Fullerton,CA,92831
+33,3,19043.9036,11,2018-11-07,6347.967866666667,30.0,Deloris,Burke,,deloris.burke@hotmail.com,895 Edgemont Drive,Palos Verdes Peninsula,CA,90274
+34,2,11035.7581,6,,5517.87905,9999.0,Brittney,Woodward,,brittney.woodward@aol.com,960 River St.,East Northport,NY,11731
+35,2,22061.0729,14,2018-02-04,11030.53645,306.0,Guillermina,Noble,,guillermina.noble@msn.com,6 Del Monte Lane,Baldwinsville,NY,13027
+36,2,6079.943,6,2016-07-07,3039.9715,883.0,Bernita,Mcdaniel,,bernita.mcdaniel@hotmail.com,2 Peg Shop Ave.,Liverpool,NY,13090
+37,2,14011.8265,10,2018-12-04,7005.91325,3.0,Melia,Brady,,melia.brady@gmail.com,907 Shirley Rd.,Maspeth,NY,11378
+38,2,21535.6665,10,2018-12-04,10767.83325,3.0,Zelma,Browning,,zelma.browning@aol.com,296 Second Street,Astoria,NY,11102
+39,2,17783.4874,12,,8891.7437,9999.0,Janetta,Aguirre,(717) 670-2634,janetta.aguirre@aol.com,214 Second Court,Lancaster,NY,14086
+40,3,17240.562299999998,16,2016-09-12,5746.8541,816.0,Ronna,Butler,,ronna.butler@gmail.com,9438 Plymouth Court,Encino,CA,91316
+41,2,3962.0287,8,2018-04-04,1981.01435,247.0,Kathie,Freeman,,kathie.freeman@msn.com,667 Temple Dr.,Queensbury,NY,12804
+42,2,9205.1175,10,,4602.55875,9999.0,Tangela,Quinn,,tangela.quinn@aol.com,4 S. Purple Finch Road,Richmond Hill,NY,11418
+43,3,23049.057,17,2017-10-06,7683.019,427.0,Mozelle,Carter,(281) 489-9656,mozelle.carter@aol.com,895 Chestnut Ave.,Houston,TX,77016
+44,2,2270.5392,7,,1135.2696,9999.0,Onita,Johns,,onita.johns@msn.com,32 Glen Creek Lane,Elmont,NY,11003
+45,2,3347.648,6,2017-07-04,1673.824,521.0,Bennett,Armstrong,,bennett.armstrong@aol.com,688 Walnut Street,Bethpage,NY,11714
+46,3,8902.506599999999,10,,2967.5021999999994,9999.0,Monika,Berg,,monika.berg@gmail.com,369 Vernon Dr.,Encino,CA,91316
+47,3,16935.6408,16,2018-11-04,5645.2136,33.0,Bridgette,Guerra,,bridgette.guerra@hotmail.com,9982 Manor Drive,San Lorenzo,CA,94580
+48,2,11705.851999999999,12,,5852.9259999999995,9999.0,Cesar,Jackson,,cesar.jackson@gmail.com,8068 N. Griffin Ave.,Liverpool,NY,13090
+49,2,1571.176,3,,785.588,9999.0,Caroll,Hays,,caroll.hays@yahoo.com,9381 Wrangler St.,Fairport,NY,14450
+50,3,16179.116699999999,10,2018-12-04,5393.0389,3.0,Cleotilde,Booth,,cleotilde.booth@gmail.com,17 Corona St.,Sugar Land,TX,77478
+51,2,7000.057999999999,6,2018-02-04,3500.0289999999995,306.0,Gertrud,Rhodes,,gertrud.rhodes@aol.com,9961 Meadowbrook Street,Merrick,NY,11566
+52,2,6467.6551,7,2018-06-04,3233.82755,186.0,Tu,Ramirez,,tu.ramirez@hotmail.com,24 W. Courtland Street,East Elmhurst,NY,11369
+53,3,14068.2366,15,2018-12-07,4689.4122,0.0,Saturnina,Garner,,saturnina.garner@gmail.com,8538 Fairground St.,Glendora,CA,91740
+54,2,17225.4439,8,,8612.72195,9999.0,Fran,Yang,,fran.yang@hotmail.com,440 Pearl St.,Utica,NY,13501
+55,2,4183.6207,9,,2091.81035,9999.0,Diana,Guerra,,diana.guerra@hotmail.com,45 Chapel Ave.,Merrick,NY,11566
+56,3,6680.4439,6,2018-01-03,2226.8146333333334,338.0,Lolita,Mosley,(281) 363-3309,lolita.mosley@hotmail.com,376 S. High Ridge St.,Houston,TX,77016
+57,2,6981.9401,8,,3490.97005,9999.0,Pamala,Henry,,pamala.henry@aol.com,197 Bridgeton Ave.,Bronx,NY,10451
+58,2,21514.461499999998,16,2017-05-02,10757.230749999999,584.0,Damien,Dorsey,,damien.dorsey@yahoo.com,161 Old York Street,Central Islip,NY,11722
+59,2,13854.6016,11,2018-12-04,6927.3008,3.0,Latasha,Stanley,,latasha.stanley@gmail.com,8068 Fordham Drive,Rockville Centre,NY,11570
+60,2,9919.329399999999,8,2016-05-01,4959.664699999999,950.0,Neil,Mccall,,neil.mccall@gmail.com,7476 Oakland Dr.,San Carlos,CA,94070
+61,3,25636.4531,17,2018-10-04,8545.484366666666,64.0,Elinore,Aguilar,,elinore.aguilar@msn.com,9766 Rockcrest Ave.,San Angelo,TX,76901
+62,2,4122.145399999999,7,2018-01-04,2061.0726999999997,337.0,Alica,Hunter,,alica.hunter@hotmail.com,8 San Juan Drive,East Elmhurst,NY,11369
+63,2,20086.370799999997,14,2018-12-02,10043.185399999998,5.0,Tenisha,Lyons,,tenisha.lyons@aol.com,78 E. Rock Creek Street,Amityville,NY,11701
+64,3,8778.1311,11,2018-04-04,2926.0437,247.0,Bobbie,Foster,,bobbie.foster@yahoo.com,988 Pineknoll Ave.,Desoto,TX,75115
+65,2,11151.604500000001,9,,5575.802250000001,9999.0,Kanesha,Vega,,kanesha.vega@gmail.com,771 E. Oxford Drive,Rome,NY,13440
+66,3,23026.2923,13,2018-11-04,7675.430766666667,33.0,Lorrie,Becker,,lorrie.becker@yahoo.com,19 North Court,Garland,TX,75043
+67,2,1472.4724999999999,3,2016-08-09,736.2362499999999,850.0,Tommie,Melton,(916) 802-2952,tommie.melton@gmail.com,8 West Old York St.,Sacramento,CA,95820
+68,3,10802.6294,8,2018-09-04,3600.8764666666666,94.0,Jayne,Kirkland,,jayne.kirkland@hotmail.com,7800 Second Lane,Rowlett,TX,75088
+69,2,7568.9310000000005,8,2018-05-04,3784.4655000000002,217.0,Katelin,Kennedy,,katelin.kennedy@gmail.com,286 Myrtle Lane,Rocklin,CA,95677
+70,2,16338.938400000001,7,2017-04-08,8169.4692000000005,608.0,Tomasa,Carson,,tomasa.carson@aol.com,10 Clark Avenue,East Elmhurst,NY,11369
+71,2,1855.3325,2,,927.66625,9999.0,Takako,Casey,,takako.casey@aol.com,7548 Court Lane,Bronx,NY,10451
+72,2,13914.334499999999,9,2016-05-09,6957.1672499999995,942.0,Petronila,Norris,,petronila.norris@aol.com,72 South Marshall Lane,South El Monte,CA,91733
+73,2,31913.690199999997,12,2017-11-06,15956.845099999999,396.0,Melanie,Hayes,,melanie.hayes@msn.com,5 N. Hall Dr.,Liverpool,NY,13090
+74,2,4036.9719999999998,3,,2018.4859999999999,9999.0,Georgeann,Waller,,georgeann.waller@yahoo.com,9797 Bald Hill Ave.,North Tonawanda,NY,14120
+75,2,32803.0062,11,2018-08-04,16401.5031,125.0,Abby,Gamble,,abby.gamble@aol.com,60 Myers Dr.,Amityville,NY,11701
+76,2,7168.477800000001,14,,3584.2389000000003,9999.0,Parker,Prince,,parker.prince@hotmail.com,21 Sulphur Springs Drive,Port Jefferson Station,NY,11776
+77,3,8522.9542,6,2016-01-09,2840.984733333333,1063.0,Keri,Bridges,,keri.bridges@gmail.com,8504 Brickell Ave.,Richardson,TX,75080
+78,2,3441.2631,4,2018-12-04,1720.63155,3.0,Chi,Goff,,chi.goff@aol.com,3 W. Glen Ridge Avenue,Palos Verdes Peninsula,CA,90274
+79,2,16025.0715,14,2017-09-02,8012.53575,461.0,Ashanti,Parks,,ashanti.parks@hotmail.com,846 N. Helen St.,Baldwin,NY,11510
+80,2,9563.3381,11,,4781.66905,9999.0,Sarai,Mckee,(716) 912-8110,sarai.mckee@msn.com,641 Glenwood Avenue,Buffalo,NY,14215
+81,2,5660.9369,7,2018-06-04,2830.46845,186.0,Zina,Bonner,,zina.bonner@hotmail.com,9312 8th Street,San Lorenzo,CA,94580
+82,2,18995.013700000003,12,2018-04-04,9497.506850000002,247.0,Lizzie,Joyner,,lizzie.joyner@msn.com,8541 Roberts St.,Coachella,CA,92236
+83,2,7793.1507,12,2018-06-04,3896.57535,186.0,Tiesha,Daniel,,tiesha.daniel@yahoo.com,6 West Bohemia Lane,Scarsdale,NY,10583
+84,2,7154.5445,7,2018-02-04,3577.27225,306.0,Armand,Whitehead,,armand.whitehead@hotmail.com,639 Harvey St.,Lindenhurst,NY,11757
+85,2,23195.0754,14,2018-08-04,11597.5377,125.0,Teofila,Fischer,,teofila.fischer@aol.com,1 West Brickyard St.,Huntington Station,NY,11746
+86,2,12551.997,13,2018-05-04,6275.9985,217.0,Lissa,Vargas,,lissa.vargas@yahoo.com,517 Victoria Ave.,Oswego,NY,13126
+87,2,13546.9484,9,2018-10-04,6773.4742,64.0,Yan,Mcgowan,,yan.mcgowan@msn.com,8960 Newport Ave.,Duarte,CA,91010
+88,2,9805.2464,6,2016-04-09,4902.6232,972.0,Titus,Bullock,,titus.bullock@gmail.com,29 Oxford Avenue,Hollis,NY,11423
+89,2,10805.3354,5,2017-05-11,5402.6677,575.0,Arvilla,Osborn,,arvilla.osborn@gmail.com,60 Acacia Lane,Upland,CA,91784
+90,2,8956.785,9,,4478.3925,9999.0,Marjorie,Logan,,marjorie.logan@msn.com,95 Grandrose St.,Franklin Square,NY,11010
+91,2,18856.877,8,2016-06-01,9428.4385,919.0,Marvin,Mullins,(619) 635-2027,marvin.mullins@aol.com,7489 Redwood Drive,San Diego,CA,92111
+92,2,3037.1355000000003,7,2018-08-04,1518.5677500000002,125.0,Tena,Cruz,,tena.cruz@yahoo.com,1 South St.,Farmingdale,NY,11735
+93,2,25612.702100000002,12,2017-09-06,12806.351050000001,457.0,Corrina,Sawyer,(248) 370-1364,corrina.sawyer@yahoo.com,95 Briarwood Lane,Troy,NY,12180
+94,2,34807.93919999999,15,2018-01-04,17403.969599999997,337.0,Sharyn,Hopkins,,sharyn.hopkins@hotmail.com,4 South Temple Ave.,Baldwinsville,NY,13027
+95,1,12433.4557,5,,12433.4557,9999.0,Letitia,Franco,,letitia.franco@aol.com,607 Lakeview Drive,Saratoga Springs,NY,12866
+96,1,7681.124,4,2016-10-12,7681.124,786.0,Floretta,Higgins,,floretta.higgins@hotmail.com,870 Lilac Dr.,Bayside,NY,11361
+97,2,6450.952899999999,5,2018-11-04,3225.4764499999997,33.0,Louanne,Martin,,louanne.martin@hotmail.com,1 Campfire Ave.,Yuba City,CA,95993
+98,1,2546.4665,4,,2546.4665,9999.0,Violet,Valenzuela,,violet.valenzuela@msn.com,8668 Piper Street,Plattsburgh,NY,12901
+99,1,5431.8955,7,2016-10-04,5431.8955,794.0,Carie,Kidd,,carie.kidd@yahoo.com,6 East Clinton Street,Monroe,NY,10950
+100,1,5399.982,2,,5399.982,9999.0,Kellie,Franco,,kellie.franco@yahoo.com,444 South Walnut Rd.,Commack,NY,11725
+101,1,1405.962,4,,1405.962,9999.0,Nichelle,Howell,,nichelle.howell@aol.com,7670 Forest St.,Scarsdale,NY,10583
+102,1,3121.132,3,2016-06-12,3121.132,908.0,Marisol,Goodman,,marisol.goodman@gmail.com,864 East Cherry St.,Canandaigua,NY,14424
+103,1,2718.3920000000003,3,,2718.3920000000003,9999.0,Sylvie,Wilkerson,,sylvie.wilkerson@yahoo.com,750 Central Ave.,Syosset,NY,11791
+104,2,11776.410100000001,10,,5888.2050500000005,9999.0,Katharina,Bates,,katharina.bates@gmail.com,54 South Greenview Drive,Campbell,CA,95008
+105,1,12461.5479,7,2016-05-05,12461.5479,946.0,Marget,Hodge,,marget.hodge@msn.com,7199 Selby Lane,Woodhaven,NY,11421
+106,1,2770.9629999999997,4,,2770.9629999999997,9999.0,Raul,Melendez,,raul.melendez@hotmail.com,9772 Manhattan St.,Elmhurst,NY,11373
+107,1,6961.0917,5,2016-06-06,6961.0917,914.0,Cecil,Hopper,,cecil.hopper@yahoo.com,471 Glenlake Ave.,Central Islip,NY,11722
+108,1,18281.4729,5,,18281.4729,9999.0,Shae,Hickman,,shae.hickman@hotmail.com,740 Pin Oak Street,Floral Park,NY,11001
+109,2,17193.9034,11,2018-01-03,8596.9517,338.0,Monica,Sears,(408) 704-8863,monica.sears@aol.com,57 Glenholme St.,San Jose,CA,95127
+110,2,5371.338,7,,2685.669,9999.0,Ollie,Zimmerman,(657) 648-2863,ollie.zimmerman@yahoo.com,69 Wood Rd.,Anaheim,CA,92806
+111,1,6177.7725,3,,6177.7725,9999.0,Shila,White,,shila.white@msn.com,94 Lakeshore Street,Orchard Park,NY,14127
+112,1,7952.0464,8,,7952.0464,9999.0,Yuk,Vega,,yuk.vega@yahoo.com,413 Wood St.,West Hempstead,NY,11552
+113,1,4236.3466,6,,4236.3466,9999.0,Eliana,Silva,,eliana.silva@gmail.com,7119 Summer Rd.,Farmingdale,NY,11735
+114,1,727.9839999999999,2,,727.9839999999999,9999.0,Thalia,Horne,,thalia.horne@yahoo.com,9312 Harvard Street,Amityville,NY,11701
+115,1,8327.9477,6,,8327.9477,9999.0,Rey,Lindsay,,rey.lindsay@gmail.com,16 Philmont St.,Monroe,NY,10950
+116,3,12793.6337,13,2017-08-08,4264.5445666666665,486.0,Merlene,Vinson,,merlene.vinson@gmail.com,431 Vine Dr.,Euless,TX,76039
+117,2,2371.4545,5,2016-11-04,1185.72725,763.0,Dacia,William,,dacia.william@msn.com,62 Cypress Drive,Sugar Land,TX,77478
+118,1,3974.6254,4,,3974.6254,9999.0,Le,Wood,,le.wood@yahoo.com,90 Primrose Dr.,Pittsford,NY,14534
+119,2,16764.1256,8,2018-10-07,8382.0628,61.0,Thalia,Dillard,,thalia.dillard@yahoo.com,987 NE. Gates Street,San Angelo,TX,76901
+120,2,9425.1668,10,2018-06-04,4712.5834,186.0,Luz,House,(559) 114-2580,luz.house@gmail.com,491 Railroad Street,Fresno,CA,93706
+121,2,3589.122,4,,1794.561,9999.0,Lucy,Woods,,lucy.woods@gmail.com,8437 West Rockaway St.,Palos Verdes Peninsula,CA,90274
+122,1,24890.6244,5,,24890.6244,9999.0,Shena,Carter,,shena.carter@yahoo.com,72 University Road,Howard Beach,NY,11414
+123,2,13783.7813,11,2018-01-07,6891.89065,334.0,Robena,Hill,(361) 598-4414,robena.hill@hotmail.com,263 Cross St.,Corpus Christi,TX,78418
+124,2,6235.5381,7,,3117.76905,9999.0,Jeni,Booker,,jeni.booker@gmail.com,546 Railroad Dr.,South El Monte,CA,91733
+125,1,7067.962799999999,4,,7067.962799999999,9999.0,Herlinda,Stone,,herlinda.stone@msn.com,725 Gulf St.,Canandaigua,NY,14424
+126,1,10314.9248,8,2018-07-03,10314.9248,157.0,Lavina,Dejesus,,lavina.dejesus@msn.com,59 E. Valley Avenue,Newburgh,NY,12550
+127,1,6034.9654,4,,6034.9654,9999.0,Erlinda,Nielsen,,erlinda.nielsen@aol.com,728 Oxford Lane,Maspeth,NY,11378
+128,1,7536.1622,4,2017-04-12,7536.1622,604.0,Terrance,Lynn,,terrance.lynn@yahoo.com,91 East Buckingham Drive,Plattsburgh,NY,12901
+129,1,3011.4809999999998,2,2017-11-06,3011.4809999999998,396.0,Walton,Dejesus,,walton.dejesus@yahoo.com,15 Washington Rd.,Lockport,NY,14094
+130,1,423.992,1,,423.992,9999.0,Wes,Stanton,(248) 247-5074,wes.stanton@msn.com,8662 Tunnel Street,Troy,NY,12180
+131,1,2335.5207,3,,2335.5207,9999.0,Tanesha,Hampton,,tanesha.hampton@hotmail.com,19 Belmont Ave.,Syosset,NY,11791
+132,1,3271.8135,4,,3271.8135,9999.0,Boyd,Irwin,,boyd.irwin@hotmail.com,221 Whitemarsh St.,Hamburg,NY,14075
+133,1,3810.823,4,,3810.823,9999.0,Delbert,Wilkins,,delbert.wilkins@aol.com,420 Greenview St.,Coram,NY,11727
+134,1,3751.8740000000003,3,,3751.8740000000003,9999.0,Brianna,Moss,(516) 156-8031,brianna.moss@msn.com,4 Longfellow St.,Hempstead,NY,11550
+135,2,12026.9409,10,2017-09-03,6013.47045,460.0,Dorthey,Jackson,(281) 926-8010,dorthey.jackson@msn.com,9768 Brookside St.,Houston,TX,77016
+136,2,15314.013200000001,12,,7657.006600000001,9999.0,Sarita,Parks,,sarita.parks@msn.com,7809 Second Lane,Forney,TX,75126
+137,1,723.8905,1,2017-01-03,723.8905,703.0,Shonta,Mercer,,shonta.mercer@aol.com,319 NE. La Sierra Avenue,Massapequa,NY,11758
+138,2,12010.496899999998,14,,6005.248449999999,9999.0,Jone,Bernard,(657) 536-5165,jone.bernard@hotmail.com,99 Longbranch Court,Anaheim,CA,92806
+139,1,2319.9759999999997,3,,2319.9759999999997,9999.0,Wanita,Davenport,,wanita.davenport@aol.com,525 Dogwood Ave.,Spring Valley,NY,10977
+140,1,12909.921400000001,9,2017-12-08,12909.921400000001,364.0,Cleopatra,Tate,,cleopatra.tate@aol.com,97 N. Glenwood St.,East Elmhurst,NY,11369
+141,1,376.792,1,2017-09-03,376.792,460.0,Ramiro,Byers,,ramiro.byers@gmail.com,16 Pleasant St.,Saint Albans,NY,11412
+142,1,5224.9905,1,,5224.9905,9999.0,Nicholas,Vazquez,,nicholas.vazquez@hotmail.com,9 Roosevelt Street,West Hempstead,NY,11552
+143,1,3920.663,4,2017-11-09,3920.663,393.0,Janae,Doyle,,janae.doyle@gmail.com,760 Rose Ave.,Jackson Heights,NY,11372
+144,1,256.4905,1,,256.4905,9999.0,Hans,Price,,hans.price@hotmail.com,51 Glendale Road,Port Chester,NY,10573
+145,1,8696.072,5,2016-01-06,8696.072,1066.0,Miquel,Neal,,miquel.neal@hotmail.com,9564 Deerfield Lane,Staten Island,NY,10301
+146,1,6183.5624,6,,6183.5624,9999.0,Stefany,Potter,,stefany.potter@gmail.com,256 South Academy St.,Saratoga Springs,NY,12866
+147,1,10322.972099999999,3,,10322.972099999999,9999.0,Bernetta,Marquez,,bernetta.marquez@hotmail.com,626 E. Dunbar Street,Smithtown,NY,11787
+148,1,1260.973,3,2016-11-10,1260.973,757.0,Julee,Woodard,,julee.woodard@yahoo.com,869 Summerhouse Dr.,Richmond Hill,NY,11418
+149,1,8474.1624,4,,8474.1624,9999.0,Meredith,Bryan,,meredith.bryan@hotmail.com,8935 E. Oxford St.,Spring Valley,NY,10977
+150,1,3840.882,4,2016-01-06,3840.882,1066.0,Weldon,Michael,,weldon.michael@hotmail.com,9952 Nut Swamp St.,Huntington,NY,11743
+151,2,6863.6268,8,2018-06-04,3431.8134,186.0,Joesph,Delacruz,,joesph.delacruz@aol.com,184 Cypress Street,Atwater,CA,95301
+152,1,3643.5440000000003,4,,3643.5440000000003,9999.0,Katherina,Odom,,katherina.odom@yahoo.com,897 N. Oak Drive,Plainview,NY,11803
+153,2,17068.4922,12,2017-01-04,8534.2461,702.0,Laraine,Robbins,,laraine.robbins@yahoo.com,8214 E. Pin Oak Lane,San Angelo,TX,76901
+154,1,751.984,2,,751.984,9999.0,Jenise,Preston,,jenise.preston@yahoo.com,9 Littleton Drive,Helotes,TX,78023
+155,1,4214.9734,3,,4214.9734,9999.0,Lory,Page,,lory.page@hotmail.com,58 Summerhouse Street,Bay Shore,NY,11706
+156,1,4534.383,4,2016-11-07,4534.383,760.0,Charlyn,Cantrell,,charlyn.cantrell@yahoo.com,8756 Euclid St.,West Islip,NY,11795
+157,2,17861.1996,13,,8930.5998,9999.0,Carola,Rodriquez,,carola.rodriquez@hotmail.com,9433 Heritage Lane,Banning,CA,92220
+158,1,1395.1624,4,,1395.1624,9999.0,Alane,Kennedy,,alane.kennedy@yahoo.com,34 Green Lake Street,Spring Valley,NY,10977
+159,1,11013.9345,7,,11013.9345,9999.0,Regina,Burns,,regina.burns@aol.com,713 Buckingham St.,Garland,TX,75043
+160,1,7975.973,3,,7975.973,9999.0,Omer,Estrada,,omer.estrada@gmail.com,9 Honey Creek Street,Rowlett,TX,75088
+161,1,4296.1815,4,,4296.1815,9999.0,Crystle,Gilliam,,crystle.gilliam@yahoo.com,86 Edgewater Road,Smithtown,NY,11787
+162,1,4094.8480999999997,6,,4094.8480999999997,9999.0,Kam,Wilder,,kam.wilder@hotmail.com,500 West Clay Ave.,Newburgh,NY,12550
+163,1,4851.1372,7,,4851.1372,9999.0,Margert,Stevens,,margert.stevens@aol.com,502 North Poplar St.,Rome,NY,13440
+164,1,1139.981,2,,1139.981,9999.0,Tomika,Larson,,tomika.larson@yahoo.com,254 Canal St.,Woodside,NY,11377
+165,2,11907.9041,11,,5953.95205,9999.0,Jeromy,Burch,(408) 955-8238,jeromy.burch@msn.com,889 Mulberry Street,San Jose,CA,95127
+166,1,751.984,2,2017-01-03,751.984,703.0,Lena,Mills,,lena.mills@yahoo.com,42 Homestead St.,Woodhaven,NY,11421
+167,1,14172.218499999999,9,,14172.218499999999,9999.0,Loreta,Johnston,,loreta.johnston@yahoo.com,39 Lafayette Dr.,Spring Valley,NY,10977
+168,1,3801.6486999999997,8,,3801.6486999999997,9999.0,Nettie,Mcdaniel,,nettie.mcdaniel@hotmail.com,7004 E. Wakehurst St.,South Ozone Park,NY,11420
+169,2,13678.357,7,2016-12-09,6839.1785,728.0,Karla,Kirk,,karla.kirk@yahoo.com,9718 Harvard Rd.,Palos Verdes Peninsula,CA,90274
+170,2,13801.2997,9,,6900.64985,9999.0,Regine,Gonzales,(805) 763-4045,regine.gonzales@gmail.com,798 Court Drive,Oxnard,CA,93035
+171,1,3723.8275,8,,3723.8275,9999.0,Miriam,Baker,,miriam.baker@hotmail.com,90 Studebaker St.,Uniondale,NY,11553
+172,2,15841.0992,7,2017-02-07,7920.5496,668.0,Jeanie,Kirkland,,jeanie.kirkland@aol.com,7643 Old Theatre St.,Santa Clara,CA,95050
+173,1,8072.331,8,,8072.331,9999.0,Marquerite,Dawson,,marquerite.dawson@gmail.com,37 Hamilton Court,Garland,TX,75043
+174,1,2963.981,2,,2963.981,9999.0,Babara,Ochoa,,babara.ochoa@aol.com,872 Smith Store St.,Scarsdale,NY,10583
+175,2,13023.926,8,2018-11-04,6511.963,33.0,Nova,Hess,,nova.hess@msn.com,773 South Lafayette St.,Duarte,CA,91010
+176,2,6829.709200000001,10,,3414.8546000000006,9999.0,Carley,Reynolds,,carley.reynolds@gmail.com,2 Snake Hill Drive,South El Monte,CA,91733
+177,1,170.991,1,,170.991,9999.0,Carissa,Foreman,,carissa.foreman@msn.com,69C N. Ridge Rd.,Maspeth,NY,11378
+178,1,4125.5565,5,,4125.5565,9999.0,Genoveva,Tyler,(212) 152-6381,genoveva.tyler@gmail.com,8121 Windfall Ave.,New York,NY,10002
+179,1,5887.3423999999995,4,,5887.3423999999995,9999.0,Deane,Sears,,deane.sears@hotmail.com,3 Bradford Court,Pittsford,NY,14534
+180,1,2478.4,2,,2478.4,9999.0,Karey,Steele,,karey.steele@gmail.com,8879 Kent Lane,Farmingdale,NY,11735
+181,2,8273.955899999999,5,2018-03-04,4136.9779499999995,278.0,Olevia,Pitts,,olevia.pitts@gmail.com,39 Fieldstone Drive,Redondo Beach,CA,90278
+182,1,17746.5951,7,,17746.5951,9999.0,Jenniffer,Bullock,,jenniffer.bullock@msn.com,38 Oxford Avenue,Bay Shore,NY,11706
+183,1,1254.9405,1,,1254.9405,9999.0,Jeniffer,Ratliff,,jeniffer.ratliff@gmail.com,510 Rocky River Court,Floral Park,NY,11001
+184,1,16436.065000000002,5,,16436.065000000002,9999.0,Klara,Stanley,,klara.stanley@aol.com,603 Mechanic St.,Webster,NY,14580
+185,1,3290.7715,3,2017-07-08,3290.7715,517.0,Morton,Lee,,morton.lee@yahoo.com,313 Ridge St.,San Angelo,TX,76901
+186,1,9833.6547,5,,9833.6547,9999.0,Ken,Charles,,ken.charles@msn.com,9124 W. Piper Lane,Monsey,NY,10952
+187,2,13611.6259,8,2016-09-08,6805.81295,820.0,Hedwig,Paul,,hedwig.paul@msn.com,422 Manor Ave.,Apple Valley,CA,92307
+188,2,1729.7749999999999,3,,864.8874999999999,9999.0,Sharla,Flynn,(805) 478-7724,sharla.flynn@hotmail.com,7 Brown Drive,Oxnard,CA,93035
+189,1,2069.3725,3,2017-11-08,2069.3725,394.0,Damian,Dawson,,damian.dawson@hotmail.com,528 St Margarets Street,Liverpool,NY,13090
+190,1,2082.1435,6,2017-11-01,2082.1435,401.0,Toya,Pratt,(562) 218-6405,toya.pratt@yahoo.com,485 San Pablo Drive,Long Beach,NY,11561
+191,2,2593.1289,8,2016-09-10,1296.56445,818.0,Graciela,Barber,(805) 656-6987,graciela.barber@hotmail.com,1 E. Young St.,Oxnard,CA,93035
+192,2,14208.3881,9,,7104.19405,9999.0,Bong,Hebert,,bong.hebert@gmail.com,545 Brook St.,Torrance,CA,90505
+193,1,914.967,4,2016-10-10,914.967,788.0,Ayanna,Rhodes,,ayanna.rhodes@msn.com,7425 Pheasant St.,Hicksville,NY,11801
+194,2,12320.1207,11,2018-03-04,6160.06035,278.0,Dorine,Roberson,,dorine.roberson@msn.com,396 Meadowbrook Lane,Santa Cruz,CA,95060
+195,1,14935.0311,8,2018-08-03,14935.0311,126.0,Addie,Hahn,,addie.hahn@hotmail.com,8165 Baker Ave.,Franklin Square,NY,11010
+196,1,10949.9468,6,2017-09-05,10949.9468,458.0,Edythe,Valencia,,edythe.valencia@yahoo.com,9346 Wall St.,North Tonawanda,NY,14120
+197,1,4655.0404,7,,4655.0404,9999.0,Andy,O'Neill,,andy.o'neill@msn.com,9544 Mulberry Drive,Rego Park,NY,11374
+198,1,2749.3474,6,,2749.3474,9999.0,Luis,Tyler,,luis.tyler@gmail.com,9568 Campfire Circle,Amarillo,TX,79106
+199,1,4571.0727,3,,4571.0727,9999.0,Clelia,Workman,,clelia.workman@yahoo.com,620 North Somerset St.,New Windsor,NY,12553
+200,1,391.992,1,,391.992,9999.0,Ashely,Holmes,,ashely.holmes@aol.com,45 High Ridge Ave.,Farmingdale,NY,11735
+201,1,2548.9732,7,,2548.9732,9999.0,Candis,Harding,,candis.harding@gmail.com,33 NW. Cambridge Ave.,Ballston Spa,NY,12020
+202,1,4095.0137999999997,5,,4095.0137999999997,9999.0,Marni,Bolton,(717) 670-6268,marni.bolton@msn.com,7469 Plymouth Ave.,Lancaster,NY,14086
+203,1,12369.6265,8,2018-06-01,12369.6265,189.0,Minerva,Decker,(281) 271-6390,minerva.decker@yahoo.com,794 Greenrose Street,Houston,TX,77016
+204,1,2813.5587,6,,2813.5587,9999.0,Alpha,King,,alpha.king@hotmail.com,14 Henry Smith St.,Rockville Centre,NY,11570
+205,1,3642.0126,6,2016-04-04,3642.0126,977.0,Harris,Pittman,,harris.pittman@yahoo.com,404 Cherry Hill Road,Jamaica,NY,11432
+206,1,8429.9454,6,,8429.9454,9999.0,Stephaine,Riddle,,stephaine.riddle@hotmail.com,199 Vermont Court,Brooklyn,NY,11201
+207,1,2500.4381,7,,2500.4381,9999.0,Michel,Blankenship,,michel.blankenship@msn.com,382 West Hill Dr.,Forney,TX,75126
+208,2,5651.0267,8,2018-07-04,2825.51335,156.0,Denis,Logan,,denis.logan@msn.com,121 Rockcrest Street,Ridgecrest,CA,93555
+209,1,1127.992,1,2017-10-08,1127.992,425.0,Jutta,Everett,,jutta.everett@gmail.com,27 Taylor Ave.,Selden,NY,11784
+210,1,3599.991,1,2017-07-11,3599.991,514.0,Priscilla,Wilkins,(229) 322-2269,priscilla.wilkins@aol.com,653 Pawnee Rd.,Albany,NY,12203
+211,1,1472.481,2,2016-11-07,1472.481,760.0,Gilma,Dejesus,,gilma.dejesus@yahoo.com,777 Thompson Ave.,Scarsdale,NY,10583
+212,1,6155.9644,4,,6155.9644,9999.0,Buford,Bridges,(248) 604-7346,buford.bridges@msn.com,239 Oak Valley Court,Troy,NY,12180
+213,1,4789.7348,7,,4789.7348,9999.0,Elenore,Hensley,,elenore.hensley@hotmail.com,7037 Aspen St.,Hamburg,NY,14075
+214,1,3032.7401,7,2017-08-05,3032.7401,489.0,Ross,Pugh,,ross.pugh@msn.com,8598 Saxon St.,North Tonawanda,NY,14120
+215,1,4397.9639,4,,4397.9639,9999.0,Judith,Finley,,judith.finley@hotmail.com,474 West Bank Road,Whitestone,NY,11357
+216,1,4912.157,5,,4912.157,9999.0,Wai,Soto,,wai.soto@msn.com,30 Arch Drive,Bethpage,NY,11714
+217,2,5073.0365,7,2018-03-04,2536.51825,278.0,Carline,Collier,(559) 810-6070,carline.collier@msn.com,28 Trenton Lane,Fresno,CA,93706
+218,1,6902.465,7,,6902.465,9999.0,Casey,Gill,,casey.gill@gmail.com,636 Prospect Avenue,Port Washington,NY,11050
+219,1,1567.173,3,2017-12-07,1567.173,365.0,Darcie,Morgan,(442) 618-7068,darcie.morgan@aol.com,476 East Adams Ave.,Oceanside,NY,11572
+220,1,6672.2947,7,,6672.2947,9999.0,Lucio,Sherman,,lucio.sherman@gmail.com,842 Corona Ave.,Smithtown,NY,11787
+221,1,199.992,1,2017-04-04,199.992,612.0,Clementine,Mooney,,clementine.mooney@yahoo.com,678 Charles Court,Mcallen,TX,78501
+222,1,1497.4827,2,,1497.4827,9999.0,Anya,Contreras,,anya.contreras@msn.com,38 Old Fairground St.,East Northport,NY,11731
+223,1,4563.091,3,,4563.091,9999.0,Scarlet,Yates,,scarlet.yates@hotmail.com,687 Shirley St.,Patchogue,NY,11772
+224,2,11471.8954,14,2017-07-05,5735.9477,520.0,Moses,Pope,,moses.pope@yahoo.com,654 Theatre Street,Lawndale,CA,90260
+225,1,7486.331400000001,8,,7486.331400000001,9999.0,Barbera,Riggs,,barbera.riggs@aol.com,12 Gartner Drive,Plainview,NY,11803
+226,1,13033.5961,7,2017-04-11,13033.5961,605.0,Kiana,Rivera,,kiana.rivera@gmail.com,9 Sheffield Dr.,Richmond Hill,NY,11418
+227,1,18553.73,8,2017-01-12,18553.73,694.0,Danielle,Bond,,danielle.bond@msn.com,8589 Shub Farm Street,Patchogue,NY,11772
+228,1,674.991,1,,674.991,9999.0,Whitney,Estes,(631) 315-4020,whitney.estes@gmail.com,454 Bear Hill Street,Brentwood,NY,11717
+229,1,814.6707,1,,814.6707,9999.0,Molly,Langley,,molly.langley@aol.com,63 Bridgeton Street,Holbrook,NY,11741
+230,1,9211.523000000001,4,2016-07-07,9211.523000000001,883.0,Chelsey,Hardin,,chelsey.hardin@hotmail.com,13 Brickyard Street,Deer Park,NY,11729
+231,2,12861.8789,13,,6430.93945,9999.0,Jenee,Rasmussen,(916) 219-1774,jenee.rasmussen@hotmail.com,19 George Lane,Sacramento,CA,95820
+232,1,1755.3725,3,2017-04-03,1755.3725,613.0,Freddie,Mathis,,freddie.mathis@hotmail.com,31 Shady St.,Euless,TX,76039
+233,2,2317.084,3,2017-03-06,1158.542,641.0,Mariana,Strong,,mariana.strong@msn.com,972 Dunbar Dr.,Santa Clara,CA,95050
+234,1,3804.9214,9,,3804.9214,9999.0,Winfred,Harris,,winfred.harris@msn.com,734 Glen Eagles St.,East Meadow,NY,11554
+235,1,5989.965,4,,5989.965,9999.0,Jeromy,Elliott,,jeromy.elliott@gmail.com,7112 Laurel Street,Bay Shore,NY,11706
+236,1,4157.9724,3,,4157.9724,9999.0,Verona,O'Neill,,verona.o'neill@hotmail.com,8279 W. Sussex St.,Selden,NY,11784
+237,2,2007.5812,2,2018-08-04,1003.7906,125.0,Elvera,Peck,,elvera.peck@yahoo.com,759 Lakewood Street,Banning,CA,92220
+238,1,20177.7457,7,,20177.7457,9999.0,Cindi,Larson,,cindi.larson@msn.com,896 Golden Star Rd.,Howard Beach,NY,11414
+239,2,10156.8968,12,2017-09-08,5078.4484,455.0,Felice,Guzman,,felice.guzman@hotmail.com,7 Creekside Lane,Canyon Country,CA,91387
+240,2,9959.0962,12,2016-05-09,4979.5481,942.0,Le,Deleon,,le.deleon@msn.com,58 Clark Court,Banning,CA,92220
+241,1,2157.916,5,2016-01-10,2157.916,1062.0,Manie,Sanchez,,manie.sanchez@hotmail.com,471 Illinois Ave.,Queensbury,NY,12804
+242,1,7143.6644,4,,7143.6644,9999.0,Rutha,Howell,,rutha.howell@gmail.com,9247 Jones Street,Canyon Country,CA,91387
+243,1,2658.7627,4,2017-08-11,2658.7627,483.0,Natosha,Rowland,,natosha.rowland@aol.com,51 Elmwood St.,Ballston Spa,NY,12020
+244,1,1113.2655,4,,1113.2655,9999.0,Jessika,Bray,,jessika.bray@yahoo.com,37 East Greystone St.,San Pablo,CA,94806
+245,1,10869.9637,4,,10869.9637,9999.0,Delila,Hamilton,,delila.hamilton@yahoo.com,7451 East James Ave.,Palos Verdes Peninsula,CA,90274
+246,1,6261.957399999999,5,2017-09-04,6261.957399999999,459.0,Dionne,Norris,,dionne.norris@yahoo.com,9993 Greenview Circle,Niagara Falls,NY,14304
+247,1,10570.4719,3,,10570.4719,9999.0,Muriel,Juarez,,muriel.juarez@gmail.com,8073 Cemetery Drive,Palos Verdes Peninsula,CA,90274
+248,1,1101.683,2,,1101.683,9999.0,Cecelia,Gill,,cecelia.gill@aol.com,372 Silver Spear Dr.,Mcallen,TX,78501
+249,1,723.8905,1,,723.8905,9999.0,Magda,Eaton,,magda.eaton@aol.com,860 Middle River Street,Ossining,NY,10562
+250,1,2371.1624,4,,2371.1624,9999.0,Ivonne,Yang,(915) 181-1950,ivonne.yang@gmail.com,7359 North Lake View St.,El Paso,TX,79930
+251,1,8879.4529,5,2016-04-04,8879.4529,977.0,Kasie,Rodriquez,,kasie.rodriquez@aol.com,7 North Beech St.,Ballston Spa,NY,12020
+252,1,8587.397,6,,8587.397,9999.0,Eleni,Gordon,,eleni.gordon@hotmail.com,583 W. San Carlos Street,Richmond Hill,NY,11418
+253,1,1439.984,2,,1439.984,9999.0,Maurice,Norton,,maurice.norton@hotmail.com,32 Mayflower Dr.,Atwater,CA,95301
+254,1,1716.553,5,,1716.553,9999.0,Cristobal,Hutchinson,,cristobal.hutchinson@gmail.com,58 Washington Avenue,Lawndale,CA,90260
+255,1,10269.8557,5,2017-04-03,10269.8557,613.0,Flossie,Holder,,flossie.holder@msn.com,8459 W. Newport Court,Massapequa Park,NY,11762
+256,1,2658.1454,6,2018-06-01,2658.1454,189.0,Erma,Salinas,,erma.salinas@gmail.com,347 Sheffield St.,Merrick,NY,11566
+257,1,5315.9042,5,,5315.9042,9999.0,Earl,Stanley,,earl.stanley@gmail.com,569 Lake Lane,Elmhurst,NY,11373
+258,1,437.0907,1,2016-09-01,437.0907,827.0,Maribel,William,,maribel.william@aol.com,65 Magnolia Ave.,Torrance,CA,90505
+259,1,10231.0464,8,2016-01-01,10231.0464,1071.0,Johnathan,Velazquez,,johnathan.velazquez@hotmail.com,9680 E. Somerset Street,Pleasanton,CA,94566
+260,1,3349.6486999999997,6,2016-11-10,3349.6486999999997,757.0,Rodrick,Shelton,,rodrick.shelton@hotmail.com,7157 Addison Street,Canyon Country,CA,91387
+261,1,1837.4717,3,2016-02-09,1837.4717,1032.0,Ferne,Kline,,ferne.kline@hotmail.com,303 Shady St.,Fullerton,CA,92831
+262,1,2484.4274,6,2017-04-12,2484.4274,604.0,Rubin,Decker,(716) 950-9835,rubin.decker@gmail.com,9875 Shady Ave.,Buffalo,NY,14215
+263,1,14405.0464,7,,14405.0464,9999.0,Dortha,Jarvis,(442) 919-8256,dortha.jarvis@yahoo.com,76 Prince Drive,Oceanside,NY,11572
+264,1,1577.0717,3,,1577.0717,9999.0,Mariela,Huffman,,mariela.huffman@gmail.com,531 Fieldstone Road,Garden City,NY,11530
+265,1,1096.1817,2,2017-10-06,1096.1817,427.0,Mellisa,Farley,,mellisa.farley@yahoo.com,21 West Princess St.,Central Islip,NY,11722
+266,1,2681.957,5,,2681.957,9999.0,Myung,Hooper,,myung.hooper@gmail.com,951 Mill Road,Elmont,NY,11003
+267,1,1625.963,4,2016-11-05,1625.963,762.0,Angelina,Lloyd,,angelina.lloyd@yahoo.com,9593 North Sherman Dr.,Apple Valley,CA,92307
+268,1,7211.723400000001,5,2017-01-09,7211.723400000001,697.0,Trinity,Riddle,,trinity.riddle@aol.com,23 Oakland Lane,Ballston Spa,NY,12020
+269,1,7526.036700000001,7,,7526.036700000001,9999.0,Barton,Crosby,,barton.crosby@msn.com,896 Edgewater St.,Bellmore,NY,11710
+270,1,3646.9827,2,,3646.9827,9999.0,Claudio,Wise,,claudio.wise@hotmail.com,810 Oxford Ave.,Kingston,NY,12401
+271,1,879.984,2,2016-01-03,879.984,1069.0,Katheleen,Marks,,katheleen.marks@yahoo.com,69 North Tower St.,Longview,TX,75604
+272,1,8561.262700000001,8,2016-11-09,8561.262700000001,758.0,Deja,Chaney,,deja.chaney@hotmail.com,52 Woodside Ave.,Jamaica,NY,11432
+273,1,3056.9624,4,,3056.9624,9999.0,Queenie,Vance,,queenie.vance@gmail.com,172 Arcadia Ave.,Ozone Park,NY,11417
+274,1,5701.1054,8,,5701.1054,9999.0,Josh,Shaw,,josh.shaw@gmail.com,212 North Leeton Ridge Street,Hopewell Junction,NY,12533
+275,1,11476.5364,9,,11476.5364,9999.0,Pinkie,Kirkland,,pinkie.kirkland@yahoo.com,18 Myers St.,San Angelo,TX,76901
+276,1,6866.9384,7,,6866.9384,9999.0,Lavette,Wright,,lavette.wright@msn.com,6 Windsor Street,Ronkonkoma,NY,11779
+277,1,3570.5559999999996,5,2016-06-02,3570.5559999999996,918.0,Mark,Garrett,,mark.garrett@msn.com,285 Rosewood Dr.,Monroe,NY,10950
+278,1,5226.6626,4,,5226.6626,9999.0,Myesha,Burgess,,myesha.burgess@gmail.com,306 Trenton Rd.,Campbell,CA,95008
+279,1,9327.738000000001,7,2017-07-12,9327.738000000001,513.0,Justina,Long,,justina.long@aol.com,39 Littleton Ave.,South El Monte,CA,91733
+280,1,4616.0145,5,2016-01-05,4616.0145,1067.0,Brenda,Tate,,brenda.tate@msn.com,36 Hilltop Street,San Angelo,TX,76901
+281,1,5672.281,4,2016-05-07,5672.281,944.0,Rayna,Perry,,rayna.perry@hotmail.com,7238 Oakland St.,Ozone Park,NY,11417
+282,1,9163.4289,8,2016-11-06,9163.4289,761.0,Randolph,Chase,,randolph.chase@yahoo.com,828 Bridle Ave.,San Lorenzo,CA,94580
+283,1,1172.9724,3,2017-09-01,1172.9724,462.0,Jaimee,Day,,jaimee.day@aol.com,7534 Whitemarsh Ave.,Poughkeepsie,NY,12601
+284,1,1001.6117,3,2017-07-03,1001.6117,522.0,Susann,Bass,,susann.bass@msn.com,21 Old Rock Maple Ave.,Commack,NY,11725
+285,1,613.7907,1,2017-10-12,613.7907,421.0,Leola,Gould,,leola.gould@gmail.com,8 Kirkland St.,Astoria,NY,11102
+286,1,1026.7014,2,2017-03-10,1026.7014,637.0,Virgil,Frost,,virgil.frost@gmail.com,9798 Beacon St.,Levittown,NY,11756
+287,1,2320.5564,7,,2320.5564,9999.0,Mireille,Puckett,(805) 961-9909,mireille.puckett@hotmail.com,378 Purple Finch Drive,Oxnard,CA,93035
+288,1,4765.4286999999995,8,,4765.4286999999995,9999.0,Keturah,Massey,,keturah.massey@msn.com,189 Arnold Drive,Banning,CA,92220
+289,1,17834.9634,4,,17834.9634,9999.0,Charmain,Webster,,charmain.webster@hotmail.com,36 East Stonybrook Rd.,Richardson,TX,75080
+290,1,1467.9554,5,,1467.9554,9999.0,Barry,Buckner,,barry.buckner@gmail.com,8779 High Noon Rd.,Centereach,NY,11720
+291,1,1600.093,5,,1600.093,9999.0,Boyce,Burks,,boyce.burks@gmail.com,879 Harvey Dr.,Sunnyside,NY,11104
+292,1,13947.5449,6,2017-09-10,13947.5449,453.0,Monty,Frost,(516) 460-5396,monty.frost@aol.com,76 Foxrun Dr.,Hempstead,NY,11550
+293,1,6102.963,4,2018-03-03,6102.963,279.0,Tiny,French,,tiny.french@hotmail.com,7163 Hall St.,Plainview,NY,11803
+294,1,1208.4825,2,2017-06-04,1208.4825,551.0,Clementina,Sargent,,clementina.sargent@hotmail.com,9853 Catherine Road,Rome,NY,13440
+295,1,11055.940999999999,7,,11055.940999999999,9999.0,Danny,Kim,,danny.kim@msn.com,74 Essex Drive,South Ozone Park,NY,11420
+296,1,13773.627700000001,8,,13773.627700000001,9999.0,Sophia,Mcmillan,,sophia.mcmillan@msn.com,8541 S. Pleasant Street,Uniondale,NY,11553
+297,1,3658.1810000000005,4,,3658.1810000000005,9999.0,Christia,Carson,,christia.carson@gmail.com,220 Orchard Street,Helotes,TX,78023
+298,1,9474.9404,7,,9474.9404,9999.0,Jennie,Middleton,,jennie.middleton@gmail.com,95 High Noon Dr.,Upland,CA,91784
+299,1,2687.1434,6,,2687.1434,9999.0,Jame,Riggs,,jame.riggs@hotmail.com,9237 Hudson Drive,Bay Shore,NY,11706
+300,1,1023.984,2,2018-04-03,1023.984,248.0,Rayford,Simon,,rayford.simon@msn.com,998 Whitemarsh Road,Mountain View,CA,94043
+301,1,4156.6929,5,2017-04-04,4156.6929,612.0,Annett,Garrett,,annett.garrett@yahoo.com,19 Euclid Lane,Scarsdale,NY,10583
+302,1,631.6747,3,,631.6747,9999.0,Hayden,Cross,,hayden.cross@gmail.com,90 Pumpkin Hill St.,Apple Valley,CA,92307
+303,1,3136.0432,4,2017-11-11,3136.0432,391.0,Rolanda,Larsen,,rolanda.larsen@yahoo.com,5 West University Court,Woodhaven,NY,11421
+304,1,502.1814,2,2016-02-10,502.1814,1031.0,Jayme,Zamora,,jayme.zamora@gmail.com,2 Ridge Lane,Springfield Gardens,NY,11413
+305,1,1238.566,4,,1238.566,9999.0,Hope,Cotton,,hope.cotton@aol.com,9092 Blue Spring Dr.,Redondo Beach,CA,90278
+306,1,6489.565,4,2016-03-03,6489.565,1009.0,Vikki,Erickson,,vikki.erickson@yahoo.com,24 Jones Street,Kingston,NY,12401
+307,1,2942.982,2,,2942.982,9999.0,Fransisca,Nicholson,,fransisca.nicholson@aol.com,945 Schoolhouse Street,Glendora,CA,91740
+308,1,7394.9644,4,2018-11-03,7394.9644,34.0,Mazie,Fernandez,,mazie.fernandez@hotmail.com,583 Harvard Ave.,Webster,NY,14580
+309,1,3900.6587,5,2016-11-12,3900.6587,755.0,Anderson,Martin,,anderson.martin@hotmail.com,9051 Hillside Dr.,Canandaigua,NY,14424
+310,1,12935.949400000001,6,,12935.949400000001,9999.0,Gilberto,Parsons,,gilberto.parsons@gmail.com,8115 North Edgewater Drive,Middle Village,NY,11379
+311,1,1250.8636999999999,4,,1250.8636999999999,9999.0,Charise,Burt,(559) 888-2229,charise.burt@aol.com,582 Creek St.,Fresno,CA,93706
+312,1,5419.973,3,,5419.973,9999.0,Cameron,Carroll,,cameron.carroll@yahoo.com,9133 South Halifax Ave.,Longview,TX,75604
+313,1,4918.366,6,2016-04-11,4918.366,970.0,Melani,Jarvis,,melani.jarvis@hotmail.com,8 Tunnel St.,Maspeth,NY,11378
+314,1,6872.9437,6,,6872.9437,9999.0,Javier,Nichols,,javier.nichols@msn.com,8944 Marconi St.,Rowlett,TX,75088
+315,1,2258.1215,6,,2258.1215,9999.0,Justina,Jenkins,,justina.jenkins@yahoo.com,8236 Creek St.,Baldwin,NY,11510
+316,1,6815.9474,6,,6815.9474,9999.0,Hortencia,Graham,,hortencia.graham@aol.com,7764 Greenrose Street,Euless,TX,76039
+317,1,1543.7628,4,,1543.7628,9999.0,Christia,Wilkins,,christia.wilkins@msn.com,7062 Willow Court,Woodside,NY,11377
+318,1,1662.0538999999999,5,,1662.0538999999999,9999.0,Eliz,Whitney,,eliz.whitney@msn.com,523 Crescent Court,Fullerton,CA,92831
+319,1,2337.4625,4,,2337.4625,9999.0,Justin,Newton,,justin.newton@hotmail.com,93 Shore Rd.,Apple Valley,CA,92307
+320,1,10047.424500000001,3,2017-03-12,10047.424500000001,635.0,Aron,Wiggins,(442) 497-3353,aron.wiggins@aol.com,6 Bradford St.,Oceanside,NY,11572
+321,1,1165.0810000000001,3,2016-06-11,1165.0810000000001,909.0,Chere,Hardin,,chere.hardin@yahoo.com,763 Fulton Road,Brooklyn,NY,11201
+322,1,11832.4539,5,,11832.4539,9999.0,Merideth,Preston,,merideth.preston@yahoo.com,794 Rockaway St.,Poughkeepsie,NY,12601
+323,1,2699.991,1,2018-09-02,2699.991,96.0,Jeniffer,Slater,,jeniffer.slater@aol.com,30 Old Orange Lane,Schenectady,NY,12302
+324,1,2165.0816999999997,4,2016-04-01,2165.0816999999997,980.0,Laureen,Paul,,laureen.paul@yahoo.com,617 Squaw Creek Rd.,Bellmore,NY,11710
+325,1,949.9905,1,2017-12-08,949.9905,364.0,Berna,Moore,,berna.moore@hotmail.com,7230 Lafayette Drive,Bronx,NY,10451
+326,1,2768.3634,6,,2768.3634,9999.0,Shiela,Calderon,,shiela.calderon@msn.com,844 Albany St.,Rocklin,CA,95677
+327,1,5716.596,9,,5716.596,9999.0,Sharie,Alvarez,(212) 211-7621,sharie.alvarez@msn.com,987 West Leatherwood Dr.,New York,NY,10002
+328,1,8740.966,4,,8740.966,9999.0,Bettie,Glover,,bettie.glover@gmail.com,9083 Addison Dr.,Euless,TX,76039
+329,1,9499.981,2,,9499.981,9999.0,Marilyn,Frank,,marilyn.frank@aol.com,8878 Branch Street,Port Chester,NY,10573
+330,1,11972.9271,8,,11972.9271,9999.0,Sheba,Knapp,,sheba.knapp@aol.com,86 Gates Street,Woodside,NY,11377
+331,1,1929.514,7,,1929.514,9999.0,Aleta,Mack,,aleta.mack@yahoo.com,8869 W. Edgemont Lane,Bay Shore,NY,11706
+332,1,5728.9344,5,,5728.9344,9999.0,Reena,Higgins,,reena.higgins@gmail.com,900 South Columbia Street,Canyon Country,CA,91387
+333,1,2840.0461,6,2017-12-11,2840.0461,361.0,Ami,Mcmahon,,ami.mcmahon@aol.com,566 Hilldale Drive,Sunnyside,NY,11104
+334,1,12663.956,5,2017-08-09,12663.956,485.0,Somer,Jordan,,somer.jordan@msn.com,7046 Helen Avenue,Huntington Station,NY,11746
+335,1,4147.662,4,2017-05-03,4147.662,583.0,Scarlet,Reed,,scarlet.reed@hotmail.com,151 S. Myers Court,Bronx,NY,10451
+336,1,754.5812,2,2016-02-03,754.5812,1038.0,Trisha,Johnson,(717) 126-8787,trisha.johnson@msn.com,59 Wild Horse St.,Lancaster,NY,14086
+337,1,5119.354,7,,5119.354,9999.0,Majorie,Wyatt,,majorie.wyatt@yahoo.com,8507 Miller St.,South Ozone Park,NY,11420
+338,1,4132.992,3,2016-08-04,4132.992,855.0,Abbey,Pugh,,abbey.pugh@gmail.com,26 Market Drive,Forest Hills,NY,11375
+339,1,17479.957000000002,5,,17479.957000000002,9999.0,Tamela,Harrell,,tamela.harrell@aol.com,7316 Cypress Rd.,Central Islip,NY,11722
+340,1,9157.756,5,,9157.756,9999.0,Yanira,Bradshaw,,yanira.bradshaw@gmail.com,7484 Ann Court,Smithtown,NY,11787
+341,1,1199.984,2,2016-02-11,1199.984,1030.0,Delana,Scott,,delana.scott@yahoo.com,7372 Ridgeview St.,Mount Vernon,NY,10550
+342,1,269.991,1,,269.991,9999.0,Cassondra,Pruitt,,cassondra.pruitt@aol.com,4 Alderwood Circle,Merrick,NY,11566
+343,1,1800.4814999999999,2,2017-02-02,1800.4814999999999,673.0,Jesica,Fields,,jesica.fields@yahoo.com,318 Country Dr.,Commack,NY,11725
+344,1,4464.6642,7,,4464.6642,9999.0,Herta,Rollins,,herta.rollins@msn.com,287 1st Drive,Mountain View,CA,94043
+345,1,9728.9827,2,,9728.9827,9999.0,Mi,Gray,(229) 813-2130,mi.gray@aol.com,27 Roehampton Dr.,Albany,NY,12203
+346,1,502.1907,1,2017-11-11,502.1907,391.0,Jacalyn,Barnett,,jacalyn.barnett@gmail.com,7537 Swanson Street,Maspeth,NY,11378
+347,1,225.891,1,,225.891,9999.0,Kanesha,Hudson,(510) 788-7298,kanesha.hudson@gmail.com,8293 Gartner Drive,Oakland,CA,94603
+348,1,3223.1839999999997,3,,3223.1839999999997,9999.0,Darren,Witt,,darren.witt@aol.com,916 Hillcrest Ave.,Coachella,CA,92236
+349,1,6912.1714999999995,3,,6912.1714999999995,9999.0,Mable,Pratt,,mable.pratt@gmail.com,254 SW. Temple Street,Coachella,CA,92236
+350,1,11462.5954,7,,11462.5954,9999.0,Christoper,Mccall,,christoper.mccall@msn.com,72 Summit St.,Bay Shore,NY,11706
+351,1,8498.463,5,,8498.463,9999.0,Margorie,Wynn,,margorie.wynn@gmail.com,707 Schoolhouse St.,Monsey,NY,10952
+352,1,5925.5601,7,,5925.5601,9999.0,Josef,Greer,,josef.greer@gmail.com,92 Summer Court,Jamaica,NY,11432
+353,1,3196.2044,4,,3196.2044,9999.0,Tisa,Whitney,,tisa.whitney@yahoo.com,549 Newbridge Dr.,Monsey,NY,10952
+354,1,7179.9832,5,,7179.9832,9999.0,Tonda,Armstrong,,tonda.armstrong@aol.com,19 Forest Rd.,Sunnyside,NY,11104
+355,1,3015.9719,3,,3015.9719,9999.0,Arvilla,Weiss,,arvilla.weiss@msn.com,477 Blue Spring St.,Bay Shore,NY,11706
+356,1,9865.4727,3,,9865.4727,9999.0,Vashti,Rosario,,vashti.rosario@yahoo.com,623 Johnson Circle,Bronx,NY,10451
+357,1,1970.5907,5,2016-03-04,1970.5907,1008.0,Sheri,Cole,(408) 658-2285,sheri.cole@aol.com,479 Chapel Court,San Jose,CA,95127
+358,1,3247.2479999999996,6,2017-02-05,3247.2479999999996,670.0,Kandace,Giles,,kandace.giles@msn.com,30 NE. Walt Whitman Drive,Wantagh,NY,11793
+359,1,1990.1628,4,2016-04-09,1990.1628,972.0,Angie,Powers,,angie.powers@aol.com,6 Rockland Dr.,Pomona,CA,91768
+360,1,6448.2907,5,,6448.2907,9999.0,Van,Peters,(281) 658-7772,van.peters@yahoo.com,45 Fifth Dr.,Houston,TX,77016
+361,1,5154.146699999999,6,,5154.146699999999,9999.0,Virgina,Berg,,virgina.berg@yahoo.com,804 South Purple Finch Drive,Valley Stream,NY,11580
+362,1,3997.9747,3,,3997.9747,9999.0,Olevia,Noel,,olevia.noel@yahoo.com,39 N. Rosewood Dr.,Kingston,NY,12401
+363,1,242.991,1,2016-10-05,242.991,793.0,Kaci,Gallegos,,kaci.gallegos@gmail.com,8573 Halifax St.,Ballston Spa,NY,12020
+364,1,5291.965,4,2018-04-03,5291.965,248.0,Bev,Chang,,bev.chang@yahoo.com,104 Rockville St.,Ithaca,NY,14850
+365,1,1758.5140000000001,5,,1758.5140000000001,9999.0,Rodger,Rojas,,rodger.rojas@yahoo.com,8442 Cooper Ave.,Bayside,NY,11361
+366,1,6744.773999999999,3,,6744.773999999999,9999.0,Lavonne,Anderson,,lavonne.anderson@aol.com,9420 Wintergreen Court,Floral Park,NY,11001
+367,1,6602.950500000001,6,,6602.950500000001,9999.0,Blanca,Hooper,,blanca.hooper@msn.com,340 Bald Hill St.,Ozone Park,NY,11417
+368,1,751.984,2,,751.984,9999.0,Alysha,Powers,,alysha.powers@msn.com,39 West Marshall Ave.,Forest Hills,NY,11375
+369,1,1536.1215,3,,1536.1215,9999.0,Mary,Singleton,,mary.singleton@hotmail.com,474 Amerige Ave.,Woodside,NY,11377
+370,1,521.9817,2,,521.9817,9999.0,Jina,Cooper,,jina.cooper@aol.com,8947 W. Lexington Rd.,Howard Beach,NY,11414
+371,1,1619.991,1,2016-02-04,1619.991,1037.0,Loni,Duncan,,loni.duncan@gmail.com,80 Saxton Lane,Rosedale,NY,11422
+372,1,6578.965400000001,4,,6578.965400000001,9999.0,Collene,Roman,,collene.roman@aol.com,30 North Argyle Dr.,Wappingers Falls,NY,12590
+373,1,949.981,2,2016-12-08,949.981,729.0,Mariette,Trevino,,mariette.trevino@aol.com,4 Border Court,Utica,NY,13501
+374,1,14735.4152,7,,14735.4152,9999.0,Candelaria,Coffey,,candelaria.coffey@aol.com,45 Newport Lane,Merrick,NY,11566
+375,1,11391.43,8,,11391.43,9999.0,Yan,Trevino,,yan.trevino@gmail.com,796 Jefferson Rd.,Uniondale,NY,11553
+376,1,2136.531,3,,2136.531,9999.0,Elanor,Patrick,,elanor.patrick@aol.com,51 Howard Ave.,Victoria,TX,77904
+377,1,755.972,3,,755.972,9999.0,Klara,Mosley,,klara.mosley@gmail.com,518 Devon Court,Port Chester,NY,10573
+378,1,464.9907,1,,464.9907,9999.0,Rosalba,O'Neal,,rosalba.o'neal@yahoo.com,7517 Pennsylvania St.,Mount Vernon,NY,10550
+379,1,6671.6012,2,,6671.6012,9999.0,Mina,Carrillo,,mina.carrillo@aol.com,8659 Trenton Lane,Uniondale,NY,11553
+380,1,2787.959,7,2017-01-02,2787.959,704.0,Alesia,Horne,,alesia.horne@aol.com,9229 Amherst Lane,Selden,NY,11784
+381,1,888.2814000000001,3,2016-10-02,888.2814000000001,796.0,Kristen,Alvarez,,kristen.alvarez@aol.com,9778 North River St.,Bronx,NY,10451
+382,1,861.0117,2,,861.0117,9999.0,Collin,Webster,,collin.webster@aol.com,475 Cottage Rd.,Howard Beach,NY,11414
+383,1,17305.9384,7,,17305.9384,9999.0,Ashlee,Pena,,ashlee.pena@aol.com,966 Highland St.,Whitestone,NY,11357
+384,1,8096.4455,6,,8096.4455,9999.0,Aimee,Merritt,,aimee.merritt@yahoo.com,537 East Meadowbrook St.,Flushing,NY,11354
+385,1,2427.9566999999997,5,,2427.9566999999997,9999.0,Rochelle,Ward,,rochelle.ward@yahoo.com,7855 La Sierra Street,Glendora,CA,91740
+386,1,4012.6457,6,2017-05-05,4012.6457,581.0,Nelle,Beck,,nelle.beck@aol.com,8998 Wakehurst Drive,Upland,CA,91784
+387,1,1367.984,2,,1367.984,9999.0,Kaila,Walters,,kaila.walters@msn.com,57 Gates Drive,Elmhurst,NY,11373
+388,1,418.4907,1,2017-06-09,418.4907,546.0,Aleta,Stone,,aleta.stone@aol.com,8 Elm Dr.,Whitestone,NY,11357
+389,1,877.9812,2,,877.9812,9999.0,Leif,Short,,leif.short@gmail.com,962 Carpenter Ave.,San Angelo,TX,76901
+390,1,7439.9814,2,,7439.9814,9999.0,Lorrie,Pollard,,lorrie.pollard@yahoo.com,7834 Shore Ave.,Ronkonkoma,NY,11779
+391,1,269.991,1,2017-02-03,269.991,672.0,Vernita,Ball,,vernita.ball@gmail.com,126 Arnold Dr.,Los Banos,CA,93635
+392,1,1681.974,3,,1681.974,9999.0,Cyndi,Bush,,cyndi.bush@gmail.com,18 Smoky Hollow Drive,Elmhurst,NY,11373
+393,1,2379.973,3,,2379.973,9999.0,Gertrude,Terry,,gertrude.terry@hotmail.com,34 Airport Dr.,Upland,CA,91784
+394,1,7184.9724,3,2017-03-05,7184.9724,642.0,Virgen,Clemons,,virgen.clemons@gmail.com,354 Cactus Drive,South El Monte,CA,91733
+395,1,4041.1537,6,,4041.1537,9999.0,Fairy,Robinson,,fairy.robinson@msn.com,8837 Joy Ridge St.,Liverpool,NY,13090
+396,1,4699.9556999999995,5,,4699.9556999999995,9999.0,Laverna,Hernandez,,laverna.hernandez@hotmail.com,34 South Longfellow St.,Niagara Falls,NY,14304
+397,1,1378.182,3,,1378.182,9999.0,Jeannie,Wilcox,,jeannie.wilcox@yahoo.com,7744 Miles Dr.,Franklin Square,NY,11010
+398,1,1139.981,2,2016-06-09,1139.981,911.0,Suellen,Mercado,,suellen.mercado@yahoo.com,3 Taylor Drive,Sunnyside,NY,11104
+399,1,1331.9733999999999,3,,1331.9733999999999,9999.0,Bart,Hess,,bart.hess@aol.com,799 N. Maiden Street,Kingston,NY,12401
+400,1,4766.8345,7,,4766.8345,9999.0,Alfredo,Dodson,,alfredo.dodson@hotmail.com,8960 Glenholme Dr.,Depew,NY,14043
+401,1,256.4905,1,2016-12-10,256.4905,727.0,Shaunda,Barnett,,shaunda.barnett@gmail.com,9366 San Carlos Lane,Longview,TX,75604
+402,1,2282.965,4,,2282.965,9999.0,Kerrie,Morton,,kerrie.morton@hotmail.com,8772 State St.,Pittsford,NY,14534
+403,1,10866.9622,4,,10866.9622,9999.0,Elouise,Fry,,elouise.fry@aol.com,49 Bohemia Street,Canyon Country,CA,91387
+404,1,519.984,2,,519.984,9999.0,Augustus,Steele,,augustus.steele@aol.com,7474 N. Orchard St.,Ballston Spa,NY,12020
+405,1,1245.973,3,,1245.973,9999.0,Greta,Page,,greta.page@hotmail.com,8316 Augusta Drive,Commack,NY,11725
+406,1,1139.981,2,2017-12-04,1139.981,368.0,Kerrie,O'Neill,,kerrie.o'neill@gmail.com,69 Wellington Ave.,Shirley,NY,11967
+407,1,7719.957,5,,7719.957,9999.0,Dannette,Guerrero,,dannette.guerrero@gmail.com,68 Carriage Street,San Pablo,CA,94806
+408,1,2297.7575,5,,2297.7575,9999.0,Edra,Fitzgerald,,edra.fitzgerald@msn.com,8892 Birchwood St.,Central Islip,NY,11722
+409,1,728.973,3,,728.973,9999.0,Jerome,Bolton,,jerome.bolton@msn.com,9921 Argyle Street,Carmel,NY,10512
+410,1,5478.9485,6,,5478.9485,9999.0,Conception,Slater,,conception.slater@gmail.com,5 Sunset Street,Bellmore,NY,11710
+411,1,9673.8444,6,,9673.8444,9999.0,Octavia,Case,(212) 171-1335,octavia.case@aol.com,40 Charles Road,New York,NY,10002
+412,1,2963.981,2,,2963.981,9999.0,Dexter,Roberts,,dexter.roberts@gmail.com,84 Thatcher Court,Sunnyside,NY,11104
+413,1,5225.9475,6,2016-06-06,5225.9475,914.0,Ginette,Edwards,,ginette.edwards@hotmail.com,9262 NW. Center Ave.,Baldwin,NY,11510
+414,1,1337.0817,2,,1337.0817,9999.0,Romaine,Haley,,romaine.haley@aol.com,737 Edgefield Drive,Ithaca,NY,14850
+415,1,11349.957400000001,5,2017-06-04,11349.957400000001,551.0,Gwendolyn,Miller,,gwendolyn.miller@msn.com,90 Fordham Ave.,Harlingen,TX,78552
+416,1,1709.3652,4,2016-01-09,1709.3652,1063.0,Luke,Fuller,(516) 363-2253,luke.fuller@hotmail.com,576 Cleveland Lane,Hempstead,NY,11550
+417,1,7004.841,7,2017-08-02,7004.841,492.0,Zoraida,Patton,,zoraida.patton@aol.com,95 Grand Dr.,Huntington Station,NY,11746
+418,1,593.991,1,,593.991,9999.0,Georgeanna,Webster,(805) 885-8830,georgeanna.webster@msn.com,40 Creekside Circle,Oxnard,CA,93035
+419,1,1613.3946999999998,4,2017-09-07,1613.3946999999998,456.0,Krystin,Marshall,,krystin.marshall@hotmail.com,10 Old Proctor Lane,Poughkeepsie,NY,12601
+420,1,8204.530200000001,8,,8204.530200000001,9999.0,Vince,Schneider,,vince.schneider@hotmail.com,473 Corona Ave.,Merrick,NY,11566
+421,1,9838.4455,6,2016-06-10,9838.4455,910.0,Iola,Rasmussen,,iola.rasmussen@yahoo.com,283 N. Manor Station Dr.,Monroe,NY,10950
+422,1,872.0820000000001,3,2016-04-03,872.0820000000001,978.0,Valery,Saunders,,valery.saunders@msn.com,42 Marlborough St.,Victoria,TX,77904
+423,1,599.992,1,,599.992,9999.0,Johna,Powers,,johna.powers@hotmail.com,379 Central Ave.,Deer Park,NY,11729
+424,1,1490.2907,2,2016-09-07,1490.2907,821.0,Charleen,Hurst,,charleen.hurst@yahoo.com,87 Country Avenue,Utica,NY,13501
+425,1,20509.4254,8,2018-07-01,20509.4254,159.0,Augustina,Joyner,,augustina.joyner@aol.com,7931 Honey Creek Court,Mount Vernon,NY,10550
+426,1,6023.9545,5,,6023.9545,9999.0,Daisy,Ward,,daisy.ward@msn.com,45 Silver Spear Ave.,Pomona,CA,91768
+427,1,3149.991,1,,3149.991,9999.0,Latonya,Dixon,,latonya.dixon@hotmail.com,9399 Evergreen Street,Garland,TX,75043
+428,1,5062.3384,7,,5062.3384,9999.0,Hipolito,Padilla,,hipolito.padilla@hotmail.com,311 E. Rose Avenue,New Rochelle,NY,10801
+429,1,3194.082,3,,3194.082,9999.0,Emmett,Casey,,emmett.casey@yahoo.com,893 Logan St.,Valley Stream,NY,11580
+430,1,1847.0647,4,,1847.0647,9999.0,Kandi,Mcneil,,kandi.mcneil@msn.com,402 Border Street,Massapequa Park,NY,11762
+431,1,1999.3494,6,2017-11-04,1999.3494,398.0,Luciano,Marsh,,luciano.marsh@aol.com,7685 South Willow Drive,Bellmore,NY,11710
+432,1,3489.9734000000003,3,,3489.9734000000003,9999.0,Julius,Holt,,julius.holt@aol.com,386 Lower River Street,East Meadow,NY,11554
+433,1,1601.3717,3,,1601.3717,9999.0,Holly,Nieves,,holly.nieves@aol.com,60 Cleveland St.,Longview,TX,75604
+434,1,3092.9447999999998,6,2016-09-09,3092.9447999999998,819.0,Douglass,Little,,douglass.little@hotmail.com,294 Harvey Drive,Duarte,CA,91010
+435,1,3439.4575,5,,3439.4575,9999.0,Izola,Hobbs,,izola.hobbs@gmail.com,685 Beacon Dr.,Woodhaven,NY,11421
+436,1,2200.8641,4,2017-02-07,2200.8641,668.0,Honey,Camacho,,honey.camacho@gmail.com,934 2nd St.,Bayside,NY,11361
+437,1,3859.928,8,,3859.928,9999.0,Laureen,Barry,,laureen.barry@yahoo.com,909 Ridge St.,Orchard Park,NY,14127
+438,1,1455.974,3,,1455.974,9999.0,Katharine,Herrera,,katharine.herrera@hotmail.com,395 SE. Branch St.,Queensbury,NY,12804
+439,1,2789.9907,1,2017-08-01,2789.9907,493.0,Sunshine,Rosario,,sunshine.rosario@aol.com,1 Chestnut Lane,Jamaica,NY,11432
+440,1,4863.968,4,,4863.968,9999.0,Yevette,Todd,,yevette.todd@aol.com,119 Lakewood Rd.,Ballston Spa,NY,12020
+441,1,12965.7468,6,2016-07-08,12965.7468,882.0,Dorthea,Walker,,dorthea.walker@aol.com,11 Third St.,Port Washington,NY,11050
+442,1,242.991,1,2016-05-01,242.991,950.0,Alane,Munoz,(914) 706-7576,alane.munoz@gmail.com,8 Strawberry Dr.,Yonkers,NY,10701
+443,1,4685.0969,6,2018-04-01,4685.0969,250.0,Ayana,Keith,(805) 230-2101,ayana.keith@hotmail.com,182 Thorne Road,Oxnard,CA,93035
+444,1,8945.75,6,,8945.75,9999.0,Caridad,Compton,,caridad.compton@aol.com,9575 SW. Kingston Court,San Lorenzo,CA,94580
+445,1,1599.984,2,,1599.984,9999.0,Earline,Ballard,,earline.ballard@hotmail.com,939 Lyme Road,Mount Vernon,NY,10550
+446,1,377.982,2,,377.982,9999.0,Nathanael,Bradley,,nathanael.bradley@aol.com,58 Third St.,Amsterdam,NY,12010
+447,1,5080.6230000000005,6,,5080.6230000000005,9999.0,Chasidy,Tran,,chasidy.tran@msn.com,9286 Anderson Street,Vista,CA,92083
+448,1,513.3507,1,2017-11-03,513.3507,399.0,Janella,Bright,(507) 616-2958,janella.bright@aol.com,7317 Tower Dr.,Rochester,NY,14606
+449,1,1894.541,2,2016-02-10,1894.541,1031.0,Josie,Schultz,,josie.schultz@hotmail.com,225 Mammoth Street,Canyon Country,CA,91387
+450,1,4030.0561000000002,7,2016-09-01,4030.0561000000002,827.0,Ellsworth,Michael,,ellsworth.michael@yahoo.com,9982 White St.,Carmel,NY,10512
+451,1,359.2,1,,359.2,9999.0,Jennette,Wooten,,jennette.wooten@msn.com,8221 Bow Ridge Lane,Rowlett,TX,75088
+452,1,377.982,2,,377.982,9999.0,Cassandra,Nichols,,cassandra.nichols@yahoo.com,4 Glenwood Circle,Hicksville,NY,11801
+453,1,7823.9439999999995,7,,7823.9439999999995,9999.0,Courtney,Wyatt,,courtney.wyatt@gmail.com,369 Arrowhead St.,Garden City,NY,11530
+454,1,464.9907,1,,464.9907,9999.0,Terese,Palmer,,terese.palmer@hotmail.com,8 Sugar Drive,Bay Shore,NY,11706
+455,1,719.984,2,,719.984,9999.0,Sherita,Cherry,,sherita.cherry@gmail.com,9636 Old Cedarwood Street,Liverpool,NY,13090
+456,1,1690.6635,4,2017-12-08,1690.6635,364.0,Serina,Hensley,,serina.hensley@yahoo.com,53 Proctor Drive,Jamaica,NY,11432
+457,1,377.982,2,,377.982,9999.0,Jeni,Farley,,jeni.farley@aol.com,4 Mill Lane,Richmond Hill,NY,11418
+458,1,1304.975,3,,1304.975,9999.0,Everett,Vega,,everett.vega@yahoo.com,7859 James Ave.,Holbrook,NY,11741
+459,1,4877.406,6,,4877.406,9999.0,Latosha,Dalton,(661) 529-4501,latosha.dalton@yahoo.com,59 E. Wintergreen Ave.,Bakersfield,CA,93306
+460,1,5440.3624,4,2017-10-08,5440.3624,425.0,Romelia,Myers,,romelia.myers@msn.com,8630 Brook St.,Garden City,NY,11530
+461,1,5768.214400000001,5,,5768.214400000001,9999.0,Effie,Jenkins,(631) 477-1277,effie.jenkins@msn.com,75 South Glen Eagles Court,Brentwood,NY,11717
+462,1,11463.958,5,2017-06-11,11463.958,544.0,Efren,Oliver,,efren.oliver@gmail.com,9343 1st Rd.,Nanuet,NY,10954
+463,1,10266.9542,5,,10266.9542,9999.0,Jerlene,Rios,,jerlene.rios@yahoo.com,32 Griffin St.,Plainview,NY,11803
+464,1,18853.3544,7,,18853.3544,9999.0,Bess,Mcbride,,bess.mcbride@yahoo.com,9832 Winchester St.,Garden City,NY,11530
+465,1,1382.972,3,2016-06-10,1382.972,910.0,Birdie,Kramer,(248) 725-2174,birdie.kramer@hotmail.com,311 Newcastle Dr.,Troy,NY,12180
+466,1,2113.584,2,,2113.584,9999.0,Collen,Hayes,,collen.hayes@yahoo.com,117 Eagle St.,Smithtown,NY,11787
+467,1,2357.9642,4,,2357.9642,9999.0,Clare,Neal,,clare.neal@msn.com,8922 Shady Ave.,Mahopac,NY,10541
+468,1,962.973,3,,962.973,9999.0,Jeanett,Herman,,jeanett.herman@hotmail.com,839 East Arch Street,Lindenhurst,NY,11757
+469,1,3511.7383999999997,7,2016-08-03,3511.7383999999997,856.0,Micki,Rutledge,,micki.rutledge@aol.com,9868 Marvon Street,Richmond Hill,NY,11418
+470,1,3270.2309999999998,5,2016-09-11,3270.2309999999998,817.0,Loise,Walker,,loise.walker@aol.com,201 Glen Eagles St.,Shirley,NY,11967
+471,1,569.9905,1,2016-10-03,569.9905,795.0,Burma,Summers,,burma.summers@yahoo.com,890 East Elmwood Street,Freeport,NY,11520
+472,1,7350.4645,4,2017-05-06,7350.4645,580.0,Myron,Ruiz,,myron.ruiz@gmail.com,45 Shadow Brook Lane,Amityville,NY,11701
+473,1,11596.4289,8,,11596.4289,9999.0,Lashawna,Richardson,,lashawna.richardson@hotmail.com,9920 Purple Finch St.,Baldwin,NY,11510
+474,1,3644.045,4,2018-04-03,3644.045,248.0,Lavern,Orr,,lavern.orr@hotmail.com,913 N. Young Street,Webster,NY,14580
+475,1,1139.981,2,,1139.981,9999.0,Alec,Peck,,alec.peck@hotmail.com,4 W. Belmont St.,Victoria,TX,77904
+476,1,1394.9814,2,,1394.9814,9999.0,Christopher,Richardson,,christopher.richardson@gmail.com,7846 Windfall Dr.,Santa Cruz,CA,95060
+477,1,1044.981,2,,1044.981,9999.0,Arminda,Weber,,arminda.weber@yahoo.com,6 Hill Field St.,Bellmore,NY,11710
+478,1,4700.0627,4,,4700.0627,9999.0,Emmett,Hahn,,emmett.hahn@hotmail.com,7727 6th St.,Freeport,NY,11520
+479,1,8109.950500000001,6,,8109.950500000001,9999.0,Gertha,Mejia,,gertha.mejia@yahoo.com,518 Orchard St.,Flushing,NY,11354
+480,1,3074.2065000000002,7,,3074.2065000000002,9999.0,Garland,Weaver,,garland.weaver@gmail.com,7161 Goldfield Court,Amsterdam,NY,12010
+481,1,6947.9474,6,2016-04-10,6947.9474,971.0,Jayson,Rutledge,,jayson.rutledge@yahoo.com,8672 Coffee St.,Lake Jackson,TX,77566
+482,1,279.992,1,2017-01-11,279.992,695.0,Narcisa,Knapp,,narcisa.knapp@aol.com,435 Dogwood Dr.,Amarillo,TX,79106
+483,1,1519.2,1,2018-11-03,1519.2,34.0,Gayla,Sims,,gayla.sims@gmail.com,98 Hall Street,Lindenhurst,NY,11757
+484,1,6332.9424,4,,6332.9424,9999.0,Chelsey,Boyd,,chelsey.boyd@yahoo.com,9569 Birchpond Ave.,Euless,TX,76039
+485,1,1635.5468,6,2017-11-07,1635.5468,395.0,Catherine,Miles,,catherine.miles@msn.com,7189 Elm Dr.,East Elmhurst,NY,11369
+486,1,5834.1357,6,,5834.1357,9999.0,Valeri,Marshall,,valeri.marshall@hotmail.com,494 East Brewery Dr.,East Meadow,NY,11554
+487,1,1450.023,4,2016-06-12,1450.023,908.0,Grace,Madden,,grace.madden@gmail.com,606 East Rocky River St.,San Pablo,CA,94806
+488,1,6259.265,4,2018-07-02,6259.265,158.0,Joaquin,Hawkins,(657) 557-1746,joaquin.hawkins@aol.com,3 Oklahoma Lane,Anaheim,CA,92806
+489,1,2853.9629999999997,4,,2853.9629999999997,9999.0,Kirstie,Vazquez,,kirstie.vazquez@gmail.com,8006 Rockland Ave.,Saratoga Springs,NY,12866
+490,1,6804.9580000000005,5,,6804.9580000000005,9999.0,Yu,Mcdonald,,yu.mcdonald@aol.com,784 Pheasant Rd.,Ossining,NY,10562
+491,1,6971.5536999999995,5,2018-11-02,6971.5536999999995,35.0,Celestine,Jacobs,,celestine.jacobs@gmail.com,87 Hanover Rd.,Massapequa,NY,11758
+492,1,9927.5559,7,,9927.5559,9999.0,Justa,Thompson,,justa.thompson@aol.com,43 Manor Ave.,Corona,NY,11368
+493,1,576.7917,2,,576.7917,9999.0,Lise,Alvarado,,lise.alvarado@gmail.com,9816 Newcastle Dr.,Hamburg,NY,14075
+494,1,1494.9554,5,,1494.9554,9999.0,Pearl,Fox,,pearl.fox@yahoo.com,9415 Honey Creek Dr.,Uniondale,NY,11553
+495,1,2446.941,7,,2446.941,9999.0,Travis,Goodman,,travis.goodman@yahoo.com,65 Rockcrest Dr.,Los Banos,CA,93635
+496,1,8056.768,4,,8056.768,9999.0,Shu,Mays,,shu.mays@gmail.com,996 St Margarets Lane,Astoria,NY,11102
+497,1,2958.3021,3,,2958.3021,9999.0,Ezra,Fowler,,ezra.fowler@hotmail.com,16 Pearl St.,Nanuet,NY,10954
+498,1,3238.9624,4,,3238.9624,9999.0,Edda,Young,,edda.young@gmail.com,50 S. Airport Street,North Tonawanda,NY,14120
+499,1,9704.9449,6,,9704.9449,9999.0,Lidia,Ashley,,lidia.ashley@hotmail.com,8436 Meadow St.,Baldwinsville,NY,13027
+500,1,6196.6444,6,,6196.6444,9999.0,Moira,Lester,,moira.lester@msn.com,496 Greystone Court,Jackson Heights,NY,11372
+501,1,712.4905,1,,712.4905,9999.0,Tony,Hicks,(657) 260-6783,tony.hicks@gmail.com,226 Carriage Street,Anaheim,CA,92806
+502,1,2312.4447,6,,2312.4447,9999.0,Malinda,Baxter,,malinda.baxter@yahoo.com,7698 Briarwood Ave.,Whitestone,NY,11357
+503,1,13242.962,4,,13242.962,9999.0,Marlo,Jefferson,,marlo.jefferson@gmail.com,39 Trenton Rd.,Niagara Falls,NY,14304
+504,1,1200.542,4,2016-05-02,1200.542,949.0,Tiana,Henderson,,tiana.henderson@aol.com,62 Orange St.,Franklin Square,NY,11010
+505,1,6813.7535,5,,6813.7535,9999.0,Wilda,Petersen,,wilda.petersen@aol.com,899 Helen St.,Jamaica,NY,11432
+506,1,8359.216,6,,8359.216,9999.0,Irving,Pitts,,irving.pitts@msn.com,346 College Court,Torrance,CA,90505
+507,1,3022.8714999999997,3,2017-11-05,3022.8714999999997,397.0,Sheree,Pena,,sheree.pena@yahoo.com,822 Virginia Court,Staten Island,NY,10301
+508,1,697.4907,1,,697.4907,9999.0,Vance,Taylor,(717) 218-5607,vance.taylor@msn.com,8279 Military Dr.,Lancaster,NY,14086
+509,1,11787.553300000001,5,,11787.553300000001,9999.0,Terra,Pickett,,terra.pickett@aol.com,7822 Depot Avenue,Amsterdam,NY,12010
+510,1,2346.6624,4,2016-03-06,2346.6624,1006.0,Faustino,Delacruz,,faustino.delacruz@msn.com,88 West Greenview Street,South Richmond Hill,NY,11419
+511,1,1277.966,4,,1277.966,9999.0,Julienne,Moody,(682) 841-4643,julienne.moody@hotmail.com,35 South Oxford Rd.,Fort Worth,TX,76110
+512,1,3509.973,3,2017-03-01,3509.973,646.0,Hee,Greer,,hee.greer@hotmail.com,41 North Garfield Ave.,Selden,NY,11784
+513,1,458.983,2,2016-05-10,458.983,941.0,Whitney,Cash,,whitney.cash@gmail.com,8 Surrey Street,Hamburg,NY,14075
+514,1,242.991,1,2016-07-05,242.991,885.0,Clarita,Curry,,clarita.curry@hotmail.com,661 Tanglewood Street,Hollis,NY,11423
+515,1,3766.6347,5,,3766.6347,9999.0,Reita,Dickson,,reita.dickson@hotmail.com,7506 Mechanic Dr.,Scarsdale,NY,10583
+516,1,1499.966,4,,1499.966,9999.0,Rosa,Kinney,,rosa.kinney@yahoo.com,330 Highland Drive,Brooklyn,NY,11201
+517,1,9044.927,6,,9044.927,9999.0,Buford,Gilbert,,buford.gilbert@yahoo.com,9 East Ketch Harbour Street,Bellmore,NY,11710
+518,1,3039.981,2,,3039.981,9999.0,Homer,Powers,,homer.powers@msn.com,8207 East El Dorado Ave.,Palos Verdes Peninsula,CA,90274
+519,1,2747.2394999999997,7,,2747.2394999999997,9999.0,Rudolf,Gilliam,,rudolf.gilliam@aol.com,17 Marlborough Circle,Palos Verdes Peninsula,CA,90274
+520,1,2754.9905,1,,2754.9905,9999.0,Andreas,Herman,,andreas.herman@msn.com,456 Rock Creek Street,Mount Vernon,NY,10550
+521,1,3998.362,6,,3998.362,9999.0,Max,Charles,,max.charles@gmail.com,695 St Paul Street,Glen Cove,NY,11542
+522,1,1196.9665,4,,1196.9665,9999.0,Tammera,Fischer,(510) 534-8845,tammera.fischer@hotmail.com,405 Olive St.,Oakland,CA,94603
+523,1,1519.981,2,2016-02-01,1519.981,1040.0,Joshua,Robertson,,joshua.robertson@gmail.com,81 Campfire Court,Patchogue,NY,11772
+524,1,5017.8551,5,2017-01-04,5017.8551,702.0,Larraine,Horn,,larraine.horn@msn.com,368 South Summerhouse Dr.,Utica,NY,13501
+525,1,18114.9309,8,,18114.9309,9999.0,Andreas,Mayer,,andreas.mayer@hotmail.com,8577 Galvin Circle,New Rochelle,NY,10801
+526,1,4422.94,8,2016-09-02,4422.94,826.0,Lazaro,Moran,,lazaro.moran@gmail.com,83 E. Buttonwood Street,Sugar Land,TX,77478
+527,1,4279.5725,5,,4279.5725,9999.0,Afton,Juarez,,afton.juarez@gmail.com,8330 Riverview Drive,Coram,NY,11727
+528,1,845.982,2,,845.982,9999.0,Angele,Schroeder,(845) 804-6312,angele.schroeder@yahoo.com,33 S. Shadow Brook Street,New City,NY,10956
+529,1,7568.0544,7,,7568.0544,9999.0,Ellena,Clements,,ellena.clements@aol.com,7918 Mulberry Street,Santa Monica,CA,90403
+530,1,5382.0464,6,2017-02-02,5382.0464,673.0,Selene,Austin,,selene.austin@msn.com,9042 Linda Circle,Duarte,CA,91010
+531,1,15087.2644,6,2017-06-03,15087.2644,552.0,Kimberely,Bowen,(248) 199-2582,kimberely.bowen@hotmail.com,88 Belmont Street,Troy,NY,12180
+532,1,527.984,2,2017-03-01,527.984,646.0,Mia,Delgado,,mia.delgado@yahoo.com,850 Wakehurst Drive,Coachella,CA,92236
+533,1,3346.0319,3,,3346.0319,9999.0,Garret,Clay,(361) 687-9477,garret.clay@yahoo.com,9516 College Drive,Corpus Christi,TX,78418
+534,1,16846.953999999998,5,2017-05-10,16846.953999999998,576.0,Alejandro,Haney,,alejandro.haney@msn.com,3 Griffin Street,Wantagh,NY,11793
+535,1,1759.976,3,2016-04-02,1759.976,979.0,Inge,Olsen,(562) 719-5041,inge.olsen@msn.com,295 Iroquois Rd.,Long Beach,NY,11561
+536,1,8376.9244,8,,8376.9244,9999.0,Christiane,Bradford,,christiane.bradford@gmail.com,9043 Woodland Ave.,Orchard Park,NY,14127
+537,1,4318.0054,8,,4318.0054,9999.0,Carter,Bentley,,carter.bentley@yahoo.com,145 North Bridle Ave.,Carmel,NY,10512
+538,1,7042.6723999999995,7,2016-08-12,7042.6723999999995,847.0,Sherie,Ayala,,sherie.ayala@msn.com,5 Beech Ave.,South El Monte,CA,91733
+539,1,269.991,1,2017-06-08,269.991,547.0,Jamika,Acevedo,,jamika.acevedo@yahoo.com,8027 NW. Poplar St.,Ozone Park,NY,11417
+540,1,7251.9655,4,2016-11-06,7251.9655,761.0,Shery,Randolph,,shery.randolph@hotmail.com,602 Laurel Street,Ontario,CA,91762
+541,1,11406.4285,8,,11406.4285,9999.0,Lanita,Burton,,lanita.burton@msn.com,8980 Aspen Avenue,Coachella,CA,92236
+542,1,2501.764,4,,2501.764,9999.0,Timothy,Byers,,timothy.byers@msn.com,8645 Devonshire Lane,Ronkonkoma,NY,11779
+543,1,10336.9624,4,2017-06-02,10336.9624,553.0,Jasmin,Young,,jasmin.young@gmail.com,337 Beach Street,Helotes,TX,78023
+544,1,9908.4642,4,2017-03-11,9908.4642,636.0,Catarina,Mendez,,catarina.mendez@hotmail.com,444 Hanover Court,West Islip,NY,11795
+545,1,7782.873,3,,7782.873,9999.0,Tajuana,Rollins,,tajuana.rollins@msn.com,724 N. Glen Creek Street,Oswego,NY,13126
+546,1,2197.9500000000003,6,,2197.9500000000003,9999.0,Thad,Castro,(631) 943-1407,thad.castro@msn.com,71 Surrey Ave.,Brentwood,NY,11717
+547,1,11183.043399999999,6,,11183.043399999999,9999.0,Tena,Huber,,tena.huber@gmail.com,185 East Littleton St.,Newburgh,NY,12550
+548,1,1949.6365,5,2017-08-10,1949.6365,484.0,Dori,Alvarez,,dori.alvarez@msn.com,8208 Brandywine St.,Kingston,NY,12401
+549,1,557.9907,1,,557.9907,9999.0,Elmo,Arnold,(562) 841-9339,elmo.arnold@aol.com,7616 Lyme Rd.,Long Beach,NY,11561
+550,1,10794.3537,5,2017-06-01,10794.3537,554.0,Felicidad,Golden,,felicidad.golden@yahoo.com,9712 Coffee Ave.,Lockport,NY,14094
+551,1,642.542,2,2016-03-08,642.542,1004.0,Jenine,Crane,(682) 183-6555,jenine.crane@msn.com,7381 Alderwood Drive,Fort Worth,TX,76110
+552,1,2449.7545999999998,5,2016-12-01,2449.7545999999998,736.0,Lea,Key,,lea.key@yahoo.com,7 Ocean St.,Banning,CA,92220
+553,1,2197.892,3,2016-01-10,2197.892,1062.0,Rory,Cooper,,rory.cooper@gmail.com,459 West Street,Rocklin,CA,95677
+554,1,4459.2184,9,,4459.2184,9999.0,Hilde,Nieves,,hilde.nieves@gmail.com,9437 Fordham Lane,Campbell,CA,95008
+555,1,4654.9529999999995,7,,4654.9529999999995,9999.0,Marry,Benjamin,,marry.benjamin@yahoo.com,33 Amerige Street,Forney,TX,75126
+556,1,1902.5629,4,,1902.5629,9999.0,Vernell,Goff,,vernell.goff@msn.com,77 Cobblestone St.,Monroe,NY,10950
+557,1,359.2,1,,359.2,9999.0,Erlene,Cook,,erlene.cook@gmail.com,89 Blue Spring Street,Mount Vernon,NY,10550
+558,1,431.984,2,,431.984,9999.0,Carroll,Kelly,,carroll.kelly@yahoo.com,346 Grant Circle,Monroe,NY,10950
+559,1,9408.7878,8,2016-01-10,9408.7878,1062.0,Basilia,Thornton,(631) 592-9548,basilia.thornton@hotmail.com,9033 Pine Dr.,Brentwood,NY,11717
+560,1,3502.4932,6,,3502.4932,9999.0,Tricia,Daniels,,tricia.daniels@gmail.com,8628 Crescent Court,Forney,TX,75126
+561,1,953.982,2,,953.982,9999.0,Kandace,Hughes,,kandace.hughes@hotmail.com,482 Ryan Ave.,San Lorenzo,CA,94580
+562,1,2509.881,2,2017-06-02,2509.881,553.0,Alejandro,Norman,,alejandro.norman@yahoo.com,8918 Marsh Lane,Upland,CA,91784
+563,1,1703.6815000000001,4,2016-05-02,1703.6815000000001,949.0,Rodney,Odom,,rodney.odom@yahoo.com,7782 North Deerfield Lane,Richmond Hill,NY,11418
+564,1,8392.9437,6,2017-09-03,8392.9437,460.0,Bettie,Pierce,,bettie.pierce@gmail.com,787 North Vernon Lane,Farmingdale,NY,11735
+565,1,5578.1307,3,,5578.1307,9999.0,Dagny,Owen,,dagny.owen@hotmail.com,8028 Thompson Drive,San Angelo,TX,76901
+566,1,4458.955,5,2018-03-03,4458.955,279.0,Cinthia,Poole,,cinthia.poole@aol.com,7 Central Ave.,Lake Jackson,TX,77566
+567,1,5579.962799999999,4,2018-01-01,5579.962799999999,340.0,Sheila,Travis,,sheila.travis@yahoo.com,9285 Front St.,Longview,TX,75604
+568,1,6479.944,7,,6479.944,9999.0,Arcelia,Vinson,,arcelia.vinson@gmail.com,40 Dogwood St.,West Islip,NY,11795
+569,1,7105.7751,6,,7105.7751,9999.0,Lucas,Estes,,lucas.estes@yahoo.com,99 Old Church St.,Santa Monica,CA,90403
+570,1,1556.7828,4,,1556.7828,9999.0,Marissa,Summers,,marissa.summers@msn.com,81 Carpenter St.,Saint Albans,NY,11412
+571,1,6578.9291,8,2017-09-11,6578.9291,452.0,Kaley,Blanchard,,kaley.blanchard@msn.com,74 Evergreen Court,Palos Verdes Peninsula,CA,90274
+572,1,930.981,2,2017-08-03,930.981,491.0,Wm,Pope,,wm.pope@msn.com,212 Marsh Court,Auburn,NY,13021
+573,1,1229.092,3,,1229.092,9999.0,Rubye,Mccall,(248) 764-3359,rubye.mccall@hotmail.com,71 Sherwood Dr.,Troy,NY,12180
+574,1,6462.4635,4,2016-08-04,6462.4635,855.0,Adriene,Rivera,,adriene.rivera@hotmail.com,973 Yukon Avenue,Encino,CA,91316
+575,1,2222.8722,3,,2222.8722,9999.0,Laurence,Christian,,laurence.christian@gmail.com,2 Maple St.,Jamaica,NY,11432
+576,1,10574.9624,4,,10574.9624,9999.0,Shirely,Stanley,(915) 437-6113,shirely.stanley@gmail.com,73 White Avenue,El Paso,TX,79930
+577,1,5909.6148,7,2016-12-03,5909.6148,734.0,Danille,Mcfarland,,danille.mcfarland@msn.com,14 Tailwater St.,Rocklin,CA,95677
+578,1,8342.939,7,,8342.939,9999.0,Salena,Day,,salena.day@msn.com,8067 Park Court,San Lorenzo,CA,94580
+579,1,6397.4717,3,2016-08-06,6397.4717,853.0,Matilda,Larson,,matilda.larson@hotmail.com,336 Saxon Court,Harlingen,TX,78552
+580,1,2975.9907,1,2018-11-01,2975.9907,36.0,Mellisa,Kim,(424) 151-6481,mellisa.kim@aol.com,17 Lyme Dr.,Los Angeles,CA,90008
+581,1,7824.040099999999,8,,7824.040099999999,9999.0,Vonda,Berger,,vonda.berger@yahoo.com,615 S. Proctor Ave.,Santa Clara,CA,95050
+582,1,3168.5541,5,,3168.5541,9999.0,Soledad,Moses,,soledad.moses@yahoo.com,85 Hickory Ave.,Jackson Heights,NY,11372
+583,1,11578.6544,7,,11578.6544,9999.0,Lashandra,Turner,(562) 327-9469,lashandra.turner@hotmail.com,11 Marlborough Rd.,Long Beach,NY,11561
+584,1,2090.6642,6,2016-01-08,2090.6642,1064.0,Lynne,Anderson,(915) 789-6666,lynne.anderson@msn.com,325 Inverness St.,El Paso,TX,79930
+585,1,959.984,2,2017-12-06,959.984,366.0,Chasidy,Webster,,chasidy.webster@msn.com,8296 S. Lookout Lane,Rocklin,CA,95677
+586,1,386.1,1,,386.1,9999.0,Ulysses,Gaines,,ulysses.gaines@aol.com,22 Gregory Lane,Monsey,NY,10952
+587,1,8763.964399999999,4,,8763.964399999999,9999.0,Euna,Lopez,,euna.lopez@gmail.com,7979 South Mountainview Ave.,Carmel,NY,10512
+588,1,1052.963,4,,1052.963,9999.0,Cherelle,Key,,cherelle.key@msn.com,7739 Snake Hill Lane,Valley Stream,NY,11580
+589,1,1512.891,1,,1512.891,9999.0,Jeffry,Church,,jeffry.church@msn.com,426 Grandrose Ave.,Pleasanton,CA,94566
+590,1,1655.0719,3,2017-12-07,1655.0719,365.0,Cyndi,Dyer,,cyndi.dyer@msn.com,313 West Argyle Ave.,Baldwin,NY,11510
+591,1,1646.3814000000002,4,2016-04-05,1646.3814000000002,976.0,Danilo,Holmes,,danilo.holmes@gmail.com,657 Manor Station Dr.,Hicksville,NY,11801
+592,1,422.991,1,,422.991,9999.0,Joni,Lee,,joni.lee@gmail.com,8573 Proctor Street,Centereach,NY,11720
+593,1,208.981,2,,208.981,9999.0,Antony,Atkinson,,antony.atkinson@msn.com,680 East Birchwood Lane,Smithtown,NY,11787
+594,1,9942.14,7,,9942.14,9999.0,Deanne,Parsons,,deanne.parsons@aol.com,76 Amherst Drive,Lindenhurst,NY,11757
+595,1,13191.938400000001,7,,13191.938400000001,9999.0,Frederica,Rojas,,frederica.rojas@yahoo.com,7835 West Jockey Hollow Rd.,Ithaca,NY,14850
+596,1,1422.4825,4,,1422.4825,9999.0,Emelda,Dickerson,,emelda.dickerson@aol.com,7457 6th St.,Hamburg,NY,14075
+597,1,4017.4401,7,,4017.4401,9999.0,Rudolf,Moran,,rudolf.moran@gmail.com,5 Birchwood Rd.,Maspeth,NY,11378
+598,1,9645.3834,4,,9645.3834,9999.0,Benito,Hendrix,,benito.hendrix@gmail.com,676 S. Bowman Lane,Depew,NY,14043
+599,1,3535.2759,5,2018-05-03,3535.2759,218.0,Jonell,Rivas,,jonell.rivas@msn.com,8415 East High Point St.,Amarillo,TX,79106
+600,1,4038.5027,6,2016-03-05,4038.5027,1007.0,Joi,Reeves,(619) 952-9613,joi.reeves@msn.com,9101 Williams Court,San Diego,CA,92111
+601,1,377.982,2,,377.982,9999.0,Leland,Mcdowell,,leland.mcdowell@gmail.com,8034 E. Washington Lane,Encino,CA,91316
+602,1,799.984,2,,799.984,9999.0,Delaine,Estes,,delaine.estes@yahoo.com,8916 Hartford Rd.,Amarillo,TX,79106
+603,1,4890.3654,6,,4890.3654,9999.0,Genevieve,Juarez,,genevieve.juarez@gmail.com,93 Goldfield Drive,New Hyde Park,NY,11040
+604,1,837.9827,2,,837.9827,9999.0,Kylee,Dickson,,kylee.dickson@gmail.com,7908 Sherwood Street,Amityville,NY,11701
+605,1,5442.074,4,,5442.074,9999.0,Renita,Henry,,renita.henry@msn.com,474 Woodland Ave.,New Rochelle,NY,10801
+606,1,4387.966,4,2017-05-02,4387.966,584.0,Sarah,Kirkland,,sarah.kirkland@aol.com,42 N. Glendale Avenue,Wappingers Falls,NY,12590
+607,1,17580.716800000002,9,,17580.716800000002,9999.0,Paul,Lester,,paul.lester@gmail.com,275 Clay St.,Vista,CA,92083
+608,1,502.1814,2,,502.1814,9999.0,Taisha,Vang,,taisha.vang@yahoo.com,660 East Foster Lane,Shirley,NY,11967
+609,1,11035.848,6,,11035.848,9999.0,Eliana,Reese,,eliana.reese@hotmail.com,7079 NE. Cross Drive,Woodhaven,NY,11421
+610,1,8696.072,5,2016-07-04,8696.072,886.0,Leonore,Dorsey,,leonore.dorsey@yahoo.com,8213 South Branch Avenue,Jackson Heights,NY,11372
+611,1,5219.982,2,,5219.982,9999.0,Ashleigh,Frank,,ashleigh.frank@gmail.com,9008 Plymouth Street,Levittown,NY,11756
+612,1,4196.0278,8,2016-12-02,4196.0278,735.0,Gabriel,Wagner,,gabriel.wagner@msn.com,7921 Manhattan Ave.,Ballston Spa,NY,12020
+613,1,502.1814,2,,502.1814,9999.0,Margene,Eaton,,margene.eaton@yahoo.com,43 Sugar Street,Wantagh,NY,11793
+614,1,3935.9680000000003,4,,3935.9680000000003,9999.0,Toshia,Cardenas,,toshia.cardenas@gmail.com,878 Bayberry Street,Amsterdam,NY,12010
+615,1,4911.4379,7,,4911.4379,9999.0,Jamika,Blanchard,,jamika.blanchard@gmail.com,420 Cambridge Street,Fresh Meadows,NY,11365
+616,1,3372.138,8,,3372.138,9999.0,Shery,Acosta,,shery.acosta@yahoo.com,17 Canal Ave.,Saratoga Springs,NY,12866
+617,1,993.2214,2,,993.2214,9999.0,Jenna,Saunders,,jenna.saunders@aol.com,4 Young St.,Yorktown Heights,NY,10598
+618,1,3159.926,9,,3159.926,9999.0,Skye,Pope,,skye.pope@yahoo.com,121 S. Bay Meadows Ave.,Richmond Hill,NY,11418
+619,1,4100.4359,7,,4100.4359,9999.0,Ana,Palmer,(657) 323-8684,ana.palmer@yahoo.com,7 Buckingham St.,Anaheim,CA,92806
+620,1,2065.9827,2,,2065.9827,9999.0,Eric,Hardin,,eric.hardin@gmail.com,39 S. Parker Drive,Jamaica,NY,11432
+621,1,1553.965,4,2017-11-07,1553.965,395.0,Basil,Ballard,,basil.ballard@yahoo.com,7477 Belmont Ave.,San Lorenzo,CA,94580
+622,1,512.981,2,,512.981,9999.0,Gabriel,Pitts,,gabriel.pitts@gmail.com,8462 Marshall Drive,Clifton Park,NY,12065
+623,1,1253.981,2,,1253.981,9999.0,Cayla,Johnson,,cayla.johnson@msn.com,7091 Rockaway Avenue,Coram,NY,11727
+624,1,4271.1134,5,2016-09-12,4271.1134,816.0,Sharika,Colon,(562) 452-6136,sharika.colon@gmail.com,509 Henry Smith St.,Long Beach,NY,11561
+625,1,3860.1454,6,,3860.1454,9999.0,Donnetta,Henson,,donnetta.henson@hotmail.com,2 Tallwood Drive,Webster,NY,14580
+626,1,7022.962399999999,4,,7022.962399999999,9999.0,Leigh,Burke,,leigh.burke@hotmail.com,7651 Creek St.,Schenectady,NY,12302
+627,1,11479.5394,7,2016-12-07,11479.5394,730.0,Deloris,Larson,,deloris.larson@aol.com,242 Branch Street,Duarte,CA,91010
+628,1,3105.9644,4,,3105.9644,9999.0,Ehtel,Cobb,,ehtel.cobb@hotmail.com,741 Rockville Drive,Lockport,NY,14094
+629,1,1754.146,6,2017-02-04,1754.146,671.0,Evelina,Byrd,(716) 601-7704,evelina.byrd@msn.com,628 S. Church St.,Buffalo,NY,14215
+630,1,1265.9724,3,2016-07-03,1265.9724,887.0,Zulema,Browning,,zulema.browning@gmail.com,12 NW. Lafayette St.,Amsterdam,NY,12010
+631,1,6749.9734,3,2017-07-06,6749.9734,519.0,Tressa,Weiss,,tressa.weiss@msn.com,52 Wild Rose Avenue,Ossining,NY,10562
+632,1,2599.168,5,2016-06-06,2599.168,914.0,Yvette,Rogers,,yvette.rogers@aol.com,3 SE. Oklahoma Drive,Franklin Square,NY,11010
+633,1,845.182,3,2016-06-03,845.182,917.0,Kiara,Deleon,(657) 378-8011,kiara.deleon@gmail.com,164 Addison Drive,Anaheim,CA,92806
+634,1,1364.944,4,,1364.944,9999.0,Taylor,Cole,,taylor.cole@gmail.com,9408 Holly Lane,Carmel,NY,10512
+635,1,1502.963,4,2016-04-05,1502.963,976.0,Myrtie,James,,myrtie.james@yahoo.com,566 North Livingston Ave.,Merrick,NY,11566
+636,1,2635.122,4,,2635.122,9999.0,Ashton,Lott,,ashton.lott@hotmail.com,609 Windfall Lane,Floral Park,NY,11001
+637,1,8127.9469,6,,8127.9469,9999.0,Kara,Higgins,,kara.higgins@aol.com,758 Jennings Street,Ossining,NY,10562
+638,1,1832.0628,4,,1832.0628,9999.0,Tomeka,Higgins,,tomeka.higgins@msn.com,591 W. Corona St.,Poughkeepsie,NY,12601
+639,1,2420.553,3,,2420.553,9999.0,Ronald,Parsons,,ronald.parsons@msn.com,268 Pin Oak Rd.,Maspeth,NY,11378
+640,1,5809.4774,9,2016-01-05,5809.4774,1067.0,Allison,Nolan,(845) 276-5729,allison.nolan@gmail.com,7421 Victoria St.,New City,NY,10956
+641,1,3563.0245,4,,3563.0245,9999.0,Derrick,Marks,,derrick.marks@yahoo.com,7247 East Prairie Lane,Glendora,CA,91740
+642,1,772.2,2,,772.2,9999.0,Yang,Roth,,yang.roth@aol.com,234 E. Shub Farm Ave.,Webster,NY,14580
+643,1,5224.546399999999,6,,5224.546399999999,9999.0,Melba,Wilkinson,,melba.wilkinson@gmail.com,255 Harvard Dr.,Floral Park,NY,11001
+644,1,4001.9184,9,,4001.9184,9999.0,Valentin,Mclaughlin,,valentin.mclaughlin@hotmail.com,56 Squaw Creek Street,Lindenhurst,NY,11757
+645,1,3818.2929999999997,7,2017-12-07,3818.2929999999997,365.0,Lewis,Garner,(631) 871-2512,lewis.garner@gmail.com,9550 East Greenrose St.,Brentwood,NY,11717
+646,1,6468.2263,8,2017-06-03,6468.2263,552.0,Ann,Heath,,ann.heath@msn.com,413 East St.,South El Monte,CA,91733
+647,1,1353.748,6,,1353.748,9999.0,Janelle,Maldonado,,janelle.maldonado@gmail.com,34 Mammoth Street,Richmond Hill,NY,11418
+648,1,3475.8443,6,,3475.8443,9999.0,Catrice,Hicks,,catrice.hicks@yahoo.com,403 Inverness Street,San Pablo,CA,94806
+649,1,8550.0527,5,,8550.0527,9999.0,Eli,Contreras,,eli.contreras@hotmail.com,35 Highland Ave.,Ronkonkoma,NY,11779
+650,1,2701.1742,4,,2701.1742,9999.0,Rita,Bailey,,rita.bailey@hotmail.com,69 Glenwood Street,Ossining,NY,10562
+651,1,16890.1469,6,,16890.1469,9999.0,Laure,Pena,,laure.pena@yahoo.com,9849 West Elmwood St.,Wappingers Falls,NY,12590
+652,1,1063.8921,3,2017-02-10,1063.8921,665.0,Tilda,Melton,(248) 767-4165,tilda.melton@msn.com,237 Elmwood Drive,Troy,NY,12180
+653,1,3191.9525000000003,5,,3191.9525000000003,9999.0,Florencio,Davenport,,florencio.davenport@yahoo.com,8759 Brookside Ave.,Jamestown,NY,14701
+654,1,660.5905,2,,660.5905,9999.0,Eun,Harris,(619) 378-2432,eun.harris@gmail.com,623 Jones St.,San Diego,CA,92111
+655,1,655.1907,2,,655.1907,9999.0,Marylyn,Browning,,marylyn.browning@msn.com,915 Lakeshore Street,Scarsdale,NY,10583
+656,1,1094.975,3,,1094.975,9999.0,Romana,Barnes,,romana.barnes@yahoo.com,9776 Shipley Rd.,Floral Park,NY,11001
+657,1,3633.359,7,,3633.359,9999.0,Sam,Lester,,sam.lester@gmail.com,563 South Beacon Lane,Baldwin,NY,11510
+658,1,557.9814,2,,557.9814,9999.0,Nicki,Larson,,nicki.larson@yahoo.com,8317 West Leatherwood Dr.,Monsey,NY,10952
+659,1,853.1,2,,853.1,9999.0,Antonetta,Rocha,,antonetta.rocha@yahoo.com,9858 Newcastle St.,Port Chester,NY,10573
+660,1,5959.0657,4,2017-10-02,5959.0657,431.0,Shara,Pope,,shara.pope@msn.com,194 Amherst Dr.,Ridgecrest,CA,93555
+661,1,9287.9439,6,2017-04-05,9287.9439,611.0,Trena,Hudson,,trena.hudson@hotmail.com,135 Grand Ave.,Monroe,NY,10950
+662,1,3960.4315,8,,3960.4315,9999.0,Loraine,Sykes,,loraine.sykes@yahoo.com,9239 Windsor Ave.,Scarsdale,NY,10583
+663,1,14567.157,5,,14567.157,9999.0,Alissa,Hood,,alissa.hood@gmail.com,8032 Maple Drive,New Windsor,NY,12553
+664,1,1272.7839999999999,2,,1272.7839999999999,9999.0,Augustus,Schmidt,,augustus.schmidt@msn.com,624 Jones Dr.,Corona,NY,11368
+665,1,7040.846399999999,6,2017-06-11,7040.846399999999,544.0,Stacie,Sims,(510) 194-5117,stacie.sims@hotmail.com,47 Orange Ave.,Oakland,CA,94603
+666,1,8570.9665,4,2017-07-04,8570.9665,521.0,Brittni,Green,,brittni.green@msn.com,842 El Dorado Lane,Floral Park,NY,11001
+667,1,2827.9494,6,,2827.9494,9999.0,Etsuko,Garrison,,etsuko.garrison@yahoo.com,1 Arrowhead Street,Richmond Hill,NY,11418
+668,1,2100.9224999999997,3,,2100.9224999999997,9999.0,Calandra,Stanton,,calandra.stanton@aol.com,36 Livingston Dr.,Lake Jackson,TX,77566
+669,1,2899.4846,6,,2899.4846,9999.0,Willis,Randolph,,willis.randolph@yahoo.com,332 Constitution St.,Harlingen,TX,78552
+670,1,3586.707,7,,3586.707,9999.0,Shawnda,Glover,,shawnda.glover@gmail.com,138 Belmont Ave.,Liverpool,NY,13090
+671,1,583.976,3,2017-11-03,583.976,399.0,Jennette,Baker,,jennette.baker@gmail.com,798 Marvon St.,Banning,CA,92220
+672,1,7111.0354,7,,7111.0354,9999.0,Elma,Molina,,elma.molina@msn.com,8565 Devon Ave.,New Rochelle,NY,10801
+673,1,3695.4745000000003,3,2017-07-01,3695.4745000000003,524.0,Adam,Henderson,,adam.henderson@hotmail.com,167 James St.,Los Banos,CA,93635
+674,1,1402.774,3,2017-09-04,1402.774,459.0,Ira,Moore,,ira.moore@gmail.com,1 Pineknoll Court,Saratoga Springs,NY,12866
+675,1,7253.6195,9,,7253.6195,9999.0,Kermit,Bowman,(915) 996-5952,kermit.bowman@gmail.com,3 Airport Street,El Paso,TX,79930
+676,1,512.981,2,,512.981,9999.0,Gayle,Wilkinson,,gayle.wilkinson@yahoo.com,4 Riverside Ave.,Lindenhurst,NY,11757
+677,1,242.991,1,2016-06-03,242.991,917.0,Launa,Hull,,launa.hull@yahoo.com,936 Grove Street,Helotes,TX,78023
+678,1,1673.9907,1,,1673.9907,9999.0,Myron,Johns,,myron.johns@msn.com,5 N. Woodsman Rd.,Whitestone,NY,11357
+679,1,3038.3214,6,,3038.3214,9999.0,Tuan,Wolfe,,tuan.wolfe@aol.com,7641 Oak Meadow Dr.,West Babylon,NY,11704
+680,1,1987.966,4,2018-05-02,1987.966,219.0,Mathilda,Pennington,(845) 407-9524,mathilda.pennington@gmail.com,14 S. Argyle Ave.,New City,NY,10956
+681,1,13130.828800000001,7,,13130.828800000001,9999.0,Reatha,Perez,,reatha.perez@aol.com,9917 1st St.,Holbrook,NY,11741
+682,1,4799.984,2,2016-10-06,4799.984,792.0,Arnita,Thomas,,arnita.thomas@gmail.com,154 2nd St.,Orchard Park,NY,14127
+683,1,879.984,2,2016-09-12,879.984,816.0,Amparo,Burks,,amparo.burks@aol.com,7781 Augusta St.,Merrick,NY,11566
+684,1,511.4907,1,2017-09-01,511.4907,462.0,Jenny,Bell,,jenny.bell@hotmail.com,38 Crescent St.,Niagara Falls,NY,14304
+685,1,386.1,1,,386.1,9999.0,Laverne,Craft,,laverne.craft@aol.com,829 N. Pierce Street,Forest Hills,NY,11375
+686,1,3816.4624,4,2016-04-10,3816.4624,971.0,Darcel,Harmon,,darcel.harmon@msn.com,966 Hickory Street,Santa Clara,CA,95050
+687,1,7971.2261,8,,7971.2261,9999.0,Cecilia,Camacho,,cecilia.camacho@yahoo.com,682 Mountainview Rd.,Desoto,TX,75115
+688,1,3347.9814,2,2016-03-12,3347.9814,1000.0,Pearlie,Cochran,,pearlie.cochran@msn.com,23 Homewood Rd.,Campbell,CA,95008
+689,1,6803.9719000000005,3,,6803.9719000000005,9999.0,Deirdre,Ryan,,deirdre.ryan@yahoo.com,83 Jefferson Lane,Utica,NY,13501
+690,1,12104.786,7,2017-12-03,12104.786,369.0,Yevette,Elliott,,yevette.elliott@aol.com,182 Euclid Street,Jackson Heights,NY,11372
+691,1,4067.664,6,,4067.664,9999.0,Ladawn,Downs,(281) 165-2090,ladawn.downs@yahoo.com,7452 S. Airport Court,Houston,TX,77016
+692,1,13821.530999999999,3,,13821.530999999999,9999.0,Dorothea,Chang,,dorothea.chang@gmail.com,75 Oak Ave.,Astoria,NY,11102
+693,1,375.992,1,,375.992,9999.0,Merlin,Foreman,(516) 150-1321,merlin.foreman@msn.com,8198 North Rockaway St.,Hempstead,NY,11550
+694,1,3531.3039,6,,3531.3039,9999.0,Lanie,Dunn,,lanie.dunn@gmail.com,7583 Pilgrim Ave.,North Tonawanda,NY,14120
+695,1,1006.981,2,2016-09-07,1006.981,821.0,Christoper,Gould,,christoper.gould@aol.com,8718 South Constitution St.,Shirley,NY,11967
+696,1,6240.554,3,,6240.554,9999.0,Norine,Huffman,,norine.huffman@aol.com,363 Dunbar Drive,Encino,CA,91316
+697,1,728.973,3,,728.973,9999.0,Alane,Mccarty,(619) 377-8586,alane.mccarty@hotmail.com,8254 Hilldale Street,San Diego,CA,92111
+698,1,1585.156,5,2017-01-03,1585.156,703.0,Charleen,Joyner,,charleen.joyner@aol.com,735 N. John Dr.,Corona,NY,11368
+699,1,1422.963,4,,1422.963,9999.0,Zella,Fernandez,,zella.fernandez@yahoo.com,8 Marshall Dr.,Rockville Centre,NY,11570
+700,1,12541.7634,4,,12541.7634,9999.0,Collene,Knox,(361) 760-1523,collene.knox@msn.com,7 North Branch Lane,Corpus Christi,TX,78418
+701,1,5126.9531,5,2017-09-03,5126.9531,460.0,Alysia,Nicholson,(805) 493-7311,alysia.nicholson@hotmail.com,868 Trusel St.,Oxnard,CA,93035
+702,1,6762.1399,7,2017-04-11,6762.1399,605.0,Sharie,Whitaker,,sharie.whitaker@hotmail.com,7 Bayport Lane,Merrick,NY,11566
+703,1,398.97,1,2016-06-10,398.97,910.0,Diana,Cobb,,diana.cobb@hotmail.com,558 Vale St.,Fullerton,CA,92831
+704,1,988.4817,2,,988.4817,9999.0,Morton,Barron,(661) 386-4884,morton.barron@msn.com,542 Circle Rd.,Bakersfield,CA,93306
+705,1,3463.545,4,2016-07-07,3463.545,883.0,Camille,Harvey,,camille.harvey@hotmail.com,859 Beaver Ridge Ave.,Huntington,NY,11743
+706,1,2452.948,6,2017-04-07,2452.948,609.0,Lolita,O'Neill,,lolita.o'neill@aol.com,36 Prairie Dr.,Massapequa Park,NY,11762
+707,1,1559.9724999999999,3,,1559.9724999999999,9999.0,Terese,Briggs,,terese.briggs@msn.com,16 N. Oak Valley St.,Woodside,NY,11377
+708,1,1899.981,2,,1899.981,9999.0,Majorie,Glover,,majorie.glover@msn.com,4 Garden Ave.,Apple Valley,CA,92307
+709,1,3359.9717,3,2016-06-10,3359.9717,910.0,Vinnie,Chan,,vinnie.chan@aol.com,8750 Surrey St.,Forest Hills,NY,11375
+710,1,1765.1307,3,,1765.1307,9999.0,Ezra,Silva,,ezra.silva@msn.com,8629 Catherine Rd.,New Windsor,NY,12553
+711,1,4436.6034,6,,4436.6034,9999.0,Jovita,Bishop,,jovita.bishop@aol.com,8123 Wild Horse St.,Staten Island,NY,10301
+712,1,3065.9825,2,2016-10-10,3065.9825,788.0,Kecia,Olsen,,kecia.olsen@msn.com,8389 Central St.,Santa Cruz,CA,95060
+713,1,8712.8466,6,,8712.8466,9999.0,Ilona,Spears,,ilona.spears@gmail.com,984 Canterbury Lane,Port Jefferson Station,NY,11776
+714,1,256.4905,1,,256.4905,9999.0,Senaida,Thompson,,senaida.thompson@msn.com,578 Golf Drive,Bronx,NY,10451
+715,1,10187.9451,8,,10187.9451,9999.0,Larae,Carney,,larae.carney@msn.com,9322 Glen Ridge Dr.,Sunnyside,NY,11104
+716,1,3591.2699999999995,4,2016-11-05,3591.2699999999995,762.0,Sebrina,Hart,,sebrina.hart@yahoo.com,7679 Pacific St.,Coram,NY,11727
+717,1,6659.9627,4,2016-02-09,6659.9627,1032.0,Kristofer,Craig,,kristofer.craig@yahoo.com,6 Delaware Lane,Plainview,NY,11803
+718,1,167.992,1,,167.992,9999.0,Luciana,Mcgee,,luciana.mcgee@msn.com,8002 Cross St.,Selden,NY,11784
+719,1,1006.981,2,2016-06-12,1006.981,908.0,Nicki,Fry,,nicki.fry@hotmail.com,950 Snake Hill Lane,Endicott,NY,13760
+720,1,1389.772,3,,1389.772,9999.0,Devin,Shaffer,(507) 557-2191,devin.shaffer@gmail.com,382 Third Ave.,Rochester,NY,14606
+721,1,479.992,1,,479.992,9999.0,Erlinda,Osborne,,erlinda.osborne@yahoo.com,148 Elm St.,West Islip,NY,11795
+722,1,3292.0045999999998,8,,3292.0045999999998,9999.0,Camila,Carroll,(210) 436-8676,camila.carroll@yahoo.com,72 Shub Farm Avenue,San Antonio,TX,78213
+723,1,6074.0482,6,2017-07-07,6074.0482,518.0,Vicki,Wiggins,,vicki.wiggins@hotmail.com,71 Broad Ave.,Wappingers Falls,NY,12590
+724,1,6152.6533,5,,6152.6533,9999.0,Lois,Steele,,lois.steele@yahoo.com,7501 South Marlborough Street,Ossining,NY,10562
+725,1,396.1405,1,2017-05-04,396.1405,582.0,Carola,Mcpherson,,carola.mcpherson@hotmail.com,578 Shirley Dr.,Rego Park,NY,11374
+726,1,7176.2149,7,,7176.2149,9999.0,Rochell,Cantrell,,rochell.cantrell@yahoo.com,437 Water Dr.,Port Jefferson Station,NY,11776
+727,1,7855.2405,8,,7855.2405,9999.0,Kasha,Sullivan,,kasha.sullivan@hotmail.com,48 Foster Rd.,Scarsdale,NY,10583
+728,1,7918.8446,8,,7918.8446,9999.0,Viva,Dawson,,viva.dawson@yahoo.com,446 Princess Ave.,Orchard Park,NY,14127
+729,1,799.992,1,2017-11-01,799.992,401.0,Hue,Dalton,,hue.dalton@hotmail.com,7940 Oakwood Street,Apple Valley,CA,92307
+730,1,4327.0254,8,,4327.0254,9999.0,Andria,Rivers,,andria.rivers@aol.com,183 Ohio Ave.,Amarillo,TX,79106
+731,1,1652.981,2,2017-05-03,1652.981,583.0,Hilary,Savage,(805) 753-6881,hilary.savage@yahoo.com,696 Howard Court,Oxnard,CA,93035
+732,1,8975.157,6,2016-01-07,8975.157,1065.0,Lavona,Austin,,lavona.austin@yahoo.com,926 South Euclid St.,Utica,NY,13501
+733,1,959.984,2,,959.984,9999.0,Doreatha,Ford,,doreatha.ford@yahoo.com,9413 Ryan Ave.,Huntington,NY,11743
+734,1,13287.5262,8,,13287.5262,9999.0,Alina,Mcleod,,alina.mcleod@msn.com,20 Winchester Street,Patchogue,NY,11772
+735,1,2605.2824,4,2017-03-09,2605.2824,638.0,Aide,Franco,,aide.franco@msn.com,8017 Lake Forest St.,Atwater,CA,95301
+736,1,4507.6134,5,2017-12-06,4507.6134,366.0,Genny,Hensley,,genny.hensley@yahoo.com,8849 Marconi Ave.,Redondo Beach,CA,90278
+737,1,2748.7464,6,,2748.7464,9999.0,Melita,Dominguez,,melita.dominguez@msn.com,9903 Santa Clara Lane,Auburn,NY,13021
+738,1,9532.3529,7,,9532.3529,9999.0,Fannie,Jenkins,(805) 774-5696,fannie.jenkins@msn.com,7858 E. Pawnee Dr.,Oxnard,CA,93035
+739,1,4746.6324,3,2016-11-11,4746.6324,756.0,Bobbi,Banks,,bobbi.banks@yahoo.com,396 Wagon Rd.,Bayside,NY,11361
+740,1,1644.5165,5,2016-10-03,1644.5165,795.0,Gwenn,Melton,,gwenn.melton@yahoo.com,9545 Wakehurst Drive,Centereach,NY,11720
+741,1,1349.982,2,,1349.982,9999.0,Laci,Castro,,laci.castro@hotmail.com,130 Birchpond Street,Saint Albans,NY,11412
+742,1,4617.758,5,,4617.758,9999.0,Evelina,Manning,,evelina.manning@aol.com,7515 Spring St.,Mount Vernon,NY,10550
+743,1,954.9825000000001,2,2016-04-05,954.9825000000001,976.0,Tania,Swanson,,tania.swanson@yahoo.com,8646 Glen Eagles Ave.,Longview,TX,75604
+744,1,5923.9551,5,,5923.9551,9999.0,Laurel,Schultz,,laurel.schultz@hotmail.com,812 E. 1st Lane,Mount Vernon,NY,10550
+745,1,1692.5720999999999,3,,1692.5720999999999,9999.0,Carolyne,Conley,,carolyne.conley@gmail.com,431 Lees Creek Drive,Floral Park,NY,11001
+746,1,386.1,1,,386.1,9999.0,Eldridge,Greer,,eldridge.greer@aol.com,131 E. Madison St.,Central Islip,NY,11722
+747,1,11831.3359,5,2017-01-09,11831.3359,697.0,Margret,Barnett,,margret.barnett@gmail.com,7509 Depot Rd.,Forney,TX,75126
+748,1,6382.9455,6,,6382.9455,9999.0,Oliva,Blackwell,,oliva.blackwell@hotmail.com,54 Ramblewood St.,Elmhurst,NY,11373
+749,1,5893.554999999999,5,2017-10-09,5893.554999999999,424.0,Oralia,Farley,,oralia.farley@hotmail.com,747B E. Coffee Street,Upland,CA,91784
+750,1,1307.6225,4,2016-01-08,1307.6225,1064.0,Romaine,Salazar,,romaine.salazar@yahoo.com,7700 Wentworth Rd.,Monsey,NY,10952
+751,1,5498.368,4,2017-06-07,5498.368,548.0,Hermila,Mckay,,hermila.mckay@yahoo.com,23 Garfield Dr.,Coachella,CA,92236
+752,1,170.991,1,,170.991,9999.0,Lloyd,Miranda,,lloyd.miranda@hotmail.com,9098 Jennings St.,Encino,CA,91316
+753,1,1022.9814,2,,1022.9814,9999.0,Mandi,Gibbs,,mandi.gibbs@gmail.com,80 Sycamore Drive,East Elmhurst,NY,11369
+754,1,6887.1357,7,,6887.1357,9999.0,Hue,May,,hue.may@aol.com,19 S. Lawrence Dr.,Valley Stream,NY,11580
+755,1,9210.7184,9,,9210.7184,9999.0,Tomika,Wilder,,tomika.wilder@aol.com,142 South Ocean St.,New Hyde Park,NY,11040
+756,1,4318.4515,5,,4318.4515,9999.0,Graig,Roth,,graig.roth@aol.com,7516 Wrangler Street,West Babylon,NY,11704
+757,1,2511.4647,3,,2511.4647,9999.0,Lamar,Greer,,lamar.greer@gmail.com,7909 Golden Star Ave.,Levittown,NY,11756
+758,1,6169.963,4,,6169.963,9999.0,Raymonde,Garcia,,raymonde.garcia@aol.com,55 NE. North St.,Queensbury,NY,12804
+759,1,2214.0537,5,,2214.0537,9999.0,Cira,Downs,(510) 788-4456,cira.downs@gmail.com,672 Sussex Ave.,Oakland,CA,94603
+760,1,4105.113,5,2016-01-05,4105.113,1067.0,Marisa,Chambers,,marisa.chambers@msn.com,15 E. Rock Creek Ave.,Amityville,NY,11701
+761,1,3546.929,8,2018-04-01,3546.929,250.0,Rod,Hatfield,,rod.hatfield@hotmail.com,7090 Bridge Dr.,Ronkonkoma,NY,11779
+762,1,5537.9817,2,,5537.9817,9999.0,Quyen,Houston,,quyen.houston@gmail.com,7758 Homewood Dr.,Central Islip,NY,11722
+763,1,1525.1628,4,,1525.1628,9999.0,Han,Schneider,,han.schneider@gmail.com,40 Holly Street,Elmhurst,NY,11373
+764,1,3163.0425999999998,5,2016-12-06,3163.0425999999998,731.0,Terrell,Mathis,,terrell.mathis@aol.com,9320 Center Ave.,Selden,NY,11784
+765,1,4737.2644,4,,4737.2644,9999.0,Spring,Hayes,,spring.hayes@hotmail.com,8591 Wentworth St.,Ossining,NY,10562
+766,1,989.982,2,,989.982,9999.0,Lecia,Hancock,,lecia.hancock@hotmail.com,9167 Pineknoll St.,Schenectady,NY,12302
+767,1,464.9907,1,2016-03-02,464.9907,1010.0,Twana,Arnold,(657) 988-1904,twana.arnold@msn.com,47 North Fairground Lane,Anaheim,CA,92806
+768,1,6515.955,5,2017-04-11,6515.955,605.0,Yvone,Yates,,yvone.yates@gmail.com,9269 Blue Spring Ave.,San Pablo,CA,94806
+769,1,1258.972,3,,1258.972,9999.0,Agatha,Melton,,agatha.melton@yahoo.com,89 East Illinois Street,Springfield Gardens,NY,11413
+770,1,2208.9745000000003,3,,2208.9745000000003,9999.0,Lavonda,Stephenson,,lavonda.stephenson@gmail.com,37 Birchwood Dr.,Bay Shore,NY,11706
+771,1,2891.7542,5,2017-12-10,2891.7542,362.0,Agnes,Sims,(716) 780-9901,agnes.sims@aol.com,170 Queen Lane,Buffalo,NY,14215
+772,1,1174.5654,4,,1174.5654,9999.0,Latricia,Lindsey,,latricia.lindsey@hotmail.com,288 Campfire Dr.,Yorktown Heights,NY,10598
+773,1,4873.9556999999995,5,,4873.9556999999995,9999.0,Yolando,Wade,,yolando.wade@hotmail.com,310 Wilson Ave.,Massapequa,NY,11758
+774,1,5806.0375,7,,5806.0375,9999.0,Nenita,Mooney,,nenita.mooney@hotmail.com,10 W. Bishop Street,Lawndale,CA,90260
+775,1,908.076,4,,908.076,9999.0,Kermit,Hyde,,kermit.hyde@hotmail.com,87 SE. Carson St.,Patchogue,NY,11772
+776,1,333.592,1,,333.592,9999.0,Angelique,Merrill,,angelique.merrill@gmail.com,8490 West High Noon Ave.,South El Monte,CA,91733
+777,1,2379.4635,4,2017-08-08,2379.4635,486.0,Ilda,Roberson,,ilda.roberson@aol.com,8853 Lake St.,Kingston,NY,12401
+778,1,8481.898000000001,7,2017-07-12,8481.898000000001,513.0,Corrinne,Garrison,,corrinne.garrison@yahoo.com,81 East Glenwood Ave.,Victoria,TX,77904
+779,1,5055.113,5,,5055.113,9999.0,Major,Merrill,,major.merrill@aol.com,78 Thatcher Court,Astoria,NY,11102
+780,1,11314.073,4,,11314.073,9999.0,Ouida,Gregory,,ouida.gregory@aol.com,7984 8th Street,Merrick,NY,11566
+781,1,4205.9817,2,,4205.9817,9999.0,Tajuana,Riddle,,tajuana.riddle@hotmail.com,24 St Margarets Ave.,Bayside,NY,11361
+782,1,7183.3227,4,,7183.3227,9999.0,Ricki,Bullock,,ricki.bullock@hotmail.com,79 Pennington Rd.,Woodside,NY,11377
+783,1,10998.0295,8,,10998.0295,9999.0,Celestine,Kent,(717) 890-4260,celestine.kent@aol.com,697 Fordham Street,Lancaster,NY,14086
+784,1,1194.2817,2,2017-06-05,1194.2817,550.0,Debbra,Jacobson,,debbra.jacobson@yahoo.com,8316 West Bedford Ave.,Ballston Spa,NY,12020
+785,1,929.9814,2,2016-10-10,929.9814,788.0,Kandis,Mills,,kandis.mills@hotmail.com,64 Beechwood Drive,Hamburg,NY,14075
+786,1,539.991,1,,539.991,9999.0,Wallace,Lane,,wallace.lane@aol.com,901 Liberty St.,South Richmond Hill,NY,11419
+787,1,7575.3454,6,,7575.3454,9999.0,Malisa,Mitchell,,malisa.mitchell@msn.com,87 Ridgewood Court,Mount Vernon,NY,10550
+788,1,242.991,1,2016-08-05,242.991,854.0,Lilliam,Nolan,,lilliam.nolan@msn.com,8976 Berkshire Court,Copperas Cove,TX,76522
+789,1,2195.5747,4,,2195.5747,9999.0,Tad,Gardner,,tad.gardner@hotmail.com,9745 E. Wilson St.,Niagara Falls,NY,14304
+790,1,2719.4764,5,,2719.4764,9999.0,Petronila,Gallegos,,petronila.gallegos@gmail.com,8053 Aspen St.,Howard Beach,NY,11414
+791,1,1189.9825,2,,1189.9825,9999.0,Yun,Nelson,,yun.nelson@hotmail.com,529 Durham Street,Ballston Spa,NY,12020
+792,1,847.984,2,2016-04-12,847.984,969.0,Edgar,Horn,,edgar.horn@aol.com,7270 W. Cherry Hill Lane,West Babylon,NY,11704
+793,1,7327.0401,9,,7327.0401,9999.0,Chantay,Maynard,,chantay.maynard@gmail.com,7483 1st Ave.,Elmhurst,NY,11373
+794,1,9274.965400000001,4,,9274.965400000001,9999.0,Donette,Mccarthy,,donette.mccarthy@yahoo.com,500 NW. Maiden Dr.,Redondo Beach,CA,90278
+795,1,2431.165,5,,2431.165,9999.0,Mariam,Miranda,,mariam.miranda@aol.com,18 East Washington Avenue,Franklin Square,NY,11010
+796,1,1926.5810000000001,4,2016-09-10,1926.5810000000001,818.0,Rosalie,Coffey,,rosalie.coffey@gmail.com,789 Amerige Dr.,Upland,CA,91784
+797,1,1984.073,4,2016-11-02,1984.073,765.0,Cathey,Lamb,,cathey.lamb@msn.com,9621 Ryan Drive,Bayside,NY,11361
+798,1,11062.417099999999,9,2017-05-09,11062.417099999999,577.0,Alyse,Jacobson,,alyse.jacobson@yahoo.com,10 West Devon Lane,Massapequa Park,NY,11762
+799,1,2873.94,7,,2873.94,9999.0,India,Barron,,india.barron@msn.com,834 W. Pleasant Rd.,Huntington,NY,11743
+800,1,8177.054099999999,5,,8177.054099999999,9999.0,Cris,Dunn,,cris.dunn@yahoo.com,1 Pawnee Street,Pittsford,NY,14534
+801,1,4044.8487,6,2016-03-06,4044.8487,1006.0,Ophelia,Rodgers,,ophelia.rodgers@gmail.com,133 Joy Ridge Drive,Hopewell Junction,NY,12533
+802,1,9385.101999999999,6,,9385.101999999999,9999.0,Barrett,Sanders,,barrett.sanders@aol.com,32 Hawthorne St.,Longview,TX,75604
+803,1,12867.958,5,,12867.958,9999.0,Bernardina,Cooper,,bernardina.cooper@msn.com,223 Glen Creek Ave.,Whitestone,NY,11357
+804,1,417.9905,1,2017-07-06,417.9905,519.0,Douglas,Richards,,douglas.richards@hotmail.com,221 Arcadia Lane,Valley Stream,NY,11580
+805,1,335.984,2,,335.984,9999.0,Phillis,Fowler,,phillis.fowler@aol.com,8976 N. Hall Street,Clifton Park,NY,12065
+806,1,4037.9647,4,,4037.9647,9999.0,Reyes,Merritt,,reyes.merritt@yahoo.com,48 Lexington Rd.,Staten Island,NY,10301
+807,1,4231.121999999999,4,,4231.121999999999,9999.0,Nathalie,Knowles,,nathalie.knowles@aol.com,4 Cactus Street,West Islip,NY,11795
+808,1,8083.9627,4,,8083.9627,9999.0,Vallie,Dixon,,vallie.dixon@yahoo.com,85 E. Ann Drive,Rowlett,TX,75088
+809,1,15416.156500000001,9,,15416.156500000001,9999.0,Elnora,Simpson,,elnora.simpson@yahoo.com,7157 Shore Ave.,Bellmore,NY,11710
+810,1,10951.5614,7,,10951.5614,9999.0,Ivelisse,Nixon,(281) 941-4933,ivelisse.nixon@aol.com,782 Boston Ave.,Houston,TX,77016
+811,1,1863.966,4,2017-03-04,1863.966,643.0,Shanti,Johnston,,shanti.johnston@gmail.com,722 Alderwood Drive,Staten Island,NY,10301
+812,1,1227.5814,2,,1227.5814,9999.0,Martha,Burgess,,martha.burgess@msn.com,9631 St Margarets Lane,Woodhaven,NY,11421
+813,1,3376.5951,7,,3376.5951,9999.0,Neville,Mcclain,,neville.mcclain@yahoo.com,781 Buttonwood Ave.,West Hempstead,NY,11552
+814,1,1754.0464,6,,1754.0464,9999.0,Ghislaine,Compton,,ghislaine.compton@aol.com,8930 Princess St.,Lindenhurst,NY,11757
+815,1,10620.044899999999,8,2016-06-05,10620.044899999999,915.0,Leanna,Manning,,leanna.manning@yahoo.com,39 E. Stillwater Ave.,Hicksville,NY,11801
+816,1,1669.9825,2,,1669.9825,9999.0,Marshall,Johnson,,marshall.johnson@yahoo.com,44 Greenview St.,Vista,CA,92083
+817,1,2252.915,5,,2252.915,9999.0,Zelda,Pratt,(717) 428-4018,zelda.pratt@gmail.com,74 Trusel Drive,Lancaster,NY,14086
+818,1,2419.7634,4,2018-05-02,2419.7634,219.0,Joel,Wynn,(619) 210-6032,joel.wynn@aol.com,7 North Oak Ave.,San Diego,CA,92111
+819,1,4784.1587,7,,4784.1587,9999.0,Yahaira,Robertson,,yahaira.robertson@yahoo.com,142 Roehampton Dr.,Endicott,NY,13760
+820,1,3229.9525,5,,3229.9525,9999.0,Sandy,Mills,,sandy.mills@gmail.com,333 Olive Ave.,Schenectady,NY,12302
+821,1,633.6244999999999,3,,633.6244999999999,9999.0,Cassidy,Clark,,cassidy.clark@hotmail.com,9879 Old Kingston Road,Astoria,NY,11102
+822,1,1396.4905,1,,1396.4905,9999.0,Kristy,Watkins,,kristy.watkins@gmail.com,977 South Brook Ave.,Howard Beach,NY,11414
+823,1,3464.0224,4,2016-09-12,3464.0224,816.0,Tina,Bush,,tina.bush@aol.com,8038 Bellevue Street,Maspeth,NY,11378
+824,1,10132.3624,4,,10132.3624,9999.0,Veronika,Rollins,,veronika.rollins@yahoo.com,94 Arnold Ave.,Webster,NY,14580
+825,1,1934.9633999999999,4,,1934.9633999999999,9999.0,Kristel,Byrd,,kristel.byrd@hotmail.com,9967 Piper Street,Hicksville,NY,11801
+826,1,3671.7054,6,2017-05-10,3671.7054,576.0,Shay,Stephenson,,shay.stephenson@aol.com,9569 4th Lane,Smithtown,NY,11787
+827,1,375.992,1,2016-06-10,375.992,910.0,George,Pickett,,george.pickett@msn.com,691 Rocky River St.,Sunnyside,NY,11104
+828,1,2716.765,4,,2716.765,9999.0,Renato,Morton,,renato.morton@msn.com,8526 Sherwood Street,Mount Vernon,NY,10550
+829,1,845.982,2,2017-03-05,845.982,642.0,Marcy,Rodriguez,,marcy.rodriguez@gmail.com,97 Trusel Drive,Lockport,NY,14094
+830,1,989.982,2,,989.982,9999.0,Edmund,Gaines,,edmund.gaines@gmail.com,8643 Gartner St.,Copperas Cove,TX,76522
+831,1,4169.9817,2,,4169.9817,9999.0,Lory,Berg,,lory.berg@aol.com,64 Vine Drive,Oswego,NY,13126
+832,1,3146.4645,4,,3146.4645,9999.0,Pamala,Fowler,,pamala.fowler@gmail.com,399 Leatherwood St.,Ballston Spa,NY,12020
+833,1,5779.8175,9,,5779.8175,9999.0,Leone,Emerson,,leone.emerson@msn.com,460 Smith Store Ave.,Whitestone,NY,11357
+834,1,1694.0557000000001,5,2016-11-08,1694.0557000000001,759.0,Brain,Skinner,,brain.skinner@hotmail.com,8676 Ketch Harbour Ave.,Euless,TX,76039
+835,1,1485.4635,4,,1485.4635,9999.0,Roseanne,Maynard,,roseanne.maynard@yahoo.com,219 Old Paris Hill Dr.,Euless,TX,76039
+836,1,9161.946,6,,9161.946,9999.0,Corinna,Adams,,corinna.adams@msn.com,38 Trenton Court,Rosedale,NY,11422
+837,1,6829.530999999999,8,,6829.530999999999,9999.0,Kellye,Campbell,,kellye.campbell@gmail.com,75 Marsh St.,Baldwinsville,NY,13027
+838,1,9849.074,4,2018-04-03,9849.074,248.0,Erna,Sloan,,erna.sloan@aol.com,9449 Fifth Avenue,Howard Beach,NY,11414
+839,1,4521.8839,6,2018-03-03,4521.8839,279.0,Carolann,Russell,,carolann.russell@hotmail.com,9308 Selby Ave.,Glen Cove,NY,11542
+840,1,15097.906,6,,15097.906,9999.0,Gilbert,Calhoun,,gilbert.calhoun@msn.com,7339 Summer Drive,East Elmhurst,NY,11369
+841,1,1546.384,2,2017-09-03,1546.384,460.0,Manie,Maxwell,,manie.maxwell@gmail.com,85 Brickell Ave.,Ronkonkoma,NY,11779
+842,1,692.0817,2,2017-08-03,692.0817,491.0,Giselle,Robles,,giselle.robles@hotmail.com,9747 N. El Dorado Dr.,San Angelo,TX,76901
+843,1,1351.7224,4,2016-08-09,1351.7224,850.0,Tessie,Farmer,,tessie.farmer@msn.com,870 Cottage Ave.,Plattsburgh,NY,12901
+844,1,10186.628499999999,8,2017-01-05,10186.628499999999,701.0,Felica,Munoz,,felica.munoz@aol.com,24 West Rockwell Dr.,South Ozone Park,NY,11420
+845,1,2011.4626,4,,2011.4626,9999.0,Kathyrn,Bush,,kathyrn.bush@gmail.com,90 Devon St.,Bronx,NY,10451
+846,1,728.973,3,,728.973,9999.0,Sylvester,Chan,,sylvester.chan@hotmail.com,659 Arcadia Street,Rocklin,CA,95677
+847,1,836.9814,2,2017-07-01,836.9814,524.0,Lizette,Ellison,,lizette.ellison@hotmail.com,865 Sunbeam Street,Port Washington,NY,11050
+848,1,4991.9665,4,,4991.9665,9999.0,Ernestina,Skinner,,ernestina.skinner@hotmail.com,52 Spring Drive,Elmhurst,NY,11373
+849,1,1034.2827,3,,1034.2827,9999.0,Phyllis,Hill,,phyllis.hill@yahoo.com,576 Devon Ave.,Syosset,NY,11791
+850,1,104.4905,1,2017-07-02,104.4905,523.0,Stephanie,Browning,,stephanie.browning@yahoo.com,9156 Lantern St.,Rowlett,TX,75088
+851,1,992.9649999999999,4,2016-01-06,992.9649999999999,1066.0,Arlena,Buckner,,arlena.buckner@hotmail.com,629 Locust Ave.,New Hyde Park,NY,11040
+852,1,989.982,2,,989.982,9999.0,Lezlie,Thompson,,lezlie.thompson@yahoo.com,73 Vernon St.,Freeport,NY,11520
+853,1,7601.1547,7,,7601.1547,9999.0,Brittney,Rojas,,brittney.rojas@aol.com,2 E. Overlook Ave.,Kingston,NY,12401
+854,1,1972.9624,4,,1972.9624,9999.0,Phylis,Adkins,(212) 325-9145,phylis.adkins@msn.com,7781 James Ave.,New York,NY,10002
+855,1,2008.7628,4,,2008.7628,9999.0,Lean,Stark,,lean.stark@msn.com,215 Old Pumpkin Hill St.,Upland,CA,91784
+856,1,3659.9825,2,,3659.9825,9999.0,Lara,Guy,,lara.guy@aol.com,9809 E. Walnut Drive,Ronkonkoma,NY,11779
+857,1,418.4907,1,,418.4907,9999.0,Inga,Koch,,inga.koch@msn.com,8445 South New Court,New Windsor,NY,12553
+858,1,1804.8564999999999,5,,1804.8564999999999,9999.0,Klara,Kim,,klara.kim@gmail.com,9660 Sherman Lane,Rome,NY,13440
+859,1,7659.3381,8,,7659.3381,9999.0,Julianne,Shannon,,julianne.shannon@hotmail.com,28 Applegate Street,Sugar Land,TX,77478
+860,1,451.782,2,,451.782,9999.0,Loni,Mullen,,loni.mullen@msn.com,55 Thompson Avenue,South Ozone Park,NY,11420
+861,1,4169.9815,2,,4169.9815,9999.0,Olympia,Figueroa,,olympia.figueroa@hotmail.com,587 Surrey St.,Hopewell Junction,NY,12533
+862,1,5835.858,5,2018-01-01,5835.858,340.0,Mellie,Puckett,,mellie.puckett@yahoo.com,64 Van Dyke St.,Fresh Meadows,NY,11365
+863,1,5801.934,5,,5801.934,9999.0,Shonta,Preston,,shonta.preston@msn.com,74 Division St.,Utica,NY,13501
+864,1,3390.465,4,,3390.465,9999.0,Lore,Sykes,(716) 382-5169,lore.sykes@aol.com,7050 Beach Drive,Buffalo,NY,14215
+865,1,3995.6247,7,,3995.6247,9999.0,Julia,Joyner,,julia.joyner@msn.com,2 Valley View Dr.,Astoria,NY,11102
+866,1,6843.9442,6,2018-08-02,6843.9442,127.0,Lynwood,Jackson,,lynwood.jackson@aol.com,9449 Linda Street,Longview,TX,75604
+867,1,10529.963,4,,10529.963,9999.0,Rosalva,Hamilton,,rosalva.hamilton@aol.com,9883 Cedar Dr.,Campbell,CA,95008
+868,1,1311.2907,1,2017-01-05,1311.2907,701.0,Domingo,Casey,(408) 761-9212,domingo.casey@msn.com,8665 Cypress Street,San Jose,CA,95127
+869,1,1037.3715,3,,1037.3715,9999.0,Rodrigo,Durham,,rodrigo.durham@aol.com,82 Old Church Road,Richmond Hill,NY,11418
+870,1,8309.4449,6,,8309.4449,9999.0,Dwain,Carlson,,dwain.carlson@gmail.com,951 North Trusel Ave.,Smithtown,NY,11787
+871,1,11588.6474,9,2017-11-05,11588.6474,397.0,Erlinda,Humphrey,,erlinda.humphrey@hotmail.com,532 South Victoria St.,New Windsor,NY,12553
+872,1,2497.9559,5,,2497.9559,9999.0,Silas,Tate,(361) 219-2149,silas.tate@yahoo.com,9754 53rd Court,Corpus Christi,TX,78418
+873,1,3278.054,7,2016-08-01,3278.054,858.0,Patience,Clayton,,patience.clayton@hotmail.com,68 Chestnut Dr.,Niagara Falls,NY,14304
+874,1,1344.792,1,,1344.792,9999.0,Mila,Good,,mila.good@yahoo.com,812 East Longbranch Ave.,Plattsburgh,NY,12901
+875,1,269.991,1,2016-09-10,269.991,818.0,Tanesha,Sawyer,,tanesha.sawyer@aol.com,9B Kingston Lane,Rosedale,NY,11422
+876,1,1525.1539,5,2016-07-10,1525.1539,880.0,Onita,Macdonald,,onita.macdonald@yahoo.com,94 Wood St.,Glen Cove,NY,11542
+877,1,7783.4219,9,,7783.4219,9999.0,Janine,Manning,,janine.manning@gmail.com,9118B Campfire St.,Howard Beach,NY,11414
+878,1,7984.939,7,,7984.939,9999.0,Melodie,Melton,,melodie.melton@yahoo.com,12 S. 8th Road,Smithtown,NY,11787
+879,1,1276.975,3,2016-12-06,1276.975,731.0,Ethelyn,Ray,,ethelyn.ray@yahoo.com,80 South Sutor Lane,Garden City,NY,11530
+880,1,11120.3254,6,,11120.3254,9999.0,Phebe,Turner,,phebe.turner@aol.com,4 West York Street,Sunnyside,NY,11104
+881,1,1367.0907,1,,1367.0907,9999.0,Chloe,Patel,,chloe.patel@yahoo.com,407 Homewood Street,Santa Monica,CA,90403
+882,1,6229.1214,4,,6229.1214,9999.0,Hilda,Harvey,,hilda.harvey@gmail.com,9808 W. Cleveland Ave.,Ballston Spa,NY,12020
+883,1,13107.441,7,,13107.441,9999.0,Gilberte,Duke,(915) 903-7860,gilberte.duke@gmail.com,12 Birchwood Dr.,El Paso,TX,79930
+884,1,845.982,2,2017-02-02,845.982,673.0,Willian,Hardin,,willian.hardin@msn.com,836 West Street,Oswego,NY,13126
+885,1,4624.9377,7,2016-04-07,4624.9377,974.0,Janna,Hayden,,janna.hayden@msn.com,32 Hilldale Street,Longview,TX,75604
+886,1,9927.2049,7,,9927.2049,9999.0,Letisha,May,,letisha.may@yahoo.com,9965 Princeton Lane,North Tonawanda,NY,14120
+887,1,4369.3445,6,,4369.3445,9999.0,Graig,Cannon,,graig.cannon@gmail.com,36 Oklahoma Ave.,Syosset,NY,11791
+888,1,10728.4385,7,2017-01-10,10728.4385,696.0,Coleen,Navarro,,coleen.navarro@aol.com,990 Broad Rd.,Webster,NY,14580
+889,1,949.1727,3,2017-01-10,949.1727,696.0,Lucilla,Williams,,lucilla.williams@hotmail.com,42 Cedar Street,San Carlos,CA,94070
+890,1,3750.8732,3,2017-12-04,3750.8732,368.0,Rosanne,George,,rosanne.george@yahoo.com,38 Pleasant St.,Ossining,NY,10562
+891,1,655.984,2,,655.984,9999.0,Ashlie,Parrish,,ashlie.parrish@hotmail.com,48 Mill Drive,Monsey,NY,10952
+892,1,2754.9905,1,2016-12-11,2754.9905,726.0,Alissa,Craft,,alissa.craft@hotmail.com,249 Maple Street,Ossining,NY,10562
+893,1,8820.1505,8,,8820.1505,9999.0,Letty,Cobb,,letty.cobb@msn.com,8652 Wellington Street,Depew,NY,14043
+894,1,4495.2725,5,,4495.2725,9999.0,Nathaniel,Richard,,nathaniel.richard@gmail.com,3 Nicolls Lane,New Windsor,NY,12553
+895,1,6929.1049,6,,6929.1049,9999.0,Elaina,Key,,elaina.key@msn.com,1 Main St.,Plainview,NY,11803
+896,1,6715.433999999999,5,2016-12-12,6715.433999999999,725.0,Stefani,Gamble,(845) 724-2996,stefani.gamble@aol.com,9119 W. Victoria St.,New City,NY,10956
+897,1,611.982,2,,611.982,9999.0,Bettyann,Acosta,(717) 746-6658,bettyann.acosta@gmail.com,7949 Chapel St.,Lancaster,NY,14086
+898,1,3567.561,2,,3567.561,9999.0,Crysta,Velez,(281) 529-3469,crysta.velez@yahoo.com,64 South Front Street,Houston,TX,77016
+899,1,3239.982,2,2016-06-10,3239.982,910.0,Carisa,Carpenter,,carisa.carpenter@hotmail.com,551 Belmont Lane,Victoria,TX,77904
+900,1,4298.4537,5,2017-04-10,4298.4537,606.0,Jule,Davenport,,jule.davenport@aol.com,19 River St.,San Carlos,CA,94070
+901,1,712.4905,1,2017-08-01,712.4905,493.0,Lonna,Franks,,lonna.franks@yahoo.com,667 Brickyard Street,Ontario,CA,91762
+902,1,1217.264,4,,1217.264,9999.0,Elease,Dejesus,,elease.dejesus@gmail.com,7800 Magnolia Street,Oswego,NY,13126
+903,1,5588.5185,9,2017-10-11,5588.5185,422.0,Maira,Long,,maira.long@msn.com,7587 Bear Hill Street,Hicksville,NY,11801
+904,1,14397.1379,7,2018-09-01,14397.1379,97.0,Jana,Thomas,(408) 624-8137,jana.thomas@yahoo.com,283 E. Spring Dr.,San Jose,CA,95127
+905,1,12089.9814,2,2018-10-01,12089.9814,67.0,Hae,Ramirez,,hae.ramirez@hotmail.com,9367 Lake Street,Baldwinsville,NY,13027
+906,1,4749.981,2,,4749.981,9999.0,Erik,Leblanc,,erik.leblanc@aol.com,7 East Nut Swamp Street,Sugar Land,TX,77478
+907,1,3495.6623999999997,4,2016-02-08,3495.6623999999997,1033.0,Daina,Sampson,,daina.sampson@msn.com,556 Wellington St.,Longview,TX,75604
+908,1,15439.946800000002,6,,15439.946800000002,9999.0,Delmar,Wise,,delmar.wise@yahoo.com,8355 Kingston Avenue,Lockport,NY,14094
+909,1,2099.9637,4,2017-07-06,2099.9637,519.0,Alita,Salinas,,alita.salinas@hotmail.com,8550 Bear Hill Ave.,Uniondale,NY,11553
+910,1,4334.0585,5,,4334.0585,9999.0,Elenore,William,,elenore.william@msn.com,23 Rockland St.,Mcallen,TX,78501
+911,1,1611.0747000000001,3,,1611.0747000000001,9999.0,Nikita,Roy,,nikita.roy@aol.com,9703 N. Snake Hill St.,Pittsford,NY,14534
+912,1,4949.991,1,2017-04-09,4949.991,607.0,Inocencia,Key,,inocencia.key@hotmail.com,36 Wild Rose Ave.,Massapequa Park,NY,11762
+913,1,1841.6217,4,2016-12-11,1841.6217,726.0,Liliana,Kerr,,liliana.kerr@yahoo.com,3 Cherry Drive,Desoto,TX,75115
+914,1,1793.7574,5,,1793.7574,9999.0,Hortencia,O'Neil,,hortencia.o'neil@hotmail.com,1 Gulf Rd.,Rockville Centre,NY,11570
+915,1,1301.4715,3,2017-11-07,1301.4715,395.0,Beryl,Bennett,(916) 422-6956,beryl.bennett@aol.com,9563 Edgemont St.,Sacramento,CA,95820
+916,1,7951.1468,6,,7951.1468,9999.0,Alishia,Elliott,,alishia.elliott@aol.com,8905 Courtland Ave.,Mount Vernon,NY,10550
+917,1,5219.982,2,2016-03-09,5219.982,1003.0,Vernia,Madden,(248) 206-3697,vernia.madden@aol.com,5 Iroquois Street,Troy,NY,12180
+918,1,557.9907,1,,557.9907,9999.0,Kristel,Bullock,,kristel.bullock@yahoo.com,7292 Armstrong Drive,Smithtown,NY,11787
+919,1,5989.9367,7,,5989.9367,9999.0,Ruthanne,Hoover,,ruthanne.hoover@aol.com,835 Paris Hill Road,Torrance,CA,90505
+920,1,9314.8357,7,,9314.8357,9999.0,James,Robles,,james.robles@aol.com,9 Chapel Lane,North Tonawanda,NY,14120
+921,1,1328.6529,5,2016-06-10,1328.6529,910.0,Evelin,Vargas,,evelin.vargas@msn.com,7049 Pin Oak Ave.,Webster,NY,14580
+922,1,6978.715099999999,6,,6978.715099999999,9999.0,Elvia,Cardenas,,elvia.cardenas@hotmail.com,8 Paris Hill St.,Massapequa,NY,11758
+923,1,5671.1307,3,,5671.1307,9999.0,Randee,Pitts,,randee.pitts@msn.com,7371B Essex Street,Canyon Country,CA,91387
+924,1,683.0747,3,,683.0747,9999.0,Lea,Irwin,,lea.irwin@gmail.com,845 Adams Lane,New Windsor,NY,12553
+925,1,474.9905,1,2016-12-03,474.9905,734.0,Bryce,Monroe,,bryce.monroe@aol.com,52 Cooper Lane,Kingston,NY,12401
+926,1,926.091,2,,926.091,9999.0,Katina,Mcintosh,(661) 464-1523,katina.mcintosh@yahoo.com,263 Swanson Dr.,Bakersfield,CA,93306
+927,1,1516.3400000000001,4,,1516.3400000000001,9999.0,Guillermo,Hart,(212) 652-7198,guillermo.hart@hotmail.com,81 Indian Summer Drive,New York,NY,10002
+928,1,1264.9827,2,,1264.9827,9999.0,Joann,Barber,,joann.barber@gmail.com,8945 Courtland Street,Santa Monica,CA,90403
+929,1,4689.4559,5,,4689.4559,9999.0,Thurman,Ellis,,thurman.ellis@gmail.com,20 Augusta Road,Pleasanton,CA,94566
+930,1,1464.2552,5,2017-04-09,1464.2552,607.0,Delana,Wagner,,delana.wagner@aol.com,8499 Mill Pond Road,Clifton Park,NY,12065
+931,1,4305.9576,7,,4305.9576,9999.0,Porter,Bass,,porter.bass@hotmail.com,370 North Alderwood Dr.,San Angelo,TX,76901
+932,1,1973.7314,3,,1973.7314,9999.0,Yvonne,Bean,,yvonne.bean@yahoo.com,20 W. Marsh Ave.,Wappingers Falls,NY,12590
+933,1,1708.3719,4,2016-10-06,1708.3719,792.0,Lurline,Rivers,,lurline.rivers@msn.com,69 Pine Street,Howard Beach,NY,11414
+934,1,7999.963,4,2017-01-10,7999.963,696.0,Ocie,Slater,,ocie.slater@msn.com,7799 W. Bohemia Dr.,Hamburg,NY,14075
+935,1,1850.0567,5,,1850.0567,9999.0,Genevie,Miles,,genevie.miles@aol.com,45 West Sulphur Springs Ave.,Monroe,NY,10950
+936,1,2411.4714999999997,4,,2411.4714999999997,9999.0,Sherilyn,Wilcox,,sherilyn.wilcox@gmail.com,905 North Buckingham Lane,Ossining,NY,10562
+937,1,3865.7653999999998,4,,3865.7653999999998,9999.0,Aida,Koch,,aida.koch@gmail.com,9778 3rd Drive,West Hempstead,NY,11552
+938,1,2135.0624,4,2018-07-03,2135.0624,157.0,Emory,O'Connor,(507) 606-2192,emory.o'connor@gmail.com,34 Foxrun Street,Rochester,NY,14606
+939,1,2230.5485,6,,2230.5485,9999.0,Maximina,Hutchinson,(361) 164-3098,maximina.hutchinson@hotmail.com,53 Stillwater Avenue,Corpus Christi,TX,78418
+940,1,1885.8838999999998,4,,1885.8838999999998,9999.0,Marina,Hinton,,marina.hinton@yahoo.com,7440 North Oxford St.,Encino,CA,91316
+941,1,3018.2852,5,,3018.2852,9999.0,Danyell,Dickerson,,danyell.dickerson@msn.com,8306 Fieldstone Dr.,Central Islip,NY,11722
+942,1,1499.9719,3,,1499.9719,9999.0,Davis,Long,(717) 653-1755,davis.long@msn.com,929 Elmwood Dr.,Lancaster,NY,14086
+943,1,683.0747,3,2016-07-05,683.0747,885.0,Lynn,Mcmahon,,lynn.mcmahon@msn.com,9 Surrey St.,Scarsdale,NY,10583
+944,1,1964.081,3,2016-08-09,1964.081,850.0,Tonja,Henderson,,tonja.henderson@aol.com,82 Alton St.,Scarsdale,NY,10583
+945,1,4814.6255,8,,4814.6255,9999.0,Krissy,Ochoa,,krissy.ochoa@msn.com,80 Queen Ave.,Port Washington,NY,11050
+946,1,4062.3334,5,2017-09-03,4062.3334,460.0,Angella,Bridges,,angella.bridges@yahoo.com,8708 Sycamore St.,Pittsford,NY,14534
+947,1,1082.9715,3,2017-11-12,1082.9715,390.0,Angele,Castro,,angele.castro@yahoo.com,15 Acacia Drive,Palos Verdes Peninsula,CA,90274
+948,1,6793.9655,4,,6793.9655,9999.0,Siobhan,Lang,,siobhan.lang@gmail.com,3 Monroe Lane,Levittown,NY,11756
+949,1,1279.0627,4,,1279.0627,9999.0,Venessa,Frost,,venessa.frost@msn.com,621 West School Rd.,Scarsdale,NY,10583
+950,1,3799.1634,4,,3799.1634,9999.0,Verna,Solis,(507) 115-1633,verna.solis@yahoo.com,7 Lincoln Lane,Rochester,NY,14606
+951,1,3292.427,6,,3292.427,9999.0,Steve,Bender,,steve.bender@gmail.com,908 N. Pennington Dr.,Scarsdale,NY,10583
+952,1,4644.913,4,2016-08-12,4644.913,847.0,Aileen,Marquez,,aileen.marquez@msn.com,8899 Newbridge Street,Torrance,CA,90505
+953,1,2681.1565,7,2017-06-03,2681.1565,552.0,Kattie,Stevenson,,kattie.stevenson@aol.com,52 Carson Street,Helotes,TX,78023
+954,1,3269.9827,2,,3269.9827,9999.0,Hassan,Nash,,hassan.nash@yahoo.com,8105 University Lane,Hicksville,NY,11801
+955,1,4274.981,2,2018-07-01,4274.981,159.0,Delfina,Gilliam,,delfina.gilliam@hotmail.com,9463 Bayberry Rd.,West Babylon,NY,11704
+956,1,1060.553,3,,1060.553,9999.0,Venus,Hewitt,,venus.hewitt@msn.com,9835 Old Cemetery Lane,Farmingdale,NY,11735
+957,1,912.2729999999999,3,2017-05-06,912.2729999999999,580.0,Stephen,Vega,(657) 288-3778,stephen.vega@msn.com,5 Briarwood St.,Anaheim,CA,92806
+958,1,5557.3307,8,2017-06-02,5557.3307,553.0,Ciera,Koch,,ciera.koch@gmail.com,881 Lawrence Drive,Euless,TX,76039
+959,1,8816.954399999999,5,,8816.954399999999,9999.0,Christel,Barber,(916) 679-3547,christel.barber@hotmail.com,320 Briarwood Lane,Sacramento,CA,95820
+960,1,7995.8047,6,,7995.8047,9999.0,Arline,Lawson,(516) 792-3395,arline.lawson@gmail.com,48 Whitemarsh Lane,Hempstead,NY,11550
+961,1,5338.9555,6,,5338.9555,9999.0,Iva,Wilcox,,iva.wilcox@aol.com,452 South Mayflower Drive,Kingston,NY,12401
+962,1,1856.6117,3,,1856.6117,9999.0,Maple,Griffin,,maple.griffin@gmail.com,20 Glendale Drive,Copperas Cove,TX,76522
+963,1,6416.5944,8,,6416.5944,9999.0,Anisha,Lang,,anisha.lang@aol.com,265 Peachtree St.,Rome,NY,13440
+964,1,502.1814,2,,502.1814,9999.0,Brent,Calderon,(361) 981-8725,brent.calderon@aol.com,3 Thomas St.,Corpus Christi,TX,78418
+965,1,4781.931,8,2016-03-02,4781.931,1010.0,Margit,Osborn,,margit.osborn@yahoo.com,909 Gulf Drive,Plainview,NY,11803
+966,1,5107.8638,6,,5107.8638,9999.0,Novella,Patel,,novella.patel@gmail.com,500 Livingston Street,Glen Cove,NY,11542
+967,1,2309.3035,5,2017-08-12,2309.3035,482.0,Laurette,Hebert,,laurette.hebert@msn.com,18 South Constitution Court,Canandaigua,NY,14424
+968,1,1394.9907,1,2017-12-03,1394.9907,369.0,Jonna,Brown,,jonna.brown@aol.com,1 Spring Drive,Mahopac,NY,10541
+969,1,391.992,1,,391.992,9999.0,Jennell,Solis,(507) 421-7354,jennell.solis@hotmail.com,194 2nd Rd.,Rochester,NY,14606
+970,1,4499.991,1,2018-09-01,4499.991,97.0,Ruth,Horton,,ruth.horton@gmail.com,488 Mulberry Ave.,Hollis,NY,11423
+971,1,15876.4261,8,,15876.4261,9999.0,Samual,Warner,(631) 151-4988,samual.warner@gmail.com,8735 Thatcher Dr.,Brentwood,NY,11717
+972,1,6396.9647,4,,6396.9647,9999.0,Damian,Mills,(562) 924-3079,damian.mills@yahoo.com,7747 Elm Dr.,Long Beach,NY,11561
+973,1,4835.376,9,,4835.376,9999.0,Margaretta,Clayton,,margaretta.clayton@yahoo.com,524 San Pablo Ave.,Ridgecrest,CA,93555
+974,1,1197.0725,3,,1197.0725,9999.0,Marcell,Barrett,,marcell.barrett@gmail.com,266 Elm Drive,Astoria,NY,11102
+975,1,4269.9572,5,2017-09-01,4269.9572,462.0,Annis,Sanchez,(424) 352-6275,annis.sanchez@aol.com,4 Edgewater Road,Los Angeles,CA,90008
+976,1,16950.077,8,,16950.077,9999.0,Ayanna,Cherry,,ayanna.cherry@yahoo.com,8829 Galvin Rd.,Smithtown,NY,11787
+977,1,3328.0631,6,2016-11-10,3328.0631,757.0,Barton,Cox,,barton.cox@yahoo.com,8220 Creekside Street,Amityville,NY,11701
+978,1,1064.682,2,,1064.682,9999.0,Diana,Reyes,,diana.reyes@msn.com,7415 Annadale St.,Bronx,NY,10451
+979,1,2867.275,5,,2867.275,9999.0,Ingeborg,Ellison,,ingeborg.ellison@yahoo.com,360 Trusel St.,Ithaca,NY,14850
+980,1,1416.5729999999999,3,2017-01-12,1416.5729999999999,694.0,Carter,Booth,,carter.booth@msn.com,82 Beech Drive,Port Chester,NY,10573
+981,1,1022.9814,2,,1022.9814,9999.0,Christel,Cardenas,(562) 342-8083,christel.cardenas@aol.com,428 S. Swanson Drive,Long Beach,NY,11561
+982,1,2877.7652,4,,2877.7652,9999.0,Orval,Hunter,,orval.hunter@aol.com,35 Wagon Drive,San Angelo,TX,76901
+983,1,9712.9515,9,2018-02-02,9712.9515,308.0,Marguerite,Berger,,marguerite.berger@aol.com,875 Arch Lane,Fullerton,CA,92831
+984,1,6335.6637,5,2016-03-10,6335.6637,1002.0,Ivette,Warren,,ivette.warren@gmail.com,8408 Thomas Street,Franklin Square,NY,11010
+985,1,7130.5405,7,2017-12-01,7130.5405,371.0,Milagros,Weber,,milagros.weber@hotmail.com,7591 Glendale Ave.,Harlingen,TX,78552
+986,1,4544.8471,6,,4544.8471,9999.0,Marcel,Lindsay,,marcel.lindsay@hotmail.com,249 Peninsula St.,Ossining,NY,10562
+987,1,2738.2497,6,,2738.2497,9999.0,Louis,Powell,,louis.powell@aol.com,368 Sugar Rd.,Staten Island,NY,10301
+988,1,2432.9444,6,,2432.9444,9999.0,Vanda,Holmes,,vanda.holmes@aol.com,9835 Wild Rose Drive,Syosset,NY,11791
+989,1,5090.4175,7,,5090.4175,9999.0,Loreen,Byers,,loreen.byers@yahoo.com,83 S. Rockledge Circle,South Ozone Park,NY,11420
+990,1,8200.7267,8,2016-06-12,8200.7267,908.0,Casimira,Chapman,,casimira.chapman@yahoo.com,67 Snake Hill St.,Monroe,NY,10950
+991,1,8062.1245,7,2016-03-03,8062.1245,1009.0,Brigida,Larson,,brigida.larson@hotmail.com,8789 Sycamore Lane,Canyon Country,CA,91387
+992,1,1139.962,4,,1139.962,9999.0,Chere,Alston,,chere.alston@gmail.com,16 Lower River Street,Patchogue,NY,11772
+993,1,377.982,2,2017-07-04,377.982,521.0,Giovanna,Jefferson,,giovanna.jefferson@gmail.com,9394 Riverside St.,Ridgecrest,CA,93555
+994,1,3403.8540000000003,5,2016-08-08,3403.8540000000003,851.0,Demarcus,Reese,,demarcus.reese@gmail.com,8087 Armstrong Dr.,Yorktown Heights,NY,10598
+995,1,4447.724,6,,4447.724,9999.0,Amina,Salazar,,amina.salazar@aol.com,944 Wellington Street,Canandaigua,NY,14424
+996,1,494.991,1,2016-08-02,494.991,857.0,Serafina,Clemons,,serafina.clemons@gmail.com,851 Brown Ave.,Shirley,NY,11967
+997,1,10986.904,5,,10986.904,9999.0,Trinidad,Mcclain,,trinidad.mcclain@msn.com,98 Tunnel Drive,Baldwin,NY,11510
+998,1,5528.957,5,2017-09-11,5528.957,452.0,Heather,Chaney,,heather.chaney@yahoo.com,4 Morris Dr.,Jamestown,NY,14701
+999,1,6530.911899999999,5,2018-07-03,6530.911899999999,157.0,Latoya,Johns,,latoya.johns@hotmail.com,7914 W. Woodsman St.,Ballston Spa,NY,12020
+1000,1,1950.5749999999998,3,2017-11-04,1950.5749999999998,398.0,Shiloh,Reeves,,shiloh.reeves@msn.com,818 Kirkland Lane,West Babylon,NY,11704
+1001,1,3911.8624999999997,4,,3911.8624999999997,9999.0,Lee,Roman,(631) 913-6967,lee.roman@gmail.com,4 Canal Ave.,Brentwood,NY,11717
+1002,1,1233.6722,3,,1233.6722,9999.0,Cami,Williamson,,cami.williamson@hotmail.com,9511A Windsor Drive,Massapequa,NY,11758
+1003,1,3594.863,4,,3594.863,9999.0,Sharell,Ross,,sharell.ross@msn.com,7830 Devonshire Ave.,Vista,CA,92083
+1004,1,278.9907,1,2016-02-08,278.9907,1033.0,Jerald,Blackwell,,jerald.blackwell@hotmail.com,8364 South Wakehurst Ave.,East Elmhurst,NY,11369
+1005,1,17611.957000000002,5,,17611.957000000002,9999.0,Ruthanne,Franco,,ruthanne.franco@yahoo.com,61 Applegate St.,Astoria,NY,11102
+1006,1,6723.0765,8,,6723.0765,9999.0,Marjory,Leonard,,marjory.leonard@msn.com,800 Greystone Lane,Apple Valley,CA,92307
+1007,1,18278.9436,6,2018-01-02,18278.9436,339.0,Jimmy,Russell,,jimmy.russell@hotmail.com,33 Iroquois Ave.,Howard Beach,NY,11414
+1008,1,892.981,2,,892.981,9999.0,Berneice,Pollard,,berneice.pollard@hotmail.com,607 Bohemia Street,Forney,TX,75126
+1009,1,314.991,1,2017-02-09,314.991,666.0,Deangelo,Cooley,,deangelo.cooley@aol.com,3 NE. Edgewood Rd.,Rosedale,NY,11422
+1010,1,9479.9557,5,,9479.9557,9999.0,Katia,Henry,,katia.henry@msn.com,69 E. Columbia Ave.,Bethpage,NY,11714
+1011,1,1042.1724,3,2016-03-08,1042.1724,1004.0,Sebrina,Gross,,sebrina.gross@yahoo.com,993 Glendale Drive,Garland,TX,75043
+1012,1,6712.8464,6,,6712.8464,9999.0,Josephine,Dale,,josephine.dale@aol.com,8214 West Drive,Baldwinsville,NY,13027
+1013,1,1209.4747,3,,1209.4747,9999.0,Alma,Peck,,alma.peck@aol.com,298 South Bay Meadows Drive,Corona,NY,11368
+1014,1,5699.981,2,2017-01-12,5699.981,694.0,Ling,Newman,,ling.newman@msn.com,832 Spring Road,South Richmond Hill,NY,11419
+1015,1,6824.9724,3,,6824.9724,9999.0,Nichelle,Rosario,,nichelle.rosario@hotmail.com,709 Dunbar Ave.,Garden City,NY,11530
+1016,1,1797.975,3,,1797.975,9999.0,Shenna,Benton,(212) 578-2912,shenna.benton@msn.com,57 Shadow Brook Road,New York,NY,10002
+1017,1,1368.0717,3,,1368.0717,9999.0,Philip,Bryan,(510) 533-4262,philip.bryan@hotmail.com,914 Devonshire Court,Oakland,CA,94603
+1018,1,10792.247,6,,10792.247,9999.0,Carita,Salinas,,carita.salinas@yahoo.com,90 Griffin Street,Maspeth,NY,11378
+1019,1,11950.4766,6,,11950.4766,9999.0,Janie,Herrera,,janie.herrera@gmail.com,652 Westport Street,Elmhurst,NY,11373
+1020,1,14141.3394,7,,14141.3394,9999.0,Lorraine,Marks,,lorraine.marks@msn.com,160 North Pearl Street,San Carlos,CA,94070
+1021,1,5863.4454,6,,5863.4454,9999.0,Nicolas,Carlson,,nicolas.carlson@yahoo.com,7899 Spruce Street,Saint Albans,NY,11412
+1022,1,440.991,1,,440.991,9999.0,Hye,Mercer,,hye.mercer@gmail.com,9681 Redwood St.,Mahopac,NY,10541
+1023,1,19329.949200000003,6,2017-08-09,19329.949200000003,485.0,Adena,Blake,,adena.blake@hotmail.com,684 Westport Drive,Ballston Spa,NY,12020
+1024,1,6412.554700000001,5,2017-08-05,6412.554700000001,489.0,Coleman,Boyd,(915) 607-6336,coleman.boyd@yahoo.com,9740 Bay Meadows Drive,El Paso,TX,79930
+1025,1,927.9839999999999,2,,927.9839999999999,9999.0,Daphine,Willis,,daphine.willis@msn.com,152 Shady St.,Farmingdale,NY,11735
+1026,1,7938.9374,7,2018-02-01,7938.9374,309.0,Jenine,Dawson,,jenine.dawson@msn.com,17 Park Street,Endicott,NY,13760
+1027,1,2217.6427000000003,4,,2217.6427000000003,9999.0,Shanita,Wiley,,shanita.wiley@yahoo.com,121 Bridge Lane,Saint Albans,NY,11412
+1028,1,3564.9665000000005,4,,3564.9665000000005,9999.0,Shanna,Bonner,,shanna.bonner@msn.com,386 Lafayette Road,Canandaigua,NY,14424
+1029,1,2804.1440000000002,6,,2804.1440000000002,9999.0,Ping,Quinn,,ping.quinn@gmail.com,9051 Hanover Dr.,Rowlett,TX,75088
+1030,1,3049.983,2,,3049.983,9999.0,Saran,Moses,,saran.moses@yahoo.com,94 Hall Dr.,Brooklyn,NY,11201
+1031,1,8787.129700000001,8,2017-04-10,8787.129700000001,606.0,Tonja,Bean,,tonja.bean@aol.com,9 Middle River St.,Fairport,NY,14450
+1032,1,3121.4817,2,2016-09-12,3121.4817,816.0,Vernon,Knowles,,vernon.knowles@yahoo.com,5 Olive Lane,Huntington Station,NY,11746
+1033,1,2889.8561,5,2017-04-12,2889.8561,604.0,Jeannette,Skinner,,jeannette.skinner@yahoo.com,8886 High Point Drive,Forest Hills,NY,11375
+1034,1,9874.6525,6,2016-08-04,9874.6525,855.0,Rico,Salas,,rico.salas@msn.com,8041 Walt Whitman St.,Centereach,NY,11720
+1035,1,1104.4745,3,,1104.4745,9999.0,Tangela,Hurley,,tangela.hurley@msn.com,49 North Cross St.,Campbell,CA,95008
+1036,1,700.792,1,2017-06-09,700.792,546.0,Randee,Lester,,randee.lester@gmail.com,81 Bear Hill Street,Centereach,NY,11720
+1037,1,17758.349000000002,8,,17758.349000000002,9999.0,Ashanti,Hammond,,ashanti.hammond@msn.com,9202 W. Lyme Ave.,Nanuet,NY,10954
+1038,1,1805.966,4,,1805.966,9999.0,Garry,Juarez,,garry.juarez@hotmail.com,670 Nut Swamp Drive,Forest Hills,NY,11375
+1039,1,2329.576,3,2016-09-09,2329.576,819.0,Bee,Baker,,bee.baker@aol.com,307 E. Magnolia St.,Liverpool,NY,13090
+1040,1,6068.9490000000005,8,,6068.9490000000005,9999.0,Shantae,Hammond,,shantae.hammond@hotmail.com,526 Harvard Drive,Victoria,TX,77904
+1041,1,5627.957,5,2017-04-11,5627.957,605.0,Bettye,Espinoza,,bettye.espinoza@yahoo.com,76 Rockwell Street,Oswego,NY,13126
+1042,1,5588.344400000001,8,2016-05-08,5588.344400000001,943.0,Larissa,Hays,,larissa.hays@aol.com,66 2nd Drive,Elmont,NY,11003
+1043,1,7256.773799999999,5,2018-01-03,7256.773799999999,338.0,Diane,Jones,,diane.jones@gmail.com,859 Prince St.,Fresh Meadows,NY,11365
+1044,1,1041.5814,2,,1041.5814,9999.0,Zenia,Bruce,,zenia.bruce@aol.com,349 James Road,Rosedale,NY,11422
+1045,1,2155.172,5,2016-08-06,2155.172,853.0,Pasquale,Hogan,,pasquale.hogan@aol.com,403 Bank St.,Vista,CA,92083
+1046,1,2205.7556999999997,7,2017-05-05,2205.7556999999997,581.0,Dane,Mcdaniel,,dane.mcdaniel@hotmail.com,891 Court Ave.,Canandaigua,NY,14424
+1047,1,1786.4650000000001,4,2016-01-02,1786.4650000000001,1070.0,Jamaal,Baker,,jamaal.baker@hotmail.com,186 Big Rock Cove Ave.,Elmhurst,NY,11373
+1048,1,6319.946,6,2016-08-10,6319.946,849.0,Ji,Burt,,ji.burt@hotmail.com,40 S. Roberts Street,Apple Valley,CA,92307
+1049,1,3027.0319,3,,3027.0319,9999.0,Marcelino,Mcbride,,marcelino.mcbride@hotmail.com,29 Oxford Ave.,Clifton Park,NY,12065
+1050,1,480.591,1,,480.591,9999.0,Rozella,Fitzgerald,,rozella.fitzgerald@yahoo.com,7795 Myers Ave.,Shirley,NY,11967
+1051,1,9399.965,4,,9399.965,9999.0,Tonisha,Fowler,,tonisha.fowler@msn.com,9270 Valley View Lane,Huntington Station,NY,11746
+1052,1,7663.9490000000005,6,,7663.9490000000005,9999.0,Zora,Ford,(916) 192-3196,zora.ford@gmail.com,7416 La Sierra Dr.,Sacramento,CA,95820
+1053,1,1257.972,3,,1257.972,9999.0,Parthenia,Figueroa,,parthenia.figueroa@msn.com,550 Theatre Dr.,Mahopac,NY,10541
+1054,1,3899.9656999999997,4,,3899.9656999999997,9999.0,Arielle,Levine,,arielle.levine@yahoo.com,7100 High Ridge St.,Garland,TX,75043
+1055,1,2849.9905,1,,2849.9905,9999.0,Hildegarde,Christensen,,hildegarde.christensen@hotmail.com,488 East Mill Pond Ave.,Maspeth,NY,11378
+1056,1,4503.7459,6,,4503.7459,9999.0,Rebbecca,Espinoza,,rebbecca.espinoza@hotmail.com,8266 Valley Farms Road,Mount Vernon,NY,10550
+1057,1,5851.9257,8,,5851.9257,9999.0,Conchita,Boone,,conchita.boone@gmail.com,814 Birchpond Lane,Mount Vernon,NY,10550
+1058,1,2743.9840000000004,2,,2743.9840000000004,9999.0,Aisha,Woods,,aisha.woods@gmail.com,9292 Bear Hill Ave.,Webster,NY,14580
+1059,1,3185.9454,6,,3185.9454,9999.0,Season,Harvey,,season.harvey@yahoo.com,388 Arnold Court,East Northport,NY,11731
+1060,1,8011.312,4,2017-02-12,8011.312,663.0,Tommie,Cooley,(717) 634-4113,tommie.cooley@yahoo.com,92 Hickory St.,Lancaster,NY,14086
+1061,1,1076.9307000000001,3,,1076.9307000000001,9999.0,Alanna,Barry,,alanna.barry@yahoo.com,33 Laurel Avenue,Euless,TX,76039
+1062,1,4477.174,4,2016-12-09,4477.174,728.0,Jerri,Guthrie,,jerri.guthrie@msn.com,95 Sugar Dr.,Carmel,NY,10512
+1063,1,13765.5468,8,,13765.5468,9999.0,Tammy,Austin,,tammy.austin@yahoo.com,182 Stillwater Ave.,Lake Jackson,TX,77566
+1064,1,1060.1721,3,,1060.1721,9999.0,Patsy,Russo,,patsy.russo@gmail.com,8438 Fairway Avenue,Rowlett,TX,75088
+1065,1,466.8414,2,,466.8414,9999.0,Desiree,Branch,,desiree.branch@msn.com,67 Bayport Drive,San Lorenzo,CA,94580
+1066,1,4030.9570000000003,5,2018-12-01,4030.9570000000003,6.0,Raeann,Duncan,(657) 256-2008,raeann.duncan@aol.com,126 Edgewood St.,Anaheim,CA,92806
+1067,1,4130.3445,6,2017-01-10,4130.3445,696.0,Lillia,Gillespie,,lillia.gillespie@hotmail.com,382 Cardinal Dr.,Rego Park,NY,11374
+1068,1,3167.9562,5,,3167.9562,9999.0,Doris,Kaufman,,doris.kaufman@gmail.com,69 Fairground Dr.,Duarte,CA,91010
+1069,1,8280.543,4,,8280.543,9999.0,Rodolfo,Buck,,rodolfo.buck@gmail.com,8359 Brewery Street,Shirley,NY,11967
+1070,1,12774.2451,6,,12774.2451,9999.0,Olimpia,Mays,,olimpia.mays@aol.com,42 Nichols Lane,Oakland Gardens,NY,11364
+1071,1,3370.5721,6,2016-01-09,3370.5721,1063.0,Shemeka,Lyons,,shemeka.lyons@msn.com,97 South Jockey Hollow St.,Pomona,CA,91768
+1072,1,4064.8377,7,2017-03-03,4064.8377,644.0,Maryalice,Henry,,maryalice.henry@msn.com,85 Prince Street,Richardson,TX,75080
+1073,1,1115.9814,2,,1115.9814,9999.0,Leeanne,Cross,,leeanne.cross@yahoo.com,424 Newcastle Road,Bayside,NY,11361
+1074,1,1072.1624,4,2016-01-05,1072.1624,1067.0,Lanelle,Guerra,,lanelle.guerra@yahoo.com,989 Wrangler St.,Floral Park,NY,11001
+1075,1,2653.073,5,2016-07-02,2653.073,888.0,Dann,Huff,,dann.huff@gmail.com,475 S. Rockville St.,Huntington Station,NY,11746
+1076,1,1619.991,1,,1619.991,9999.0,Sherise,Mercer,,sherise.mercer@gmail.com,9401 Catherine Dr.,Vista,CA,92083
+1077,1,718.4,2,2017-02-08,718.4,667.0,Heather,Perry,,heather.perry@gmail.com,982 Durham Street,Sunnyside,NY,11104
+1078,1,4803.6301,8,2016-08-03,4803.6301,856.0,Theresia,Barron,,theresia.barron@aol.com,951 Wild Rose Street,Forest Hills,NY,11375
+1079,1,758.9827,2,2016-11-04,758.9827,763.0,Cindi,Ellis,,cindi.ellis@yahoo.com,6 Cypress Lane,Floral Park,NY,11001
+1080,1,3430.9631,6,,3430.9631,9999.0,Mirella,Duffy,,mirella.duffy@yahoo.com,43 University Ave.,Longview,TX,75604
+1081,1,7747.7390000000005,7,2017-04-02,7747.7390000000005,614.0,Carson,Macias,,carson.macias@gmail.com,7 Pennington St.,New Rochelle,NY,10801
+1082,1,3199.992,1,,3199.992,9999.0,Divina,Madden,(562) 264-3998,divina.madden@gmail.com,7314 Armstrong St.,Long Beach,NY,11561
+1083,1,3866.0454,6,2018-02-01,3866.0454,309.0,Cher,Alston,,cher.alston@msn.com,38 Wild Horse Road,Wantagh,NY,11793
+1084,1,8303.3719,5,,8303.3719,9999.0,Regine,Odom,,regine.odom@msn.com,684 N. Mayfield Ave.,Franklin Square,NY,11010
+1085,1,5841.5215,4,,5841.5215,9999.0,Adam,Thornton,,adam.thornton@hotmail.com,755 East Henry Lane,Central Islip,NY,11722
+1086,1,12400.848,6,,12400.848,9999.0,Cori,Schwartz,,cori.schwartz@msn.com,43 Lancaster Lane,Jamaica,NY,11432
+1087,1,2190.566,4,,2190.566,9999.0,Willow,Gardner,,willow.gardner@gmail.com,57 S. Lakewood Dr.,Pleasanton,CA,94566
+1088,1,3793.158,5,,3793.158,9999.0,Jane,Henderson,,jane.henderson@hotmail.com,46 Carson Drive,Apple Valley,CA,92307
+1089,1,6784.9567,5,,6784.9567,9999.0,Chere,Mcfadden,,chere.mcfadden@yahoo.com,695 San Pablo Drive,Orchard Park,NY,14127
+1090,1,12392.9547,5,,12392.9547,9999.0,Ira,Erickson,,ira.erickson@aol.com,6 Lake Forest St.,Port Jefferson Station,NY,11776
+1091,1,4445.0609,8,,4445.0609,9999.0,Risa,Gallagher,,risa.gallagher@yahoo.com,8281 Edgefield Drive,Rocklin,CA,95677
+1092,1,753.584,2,,753.584,9999.0,Lavinia,Cotton,,lavinia.cotton@yahoo.com,7485 Bridle Street,East Northport,NY,11731
+1093,1,3447.2278,8,2017-06-01,3447.2278,554.0,Alejandrina,Hodges,,alejandrina.hodges@msn.com,7598 Shadow Brook St.,Deer Park,NY,11729
+1094,1,824.9815,2,,824.9815,9999.0,Keitha,Black,,keitha.black@yahoo.com,7670 Hilldale Ave.,Lindenhurst,NY,11757
+1095,1,426.55,1,,426.55,9999.0,Corene,Swanson,,corene.swanson@aol.com,597 Lakeshore Lane,Rego Park,NY,11374
+1096,1,4169.3542,5,,4169.3542,9999.0,Tonda,Webb,,tonda.webb@yahoo.com,53 SW. Edgemont Rd.,Baldwinsville,NY,13027
+1097,1,4195.3079,6,2017-03-02,4195.3079,645.0,Collen,Dennis,,collen.dennis@gmail.com,284 E. Mill Street,San Pablo,CA,94806
+1098,1,889.5840000000001,2,,889.5840000000001,9999.0,Treasa,Dickerson,,treasa.dickerson@hotmail.com,70 W. Creekside Road,Rockville Centre,NY,11570
+1099,1,1019.963,4,,1019.963,9999.0,Jewell,Reyes,,jewell.reyes@hotmail.com,8711 Glen Creek Drive,Jackson Heights,NY,11372
+1100,1,18670.9288,8,2017-07-09,18670.9288,516.0,Penny,Acevedo,,penny.acevedo@yahoo.com,318 Mulberry Drive,Ballston Spa,NY,12020
+1101,1,4196.9552,5,,4196.9552,9999.0,Louise,Flowers,,louise.flowers@yahoo.com,28 N. Gregory Court,Depew,NY,14043
+1102,1,3891.5125,7,2016-03-05,3891.5125,1007.0,Henrietta,Wagner,(682) 143-2224,henrietta.wagner@hotmail.com,54 Brickyard St.,Fort Worth,TX,76110
+1103,1,12334.957,5,2016-12-12,12334.957,725.0,Ardelia,Cooley,,ardelia.cooley@aol.com,59 Henry Smith St.,Canyon Country,CA,91387
+1104,1,2362.1628,4,2017-07-03,2362.1628,522.0,Khalilah,Robertson,,khalilah.robertson@aol.com,22 Longbranch Rd.,Spring Valley,NY,10977
+1105,1,2843.0734,6,,2843.0734,9999.0,Armando,Black,,armando.black@gmail.com,8611 N. Poor House St.,Richardson,TX,75080
+1106,1,1576.782,2,,1576.782,9999.0,Jerri,Henry,,jerri.henry@msn.com,141 N. Purple Finch Avenue,Spring Valley,NY,10977
+1107,1,1868.9634,4,2017-05-11,1868.9634,575.0,Lynda,Newman,,lynda.newman@msn.com,44 SW. Thomas Ave.,Saratoga Springs,NY,12866
+1108,1,2793.0481,6,2016-08-11,2793.0481,848.0,Bao,Wade,,bao.wade@gmail.com,7587 Church St.,Desoto,TX,75115
+1109,1,1595.6657,4,2017-08-10,1595.6657,484.0,Gussie,Harding,,gussie.harding@gmail.com,41 Edgefield Avenue,Deer Park,NY,11729
+1110,1,1249.972,3,,1249.972,9999.0,Shirely,Cantrell,,shirely.cantrell@aol.com,6 Kent Street,West Hempstead,NY,11552
+1111,1,170.991,1,2017-10-10,170.991,423.0,Caroline,Jenkins,,caroline.jenkins@msn.com,86 River Lane,Richardson,TX,75080
+1112,1,5709.9555,5,,5709.9555,9999.0,Hollis,Rasmussen,,hollis.rasmussen@yahoo.com,8949 S. Gates Road,Massapequa,NY,11758
+1113,1,4171.9479,7,,4171.9479,9999.0,Kendra,Harrington,,kendra.harrington@yahoo.com,768 Cooper Street,Jamestown,NY,14701
+1114,1,1951.3474,6,,1951.3474,9999.0,Douglass,Blankenship,(229) 891-2087,douglass.blankenship@hotmail.com,409 W. Rock Maple Lane,Albany,NY,12203
+1115,1,3720.8885,7,,3720.8885,9999.0,Lina,Meadows,,lina.meadows@aol.com,7020 Ashley Rd.,Glen Cove,NY,11542
+1116,1,1055.984,2,2018-08-03,1055.984,126.0,Patria,Harper,,patria.harper@msn.com,90 Arlington St.,Astoria,NY,11102
+1117,1,1845.882,2,,1845.882,9999.0,Jeffrey,Hill,,jeffrey.hill@gmail.com,2 Shub Farm St.,Rosedale,NY,11422
+1118,1,7947.441999999999,6,,7947.441999999999,9999.0,Ja,Dillard,,ja.dillard@yahoo.com,25 Orchard St.,Canyon Country,CA,91387
+1119,1,5775.5447,4,,5775.5447,9999.0,Tora,Dunlap,,tora.dunlap@hotmail.com,9903 North Halifax Ave.,Monsey,NY,10952
+1120,1,7159.9556999999995,5,,7159.9556999999995,9999.0,Karole,Alvarez,,karole.alvarez@gmail.com,69 Woodland St.,East Northport,NY,11731
+1121,1,2360.3907,3,2016-08-12,2360.3907,847.0,Shasta,Combs,,shasta.combs@yahoo.com,726 James Dr.,Yorktown Heights,NY,10598
+1122,1,6701.455,5,2018-05-01,6701.455,220.0,Cicely,Deleon,,cicely.deleon@yahoo.com,751 Newbridge Ave.,Massapequa Park,NY,11762
+1123,1,2509.946,6,,2509.946,9999.0,Raphael,O'Neil,,raphael.o'neil@aol.com,762 East Lantern Dr.,Fairport,NY,14450
+1124,1,3419.981,2,,3419.981,9999.0,Hubert,Reilly,,hubert.reilly@hotmail.com,9004 N. Lake Rd.,Amityville,NY,11701
+1125,1,7339.4195,9,,7339.4195,9999.0,Caleb,England,,caleb.england@gmail.com,649 Marvon St.,Pleasanton,CA,94566
+1126,1,6718.5542,5,2018-08-02,6718.5542,127.0,Elmira,Levy,,elmira.levy@gmail.com,6 Columbia Dr.,Spring Valley,NY,10977
+1127,1,3032.982,2,,3032.982,9999.0,Waldo,Hart,,waldo.hart@yahoo.com,9782 Pineknoll Lane,Queensbury,NY,12804
+1128,1,2643.2447,6,,2643.2447,9999.0,Bea,Kane,,bea.kane@aol.com,398 Green Lake Ave.,Mahopac,NY,10541
+1129,1,4497.0048,6,,4497.0048,9999.0,Gilberto,Sanders,,gilberto.sanders@hotmail.com,186 Roehampton Ave.,Woodside,NY,11377
+1130,1,502.1814,2,2016-01-07,502.1814,1065.0,Benny,Bender,,benny.bender@aol.com,520 W. Hamilton St.,Elmont,NY,11003
+1131,1,14566.4345,7,,14566.4345,9999.0,Desmond,Rose,,desmond.rose@hotmail.com,9956 Lexington Rd.,Mount Vernon,NY,10550
+1132,1,15205.9284,8,2017-12-09,15205.9284,363.0,Parthenia,Holman,,parthenia.holman@gmail.com,17 Orange Court,Ithaca,NY,14850
+1133,1,4115.9724,3,,4115.9724,9999.0,Dung,King,,dung.king@aol.com,523 Prairie St.,West Islip,NY,11795
+1134,1,5723.7441,7,2017-07-08,5723.7441,517.0,Sherril,Alvarado,,sherril.alvarado@hotmail.com,9434 Cypress Court,Desoto,TX,75115
+1135,1,6150.936699999999,7,,6150.936699999999,9999.0,Alisia,Albert,,alisia.albert@gmail.com,9490 Coffee St.,Garland,TX,75043
+1136,1,11428.653,7,,11428.653,9999.0,Kallie,Best,(507) 997-4112,kallie.best@aol.com,9842 Fairview St.,Rochester,NY,14606
+1137,1,6654.4734,5,2017-08-02,6654.4734,492.0,Dottie,Roberts,,dottie.roberts@aol.com,8252 Theatre St.,Port Washington,NY,11050
+1138,1,10541.9632,4,,10541.9632,9999.0,Hubert,Stone,,hubert.stone@hotmail.com,203 Penn St.,Ridgecrest,CA,93555
+1139,1,999.4825,2,,999.4825,9999.0,Gabriella,Jones,,gabriella.jones@hotmail.com,9100 Gates Ave.,Mount Vernon,NY,10550
+1140,1,2835.5514,3,2016-07-05,2835.5514,885.0,Penney,Hall,,penney.hall@msn.com,8306 Jockey Hollow Street,Liverpool,NY,13090
+1141,1,4135.9565,5,,4135.9565,9999.0,Mallie,Osborn,,mallie.osborn@gmail.com,9022 Bridgeton St.,Newburgh,NY,12550
+1142,1,232.4907,1,2018-11-03,232.4907,34.0,Britteny,Schroeder,,britteny.schroeder@aol.com,855 Bohemia Dr.,Pittsford,NY,14534
+1143,1,1256.091,3,2017-06-03,1256.091,552.0,Sommer,Hopkins,,sommer.hopkins@gmail.com,827 Laurel Ave.,Tonawanda,NY,14150
+1144,1,6187.1539,5,2016-02-11,6187.1539,1030.0,Jewel,Sparks,,jewel.sparks@aol.com,12 Vine Road,Oakland Gardens,NY,11364
+1145,1,3172.4449,6,2017-02-07,3172.4449,668.0,Deandrea,Vega,(914) 818-7312,deandrea.vega@gmail.com,613 Mill Pond St.,Yonkers,NY,10701
+1146,1,512.981,2,,512.981,9999.0,Charlsie,Carson,,charlsie.carson@hotmail.com,3 South Grant Avenue,Saint Albans,NY,11412
+1147,1,5004.5978,7,2016-09-04,5004.5978,824.0,Kandace,Ayers,,kandace.ayers@gmail.com,9005 Lookout Lane,Santa Monica,CA,90403
+1148,1,8009.0321,8,,8009.0321,9999.0,Lenore,Valdez,,lenore.valdez@msn.com,829 Birchpond Street,Spring Valley,NY,10977
+1149,1,6265.955,5,,6265.955,9999.0,Drucilla,Gilliam,,drucilla.gilliam@hotmail.com,8257 E. Westminster Ave.,Santa Clara,CA,95050
+1150,1,7091.9367,7,2017-12-10,7091.9367,362.0,Keturah,Reid,(361) 394-2024,keturah.reid@yahoo.com,747 SE. Beech Ave.,Corpus Christi,TX,78418
+1151,1,7139.954,5,2016-01-09,7139.954,1063.0,Herminia,Reyes,,herminia.reyes@gmail.com,782 Stonybrook Street,Centereach,NY,11720
+1152,1,5841.0992,6,2017-09-03,5841.0992,460.0,Tuyet,Rosa,,tuyet.rosa@aol.com,9038 Golden Star Street,South El Monte,CA,91733
+1153,1,4466.6452,6,2017-10-01,4466.6452,432.0,Ara,Vazquez,,ara.vazquez@msn.com,343 2nd Court,San Carlos,CA,94070
+1154,1,3227.391,3,,3227.391,9999.0,Barry,Albert,,barry.albert@gmail.com,13 Grand St.,Auburn,NY,13021
+1155,1,1567.4715,3,,1567.4715,9999.0,Verdell,Joyner,,verdell.joyner@aol.com,9191 Sierra St.,Far Rockaway,NY,11691
+1156,1,3763.8714999999997,3,,3763.8714999999997,9999.0,Han,Wade,,han.wade@hotmail.com,587 Sulphur Springs St.,Howard Beach,NY,11414
+1157,1,797.94,2,,797.94,9999.0,Anton,Barton,(716) 472-3707,anton.barton@msn.com,7284 East Indian Spring Rd.,Buffalo,NY,14215
+1158,1,6754.9376,7,,6754.9376,9999.0,Vito,Pickett,,vito.pickett@hotmail.com,93 High Point Street,Canandaigua,NY,14424
+1159,1,6764.5727,5,,6764.5727,9999.0,Charlene,Norris,,charlene.norris@msn.com,972 South Sierra Drive,Syosset,NY,11791
+1160,1,3110.8567000000003,5,,3110.8567000000003,9999.0,Efren,Whitfield,,efren.whitfield@gmail.com,139 Union Rd.,Euless,TX,76039
+1161,1,8445.9545,5,,8445.9545,9999.0,Santa,Larson,,santa.larson@gmail.com,5 Bellevue Dr.,Valley Stream,NY,11580
+1162,1,7157.3531,5,2017-11-02,7157.3531,400.0,Carmelina,Sellers,,carmelina.sellers@hotmail.com,12 Race St.,Ithaca,NY,14850
+1163,1,4186.5267,6,,4186.5267,9999.0,Carmela,Hays,,carmela.hays@aol.com,149 Pennington Ave.,Lawndale,CA,90260
+1164,1,4539.974,3,2017-01-04,4539.974,702.0,Patrina,Tanner,,patrina.tanner@gmail.com,7136 Selby Road,Scarsdale,NY,10583
+1165,1,9301.9304,8,,9301.9304,9999.0,Rikki,Morrow,(682) 936-1482,rikki.morrow@hotmail.com,7096 Plumb Branch Road,Fort Worth,TX,76110
+1166,1,242.991,1,,242.991,9999.0,Junita,Reese,,junita.reese@gmail.com,8773 North Walt Whitman Court,Bay Shore,NY,11706
+1167,1,3126.6414,2,,3126.6414,9999.0,Ryan,Carter,,ryan.carter@yahoo.com,8684 Studebaker Road,Nanuet,NY,10954
+1168,1,799.992,1,,799.992,9999.0,Almeta,Benjamin,,almeta.benjamin@aol.com,8456 Oakwood St.,Sunnyside,NY,11104
+1169,1,4665.5492,6,2016-12-11,4665.5492,726.0,Beatris,Joyner,,beatris.joyner@gmail.com,7463 Gonzales Rd.,Spring Valley,NY,10977
+1170,1,1210.2714999999998,3,2017-10-11,1210.2714999999998,422.0,Mechelle,Chan,,mechelle.chan@gmail.com,458 Overlook Street,Richmond Hill,NY,11418
+1171,1,14249.6462,6,,14249.6462,9999.0,Earlean,Pena,,earlean.pena@yahoo.com,7698 Fulton St.,Rome,NY,13440
+1172,1,5777.7667,6,,5777.7667,9999.0,Katherin,Clark,,katherin.clark@yahoo.com,996 Iroquois Street,Pittsford,NY,14534
+1173,1,1904.4585000000002,5,2016-04-02,1904.4585000000002,979.0,Chanel,May,,chanel.may@msn.com,806 Saxton Court,Garden City,NY,11530
+1174,1,5927.5509999999995,3,,5927.5509999999995,9999.0,Aaron,Knapp,(914) 402-4335,aaron.knapp@yahoo.com,807 Grandrose Ave.,Yonkers,NY,10701
+1175,1,4092.8567000000003,5,2016-12-01,4092.8567000000003,736.0,Sindy,Anderson,,sindy.anderson@gmail.com,543 Halifax Ave.,Pomona,CA,91768
+1176,1,531.981,2,2018-05-03,531.981,218.0,Sheree,Blanchard,,sheree.blanchard@gmail.com,41 Glenwood Ave.,Queensbury,NY,12804
+1177,1,3302.1734,3,,3302.1734,9999.0,Charlesetta,Soto,,charlesetta.soto@yahoo.com,25 South Colonial Drive,Poughkeepsie,NY,12601
+1178,1,3950.3624,4,,3950.3624,9999.0,Wendie,Nash,(805) 389-2549,wendie.nash@hotmail.com,9 South Road,Oxnard,CA,93035
+1179,1,2123.5632,4,2016-12-05,2123.5632,732.0,Vernetta,Banks,,vernetta.banks@aol.com,7633 Albany St.,Brooklyn,NY,11201
+1180,1,1753.7717,3,2017-05-11,1753.7717,575.0,Myrtle,Gardner,,myrtle.gardner@aol.com,303 Creekside Street,Farmingdale,NY,11735
+1181,1,2283.8072,5,2017-05-04,2283.8072,582.0,Agustina,Lawrence,,agustina.lawrence@yahoo.com,9347 Delaware Ave.,Brooklyn,NY,11201
+1182,1,2052.3520000000003,6,,2052.3520000000003,9999.0,Trinidad,Chapman,,trinidad.chapman@aol.com,7371 Glen Eagles Street,Ronkonkoma,NY,11779
+1183,1,2664.9644,6,,2664.9644,9999.0,Kim,Clark,,kim.clark@msn.com,19 Liberty St.,Merrick,NY,11566
+1184,1,3287.322,9,,3287.322,9999.0,Annabelle,Hebert,,annabelle.hebert@aol.com,9745 Nicolls Lane,Spring Valley,NY,10977
+1185,1,2801.932,8,2016-07-02,2801.932,888.0,Corine,Stuart,,corine.stuart@msn.com,5 Penn Street,Clifton Park,NY,12065
+1186,1,1228.5207,1,2018-01-02,1228.5207,339.0,Kiesha,Bond,,kiesha.bond@aol.com,29 Marvon St.,San Carlos,CA,94070
+1187,1,2013.965,4,,2013.965,9999.0,Kenyetta,Mason,,kenyetta.mason@msn.com,98 Poplar Ave.,Flushing,NY,11354
+1188,1,3668.926,8,,3668.926,9999.0,Marcene,Curtis,(914) 361-6045,marcene.curtis@msn.com,7699 Illinois Lane,Yonkers,NY,10701
+1189,1,3581.4619999999995,4,2016-04-08,3581.4619999999995,973.0,Sheila,Goodman,,sheila.goodman@msn.com,9586 Chestnut St.,Uniondale,NY,11553
+1190,1,4922.9484999999995,6,,4922.9484999999995,9999.0,Romeo,Steele,,romeo.steele@msn.com,162 Crescent Lane,Port Jefferson Station,NY,11776
+1191,1,3439.1719,3,,3439.1719,9999.0,Tam,Fisher,(507) 351-9375,tam.fisher@aol.com,8000 Woodsman Lane,Rochester,NY,14606
+1192,1,8299.965,4,,8299.965,9999.0,Gena,Owens,,gena.owens@gmail.com,43 Buckingham St.,Desoto,TX,75115
+1193,1,2024.0637,4,,2024.0637,9999.0,Phebe,Soto,,phebe.soto@hotmail.com,9239 Leatherwood Rd.,South Ozone Park,NY,11420
+1194,1,1692.537,5,,1692.537,9999.0,Leticia,Snyder,,leticia.snyder@yahoo.com,173 Lyme Dr.,Pittsford,NY,14534
+1195,1,11993.972,3,,11993.972,9999.0,Chantell,Bridges,(716) 941-6072,chantell.bridges@yahoo.com,8478 N. Wrangler Dr.,Buffalo,NY,14215
+1196,1,4499.991,1,2017-08-02,4499.991,492.0,Ileana,Holt,,ileana.holt@msn.com,817 Adams St.,Patchogue,NY,11772
+1197,1,2800.2975,6,2017-09-11,2800.2975,452.0,Nakisha,Clay,,nakisha.clay@gmail.com,8996 Beechwood Ave.,Port Washington,NY,11050
+1198,1,1745.964,4,,1745.964,9999.0,Cheryll,Snyder,,cheryll.snyder@yahoo.com,77 E. Liberty St.,Brooklyn,NY,11201
+1199,1,15455.625,8,2017-08-01,15455.625,493.0,Consuela,Collier,,consuela.collier@msn.com,338 S. Holly Avenue,North Tonawanda,NY,14120
+1200,1,5565.5645,6,2016-10-04,5565.5645,794.0,Aubrey,Durham,,aubrey.durham@aol.com,14 Foster Ave.,Port Washington,NY,11050
+1201,1,9372.3701,8,2017-05-03,9372.3701,583.0,Nita,Guy,,nita.guy@hotmail.com,75 Academy Street,Port Chester,NY,10573
+1202,1,4497.5817,3,2016-02-09,4497.5817,1032.0,Carmina,Emerson,,carmina.emerson@hotmail.com,7137 Monroe Road,Banning,CA,92220
+1203,1,3818.2124,10,2017-01-04,3818.2124,702.0,Georgeann,Rojas,,georgeann.rojas@msn.com,691 Devon Ave.,Desoto,TX,75115
+1204,1,1372.4719,3,2016-04-01,1372.4719,980.0,Leslie,Higgins,,leslie.higgins@hotmail.com,805 Logan Ave.,Saratoga Springs,NY,12866
+1205,1,10563.648,7,2016-05-07,10563.648,944.0,Emmaline,Huber,,emmaline.huber@gmail.com,7975 Harrison Rd.,Mount Vernon,NY,10550
+1206,1,6239.2787,6,2017-08-05,6239.2787,489.0,Mercy,Brown,,mercy.brown@msn.com,8207 Central Street,Hollis,NY,11423
+1207,1,524.3905,1,2017-02-11,524.3905,664.0,Jenell,Crosby,(631) 544-4772,jenell.crosby@hotmail.com,507 Fulton Street,Brentwood,NY,11717
+1208,1,3144.3269999999998,6,2016-10-12,3144.3269999999998,786.0,Leila,Barr,,leila.barr@yahoo.com,120 Fremont Rd.,Carmel,NY,10512
+1209,1,4778.0236,6,2016-04-12,4778.0236,969.0,Deandrea,Cox,,deandrea.cox@msn.com,617 Sycamore Street,Huntington,NY,11743
+1210,1,2705.007,5,,2705.007,9999.0,Shawnna,Frank,,shawnna.frank@hotmail.com,17 NW. Cottage Lane,Woodside,NY,11377
+1211,1,3439.944,6,2016-06-12,3439.944,908.0,Brenton,Whitaker,,brenton.whitaker@gmail.com,25 Elmwood Rd.,Niagara Falls,NY,14304
+1212,1,1697.9717,3,2016-01-01,1697.9717,1071.0,Jaqueline,Cummings,,jaqueline.cummings@hotmail.com,478 Wrangler St.,Huntington Station,NY,11746
+1213,1,5244.955,5,,5244.955,9999.0,Yang,Giles,,yang.giles@gmail.com,25 Bridle Lane,San Angelo,TX,76901
+1214,1,20648.9537,5,,20648.9537,9999.0,Brigid,Sharp,,brigid.sharp@hotmail.com,495 Sleepy Hollow Court,Santa Clara,CA,95050
+1215,1,5745.9552,5,2017-11-04,5745.9552,398.0,Karl,Stephens,,karl.stephens@gmail.com,208 Thatcher Rd.,Rockville Centre,NY,11570
+1216,1,2780.547,6,,2780.547,9999.0,Elvina,Gates,,elvina.gates@hotmail.com,112 Smith St.,Pleasanton,CA,94566
+1217,1,2133.9264,7,2016-11-09,2133.9264,758.0,Carlie,Terrell,(914) 517-8036,carlie.terrell@yahoo.com,7437 Snake Hill Road,Yonkers,NY,10701
+1218,1,3126.6414,2,,3126.6414,9999.0,Donovan,Cantrell,(510) 624-3824,donovan.cantrell@msn.com,601 Winchester Dr.,Oakland,CA,94603
+1219,1,3484.0719,6,2016-04-12,3484.0719,969.0,Alden,Atkinson,,alden.atkinson@gmail.com,46 Valley St.,Shirley,NY,11967
+1220,1,5404.055700000001,5,,5404.055700000001,9999.0,Carissa,Cross,,carissa.cross@yahoo.com,9335 West Main Dr.,Huntington Station,NY,11746
+1221,1,989.982,2,2017-01-10,989.982,696.0,Joy,Underwood,,joy.underwood@gmail.com,7297 Armstrong Dr.,Apple Valley,CA,92307
+1222,1,1441.165,4,,1441.165,9999.0,Geraldine,O'Donnell,,geraldine.o'donnell@hotmail.com,8241 Lookout Rd.,Flushing,NY,11354
+1223,1,3589.566,4,,3589.566,9999.0,Bronwyn,Vargas,,bronwyn.vargas@msn.com,35 James Street,New Windsor,NY,12553
+1224,1,24607.026100000003,8,2017-05-06,24607.026100000003,580.0,Abram,Copeland,,abram.copeland@gmail.com,9782 Indian Spring Lane,Harlingen,TX,78552
+1225,1,10050.6281,8,2017-04-08,10050.6281,608.0,Mellisa,Griffin,,mellisa.griffin@msn.com,49 Alton Circle,Los Banos,CA,93635
+1226,1,1988.0501,8,,1988.0501,9999.0,Qiana,Jackson,,qiana.jackson@gmail.com,56 Galvin Street,East Northport,NY,11731
+1227,1,7587.515399999999,5,,7587.515399999999,9999.0,Magali,Dixon,(248) 279-5331,magali.dixon@msn.com,815 Del Monte Court,Troy,NY,12180
+1228,1,512.981,2,2016-04-11,512.981,970.0,Zulema,Clemons,(510) 565-8496,zulema.clemons@aol.com,75 W. Howard St.,Oakland,CA,94603
+1229,1,2707.8278,8,,2707.8278,9999.0,Carina,Lynch,,carina.lynch@gmail.com,64 Jennings Road,Wappingers Falls,NY,12590
+1230,1,7063.4639,4,,7063.4639,9999.0,Jesus,Burch,,jesus.burch@hotmail.com,7024 Squaw Creek Street,Desoto,TX,75115
+1231,1,2119.259,5,2018-06-03,2119.259,187.0,Selene,Vega,,selene.vega@gmail.com,11 Sierra St.,Campbell,CA,95008
+1232,1,1891.1125,5,2016-06-12,1891.1125,908.0,Jong,Guthrie,,jong.guthrie@hotmail.com,889 Leatherwood Drive,Bethpage,NY,11714
+1233,1,5015.7377,6,2017-05-02,5015.7377,584.0,Lise,Hebert,,lise.hebert@gmail.com,140 East Broad Lane,Vista,CA,92083
+1234,1,2069.4549,5,,2069.4549,9999.0,Joshua,Berg,,joshua.berg@hotmail.com,16 East St.,Ossining,NY,10562
+1235,1,5417.9727,3,2017-06-08,5417.9727,547.0,Georgina,Gonzales,,georgina.gonzales@yahoo.com,307 Chapel St.,Endicott,NY,13760
+1236,1,8263.867,4,,8263.867,9999.0,Rudolph,Velez,,rudolph.velez@yahoo.com,9397 Pleasant Drive,Mount Vernon,NY,10550
+1237,1,12420.713,10,2016-01-03,12420.713,1069.0,Luke,Kramer,,luke.kramer@hotmail.com,7955 Delaware Drive,Bethpage,NY,11714
+1238,1,7993.865,4,,7993.865,9999.0,Edgar,Quinn,,edgar.quinn@aol.com,556 Dogwood Ave.,Harlingen,TX,78552
+1239,1,601.5812000000001,2,2018-10-03,601.5812000000001,65.0,Tara,Maynard,,tara.maynard@hotmail.com,9375 Fordham Street,Lindenhurst,NY,11757
+1240,1,5444.956,5,,5444.956,9999.0,Bella,Perez,,bella.perez@msn.com,43 Green Lake Street,Duarte,CA,91010
+1241,1,1115.9814,2,2016-04-02,1115.9814,979.0,Nathaniel,Davidson,,nathaniel.davidson@hotmail.com,7476 Henry Smith Street,Rome,NY,13440
+1242,1,4762.4631,4,2017-05-02,4762.4631,584.0,Chauncey,Donaldson,,chauncey.donaldson@aol.com,7412 Golf Ave.,Franklin Square,NY,11010
+1243,1,1582.1634,4,,1582.1634,9999.0,Heide,Reed,,heide.reed@yahoo.com,9174 Coffee Drive,Floral Park,NY,11001
+1244,1,5732.465200000001,4,,5732.465200000001,9999.0,Trang,Hardin,,trang.hardin@yahoo.com,9255 Myers Drive,Depew,NY,14043
+1245,1,7345.7374,7,2016-04-07,7345.7374,974.0,Gabriela,Warren,(562) 986-2247,gabriela.warren@aol.com,9947 Brewery Ave.,Long Beach,NY,11561
+1246,1,4167.846,6,,4167.846,9999.0,Dale,Rasmussen,,dale.rasmussen@aol.com,8590 Adams Street,Kingston,NY,12401
+1247,1,6239.093599999999,7,,6239.093599999999,9999.0,Tammie,Cherry,,tammie.cherry@hotmail.com,791 Wakehurst Dr.,Massapequa,NY,11758
+1248,1,6794.082,3,,6794.082,9999.0,Bethany,Herring,,bethany.herring@yahoo.com,7563 High Point Street,Port Jefferson Station,NY,11776
+1249,1,7520.0371,7,,7520.0371,9999.0,Barbra,Dickerson,,barbra.dickerson@gmail.com,8424 E. Rockcrest Dr.,Ridgecrest,CA,93555
+1250,1,2083.1605,3,,2083.1605,9999.0,Neoma,Daugherty,,neoma.daugherty@gmail.com,80 Spring Street,Mount Vernon,NY,10550
+1251,1,2259.3407,7,2017-03-04,2259.3407,643.0,Nanette,Roman,,nanette.roman@yahoo.com,8254 North Riverview Street,Glendora,CA,91740
+1252,1,3181.5405,2,,3181.5405,9999.0,Adriene,Rollins,,adriene.rollins@msn.com,55 Cambridge Street,Plainview,NY,11803
+1253,1,1390.4733999999999,3,2016-09-02,1390.4733999999999,826.0,Susannah,Fields,,susannah.fields@hotmail.com,17 Railroad Street,Far Rockaway,NY,11691
+1254,1,5515.9647,4,2018-09-02,5515.9647,96.0,Dung,Reid,,dung.reid@msn.com,468 West Washington Ave.,Canyon Country,CA,91387
+1255,1,923.0727,3,2016-06-03,923.0727,917.0,Ben,Stone,,ben.stone@gmail.com,8855 University St.,Ithaca,NY,14850
+1256,1,1538.964,4,2018-02-02,1538.964,308.0,Nubia,Anderson,,nubia.anderson@aol.com,584 NW. Hilldale Drive,Ronkonkoma,NY,11779
+1257,1,5893.5494,6,,5893.5494,9999.0,Rosamaria,Meyer,,rosamaria.meyer@yahoo.com,446 Elizabeth St.,Webster,NY,14580
+1258,1,12381.8274,8,2018-12-01,12381.8274,6.0,Todd,Waters,,todd.waters@yahoo.com,92 Cedar Swamp Street,Bay Shore,NY,11706
+1259,1,5270.9448,6,,5270.9448,9999.0,Kimbery,Nieves,,kimbery.nieves@msn.com,768 Roehampton St.,San Carlos,CA,94070
+1260,1,5686.5815,3,,5686.5815,9999.0,Phuong,Wolf,,phuong.wolf@yahoo.com,7765 N. Annadale Dr.,Schenectady,NY,12302
+1261,1,9497.172,6,,9497.172,9999.0,Adelaida,Hancock,,adelaida.hancock@aol.com,669 S. Gartner Street,San Pablo,CA,94806
+1262,1,3722.983,2,2017-01-10,3722.983,696.0,Brianne,Hays,,brianne.hays@gmail.com,88 Tailwater Ave.,San Pablo,CA,94806
+1263,1,4044.783,2,,4044.783,9999.0,Rufina,Chandler,,rufina.chandler@aol.com,7985 Alderwood Street,New Hyde Park,NY,11040
+1264,1,2469.9585,5,,2469.9585,9999.0,Devin,Velazquez,(631) 254-8497,devin.velazquez@aol.com,61 Redwood St.,Brentwood,NY,11717
+1265,1,3359.7477,6,2016-03-09,3359.7477,1003.0,Bonita,Marshall,,bonita.marshall@msn.com,48 Bald Hill Drive,Endicott,NY,13760
+1266,1,2474.9727000000003,3,,2474.9727000000003,9999.0,Myrl,Gay,,myrl.gay@hotmail.com,8708 Taylor Lane,Garland,TX,75043
+1267,1,3126.6414,2,2016-02-06,3126.6414,1035.0,Earline,Gordon,,earline.gordon@gmail.com,81 Railroad Drive,Ronkonkoma,NY,11779
+1268,1,5115.9641,4,,5115.9641,9999.0,Sung,Chambers,,sung.chambers@gmail.com,369 N. Virginia Street,Kingston,NY,12401
+1269,1,4204.525799999999,7,2017-10-09,4204.525799999999,424.0,Gustavo,Gamble,,gustavo.gamble@msn.com,8054 W. Meadowbrook Street,Port Washington,NY,11050
+1270,1,629.982,2,2017-07-08,629.982,517.0,Ciera,Webb,,ciera.webb@yahoo.com,958 Anderson Ave.,Orchard Park,NY,14127
+1271,1,2717.964,4,2017-09-02,2717.964,461.0,Roy,Chan,,roy.chan@hotmail.com,7578 Middle River St.,Pomona,CA,91768
+1272,1,2699.991,1,,2699.991,9999.0,Houston,Vasquez,,houston.vasquez@msn.com,845 Aspen Street,Fullerton,CA,92831
+1273,1,5122.348,7,,5122.348,9999.0,Cheree,Hale,,cheree.hale@yahoo.com,95 Lyme Avenue,Oswego,NY,13126
+1274,1,7791.0557,5,,7791.0557,9999.0,Odette,Moses,,odette.moses@gmail.com,899 Overlook Lane,Newburgh,NY,12550
+1275,1,2726.4905,2,,2726.4905,9999.0,Lenita,Bonner,,lenita.bonner@aol.com,7286 Swanson Drive,Los Banos,CA,93635
+1276,1,6089.983,2,,6089.983,9999.0,Shona,Mcmillan,,shona.mcmillan@msn.com,57 West Maple Dr.,Apple Valley,CA,92307
+1277,1,706.7814,2,,706.7814,9999.0,Piedad,Irwin,,piedad.irwin@hotmail.com,581 Garden St.,Coram,NY,11727
+1278,1,2228.2451,6,,2228.2451,9999.0,Loan,Graham,,loan.graham@yahoo.com,57 Glen Eagles St.,Jackson Heights,NY,11372
+1279,1,8936.446,7,,8936.446,9999.0,Stan,Saunders,,stan.saunders@yahoo.com,407 Essex Dr.,Canandaigua,NY,14424
+1280,1,5342.1559,5,,5342.1559,9999.0,Jackeline,Colon,,jackeline.colon@msn.com,9916 Cedarwood Drive,Wappingers Falls,NY,12590
+1281,1,2932.4811999999997,2,,2932.4811999999997,9999.0,Marlen,Dawson,,marlen.dawson@msn.com,67 Oak Valley Street,Woodside,NY,11377
+1282,1,2402.4759999999997,6,2016-12-11,2402.4759999999997,726.0,Alexis,Mack,(845) 707-6088,alexis.mack@aol.com,7767 Sutor Ave.,New City,NY,10956
+1283,1,279.992,1,,279.992,9999.0,Mica,Barry,,mica.barry@yahoo.com,3 SE. Sugar St.,Hopewell Junction,NY,12533
+1284,1,11299.972,3,2017-09-12,11299.972,451.0,Shanice,Spears,,shanice.spears@msn.com,5 Piper Ave.,Brooklyn,NY,11201
+1285,1,2881.14,2,,2881.14,9999.0,Garth,Huff,,garth.huff@yahoo.com,794 East University St.,Glendora,CA,91740
+1286,1,494.991,1,,494.991,9999.0,Dione,Pratt,,dione.pratt@msn.com,864 Winding Way St.,Pleasanton,CA,94566
+1287,1,2991.759,5,,2991.759,9999.0,Victor,Pittman,,victor.pittman@aol.com,9294 Devon Dr.,Astoria,NY,11102
+1288,1,959.984,2,,959.984,9999.0,Allie,Conley,,allie.conley@msn.com,96 High Point Road,Lawndale,CA,90260
+1289,1,507.2905,1,,507.2905,9999.0,Shanelle,Anderson,,shanelle.anderson@yahoo.com,646 Surrey Street,Bethpage,NY,11714
+1290,1,8336.4169,9,,8336.4169,9999.0,Minnie,Compton,,minnie.compton@gmail.com,185 Hudson Street,South Richmond Hill,NY,11419
+1291,1,6330.5747,3,2017-07-03,6330.5747,522.0,Shiloh,Bates,,shiloh.bates@msn.com,15 Wellington Dr.,Monsey,NY,10952
+1292,1,1099.4814999999999,2,2017-08-12,1099.4814999999999,482.0,Lakenya,Oliver,,lakenya.oliver@yahoo.com,82 Bayport Court,San Lorenzo,CA,94580
+1293,1,1285.9717,3,,1285.9717,9999.0,Sally,Kinney,,sally.kinney@msn.com,7565 High Dr.,Floral Park,NY,11001
+1294,1,1243.7847000000002,3,,1243.7847000000002,9999.0,Edith,Davenport,,edith.davenport@gmail.com,685 Alton Road,Ontario,CA,91762
+1295,1,5022.9574,5,,5022.9574,9999.0,Alline,Beasley,,alline.beasley@yahoo.com,8704 NE. Olive Ave.,North Tonawanda,NY,14120
+1296,1,3768.9399999999996,7,,3768.9399999999996,9999.0,Travis,Whitley,,travis.whitley@aol.com,60 Euclid Ave.,Saint Albans,NY,11412
+1297,1,502.1814,2,,502.1814,9999.0,Vanessa,West,,vanessa.west@gmail.com,34 Prairie Lane,New Rochelle,NY,10801
+1298,1,4214.9468,6,,4214.9468,9999.0,Trudy,Riddle,,trudy.riddle@aol.com,8943 Johnson Street,Schenectady,NY,12302
+1299,1,1831.1814,4,2016-01-08,1831.1814,1064.0,Shauna,Edwards,,shauna.edwards@msn.com,8 Dogwood Ave.,Yorktown Heights,NY,10598
+1300,1,7932.9465,6,2016-07-08,7932.9465,882.0,Clorinda,Donovan,,clorinda.donovan@msn.com,9690 E. Morris Ave.,Jamestown,NY,14701
+1301,1,4692.8641,6,,4692.8641,9999.0,Raven,Curtis,,raven.curtis@aol.com,18 Summit Lane,Lawndale,CA,90260
+1302,1,6349.3634999999995,4,2017-04-01,6349.3634999999995,615.0,Verda,Gilbert,,verda.gilbert@gmail.com,54 Hillcrest Drive,East Northport,NY,11731
+1303,1,5332.9467,6,2018-06-02,5332.9467,188.0,Renay,Atkins,,renay.atkins@aol.com,7146 Leeton Ridge Ave.,Woodside,NY,11377
+1304,1,2966.6441999999997,6,,2966.6441999999997,9999.0,Tama,Berg,,tama.berg@hotmail.com,3 Cardinal Avenue,Hollis,NY,11423
+1305,1,1509.4727,5,2016-04-02,1509.4727,979.0,Dalia,Carson,(507) 186-2004,dalia.carson@aol.com,7175 Galvin St.,Rochester,NY,14606
+1306,1,3505.766,4,2016-04-12,3505.766,969.0,America,Swanson,,america.swanson@msn.com,83 South Arlington Lane,Webster,NY,14580
+1307,1,7482.136399999999,7,2016-03-08,7482.136399999999,1004.0,Cinda,Rocha,,cinda.rocha@hotmail.com,926 North Oklahoma Dr.,Los Banos,CA,93635
+1308,1,2319.968,4,,2319.968,9999.0,Shea,Howell,,shea.howell@msn.com,67 Arch Rd.,South El Monte,CA,91733
+1309,1,1619.991,1,,1619.991,9999.0,Kimberli,Cline,,kimberli.cline@yahoo.com,7115 Stonybrook Court,Centereach,NY,11720
+1310,1,5833.974700000001,3,,5833.974700000001,9999.0,Emanuel,Mckee,,emanuel.mckee@yahoo.com,9411 Lake Dr.,Schenectady,NY,12302
+1311,1,3975.2343,8,,3975.2343,9999.0,Whitley,Cannon,,whitley.cannon@msn.com,614 High Point Lane,Coram,NY,11727
+1312,1,10617.973,3,,10617.973,9999.0,Tereasa,Bird,,tereasa.bird@aol.com,7526 Vine Drive,Ronkonkoma,NY,11779
+1313,1,5114.0907,2,,5114.0907,9999.0,Dante,Grimes,,dante.grimes@yahoo.com,23 Shore St.,Duarte,CA,91010
+1314,1,7045.1564,7,2016-05-06,7045.1564,945.0,Joeann,Garrison,,joeann.garrison@yahoo.com,1 Harrison St.,Ontario,CA,91762
+1315,1,7848.2627999999995,5,,7848.2627999999995,9999.0,Omega,Johnston,,omega.johnston@gmail.com,9935 Tarkiln Hill St.,Canyon Country,CA,91387
+1316,1,5925.474700000001,3,2017-02-06,5925.474700000001,669.0,Conrad,Mueller,,conrad.mueller@yahoo.com,3 Myrtle St.,Massapequa,NY,11758
+1317,1,325.4907,1,,325.4907,9999.0,Glady,Wells,,glady.wells@gmail.com,627 Ramblewood Ave.,Syosset,NY,11791
+1318,1,1052.972,3,2016-07-12,1052.972,878.0,Tisha,Petty,(210) 851-3122,tisha.petty@msn.com,9083 Lake View Ave.,San Antonio,TX,78213
+1319,1,5231.8529,7,2017-04-04,5231.8529,612.0,Claris,Santiago,,claris.santiago@msn.com,763 Mountainview Dr.,Newburgh,NY,12550
+1320,1,543.984,2,,543.984,9999.0,Obdulia,Barber,,obdulia.barber@gmail.com,878 Lexington Rd.,Newburgh,NY,12550
+1321,1,5644.9151999999995,4,,5644.9151999999995,9999.0,Shantel,Gregory,,shantel.gregory@yahoo.com,7722 Second Lane,West Islip,NY,11795
+1322,1,5014.9637,4,2016-09-06,5014.9637,822.0,Ai,Forbes,,ai.forbes@yahoo.com,254 Central St.,Franklin Square,NY,11010
+1323,1,2333.3559999999998,5,,2333.3559999999998,9999.0,Ebony,Cotton,,ebony.cotton@yahoo.com,8979 Miller St.,West Babylon,NY,11704
+1324,1,3900.0607,4,2016-03-01,3900.0607,1011.0,Arla,Ellis,,arla.ellis@yahoo.com,127 Crescent Ave.,Utica,NY,13501
+1325,1,854.191,2,2016-06-04,854.191,916.0,Magdalena,Sherman,,magdalena.sherman@gmail.com,176 Sunbeam St.,Oswego,NY,13126
+1326,1,3155.9565000000002,5,2016-05-01,3155.9565000000002,950.0,Tarra,Guerrero,,tarra.guerrero@aol.com,10 Baker St.,Auburn,NY,13021
+1327,1,1599.984,2,,1599.984,9999.0,Consuela,Romero,,consuela.romero@hotmail.com,54 Elm Court,Monroe,NY,10950
+1328,1,4633.8544,7,,4633.8544,9999.0,Cindie,Franklin,,cindie.franklin@yahoo.com,7249 Franklin St.,Lawndale,CA,90260
+1329,1,3994.4559,5,,3994.4559,9999.0,Sharyn,Brewer,,sharyn.brewer@aol.com,70 Columbia Ave.,Hollis,NY,11423
+1330,1,5891.162399999999,4,,5891.162399999999,9999.0,Karren,Stevenson,,karren.stevenson@aol.com,155 Old York St.,San Carlos,CA,94070
+1331,1,2195.0517,3,2016-10-10,2195.0517,788.0,Divina,Reeves,,divina.reeves@hotmail.com,767 Bradford Dr.,Newburgh,NY,12550
+1332,1,12307.9627,4,,12307.9627,9999.0,Novella,Ross,,novella.ross@gmail.com,9418 Acacia Drive,Glendora,CA,91740
+1333,1,8534.3743,7,,8534.3743,9999.0,Omega,Huff,,omega.huff@aol.com,63 Devon St.,Santa Monica,CA,90403
+1334,1,5024.1645,5,,5024.1645,9999.0,Ashleigh,Finch,,ashleigh.finch@yahoo.com,82 Hudson Court,Newburgh,NY,12550
+1335,1,2672.6926,4,,2672.6926,9999.0,Corina,Lynch,,corina.lynch@msn.com,44 Sunbeam Dr.,Rosedale,NY,11422
+1336,1,269.991,1,2017-06-03,269.991,552.0,Joe,Melton,,joe.melton@gmail.com,8998 Hartford Street,New Windsor,NY,12553
+1337,1,773.9817,2,,773.9817,9999.0,Bernetta,Summers,,bernetta.summers@aol.com,1 Young Ave.,Longview,TX,75604
+1338,1,1626.7824999999998,2,2016-12-05,1626.7824999999998,732.0,Inez,Snider,,inez.snider@gmail.com,837 Catherine Lane,Ronkonkoma,NY,11779
+1339,1,1590.8534,3,2017-07-10,1590.8534,515.0,Neida,King,(442) 778-1121,neida.king@aol.com,137 Bohemia St.,Oceanside,NY,11572
+1340,1,242.991,1,,242.991,9999.0,Tona,Velasquez,,tona.velasquez@msn.com,9166 Trout St.,Whitestone,NY,11357
+1341,1,8476.521999999999,4,,8476.521999999999,9999.0,Rozanne,Reyes,,rozanne.reyes@aol.com,11 W. Surrey Drive,Garden City,NY,11530
+1342,1,527.7812,2,,527.7812,9999.0,Lekisha,Pope,,lekisha.pope@msn.com,390 Livingston Avenue,Freeport,NY,11520
+1343,1,1818.4544999999998,5,,1818.4544999999998,9999.0,Jama,Rodriquez,,jama.rodriquez@msn.com,681 Smith Dr.,Upland,CA,91784
+1344,1,3377.973,3,,3377.973,9999.0,Eloisa,Tucker,,eloisa.tucker@hotmail.com,7268 Leatherwood Ave.,Howard Beach,NY,11414
+1345,1,1287.5737,3,,1287.5737,9999.0,Arie,Hunter,,arie.hunter@msn.com,66 Old State Rd.,Flushing,NY,11354
+1346,1,3442.8135,5,,3442.8135,9999.0,Sanora,Webster,(424) 464-7290,sanora.webster@msn.com,74 Beach St.,Los Angeles,CA,90008
+1347,1,6495.972,3,,6495.972,9999.0,Kate,Barber,,kate.barber@hotmail.com,46 W. Oak Valley Ave.,Saratoga Springs,NY,12866
+1348,1,11183.0335,6,,11183.0335,9999.0,Yvone,Guerrero,,yvone.guerrero@aol.com,8548 Jackson Ave.,Merrick,NY,11566
+1349,1,9278.653900000001,6,,9278.653900000001,9999.0,Kami,Rios,,kami.rios@yahoo.com,8400 8th Dr.,Encino,CA,91316
+1350,1,6089.930399999999,8,,6089.930399999999,9999.0,Annett,Rush,,annett.rush@hotmail.com,758 Fordham Lane,Rosedale,NY,11422
+1351,1,2465.4572,5,,2465.4572,9999.0,Carman,Hardy,,carman.hardy@yahoo.com,800 Whitemarsh St.,Jamestown,NY,14701
+1352,1,3243.7533999999996,5,2017-08-02,3243.7533999999996,492.0,Dorothea,Miranda,,dorothea.miranda@aol.com,7882 Parker St.,Upland,CA,91784
+1353,1,3613.7245000000003,6,,3613.7245000000003,9999.0,Agatha,Daniels,,agatha.daniels@yahoo.com,125 Canal St.,South El Monte,CA,91733
+1354,1,4475.4635,6,,4475.4635,9999.0,Alexandria,Zamora,,alexandria.zamora@yahoo.com,95 Cherry Circle,Schenectady,NY,12302
+1355,1,1961.0812,2,,1961.0812,9999.0,Thad,Gilliam,,thad.gilliam@hotmail.com,8844 Gonzales Court,Levittown,NY,11756
+1356,1,1359.976,3,,1359.976,9999.0,Inger,Jennings,,inger.jennings@yahoo.com,38 NW. Shore Lane,Patchogue,NY,11772
+1357,1,569.981,2,,569.981,9999.0,Karren,Lamb,(559) 628-2239,karren.lamb@aol.com,35 N. Chapel St.,Fresno,CA,93706
+1358,1,3443.9377,7,2016-12-05,3443.9377,732.0,Noble,Glover,,noble.glover@gmail.com,728 W. Rocky River Street,Orchard Park,NY,14127
+1359,1,6543.0622,6,,6543.0622,9999.0,Octavia,Donaldson,,octavia.donaldson@hotmail.com,8095 Wayne Ave.,Levittown,NY,11756
+1360,1,7967.4144,7,,7967.4144,9999.0,Latashia,Travis,,latashia.travis@yahoo.com,7877 King Rd.,Upland,CA,91784
+1361,1,1240.184,4,2016-12-04,1240.184,733.0,Destiny,Goodman,,destiny.goodman@msn.com,29 Smoky Hollow St.,Westbury,NY,11590
+1362,1,4299.957,5,,4299.957,9999.0,Christiana,Gross,,christiana.gross@yahoo.com,645 North Richardson Road,Orchard Park,NY,14127
+1363,1,1860.5825,3,,1860.5825,9999.0,Nestor,Haynes,(281) 969-4579,nestor.haynes@msn.com,27 Nut Swamp Street,Houston,TX,77016
+1364,1,989.991,1,,989.991,9999.0,Grisel,Maynard,,grisel.maynard@msn.com,353 North Arch St.,Ballston Spa,NY,12020
+1365,1,5699.981,2,,5699.981,9999.0,Shenna,Espinoza,,shenna.espinoza@gmail.com,202 North George Street,Queensbury,NY,12804
+1366,1,989.982,2,,989.982,9999.0,Trena,Rogers,,trena.rogers@aol.com,502 Sherwood St.,Campbell,CA,95008
+1367,1,2032.4445,6,,2032.4445,9999.0,Lucile,Manning,,lucile.manning@yahoo.com,511 Livingston Lane,Campbell,CA,95008
+1368,1,10216.235999999999,7,,10216.235999999999,9999.0,Veronique,Fulton,,veronique.fulton@yahoo.com,81 Hilldale Ave.,Ballston Spa,NY,12020
+1369,1,620.092,2,2016-09-03,620.092,825.0,Starr,Schneider,,starr.schneider@aol.com,77 Mulberry Street,Shirley,NY,11967
+1370,1,7439.9814,2,,7439.9814,9999.0,Rona,Rojas,(408) 611-3553,rona.rojas@gmail.com,815 Riverview St.,San Jose,CA,95127
+1371,1,1734.9325,2,,1734.9325,9999.0,Pandora,Estes,,pandora.estes@aol.com,228 Shadow Brook Drive,New Hyde Park,NY,11040
+1372,1,7021.148700000001,6,,7021.148700000001,9999.0,Renna,Williams,,renna.williams@hotmail.com,7398 SW. Glen Ridge Road,South Ozone Park,NY,11420
+1373,1,5600.0574,6,2016-08-05,5600.0574,854.0,Lanora,Robbins,,lanora.robbins@hotmail.com,31 W. Maiden Lane,West Babylon,NY,11704
+1374,1,8394.4714,10,,8394.4714,9999.0,Juliane,Dillard,,juliane.dillard@aol.com,63 Birchwood Court,Glendora,CA,91740
+1375,1,2915.108,6,2016-06-07,2915.108,913.0,Carlena,Salinas,,carlena.salinas@gmail.com,1 Wagon Street,Jamaica,NY,11432
+1376,1,4109.0650000000005,5,,4109.0650000000005,9999.0,Kimberley,Reynolds,,kimberley.reynolds@aol.com,8475 Homewood Street,Port Washington,NY,11050
+1377,1,997.1723999999999,3,2016-03-09,997.1723999999999,1003.0,Johana,Jacobson,(507) 407-9384,johana.jacobson@gmail.com,29 San Juan St.,Rochester,NY,14606
+1378,1,4776.0444,6,,4776.0444,9999.0,Enoch,Rosario,(559) 329-7615,enoch.rosario@hotmail.com,186 Arlington St.,Fresno,CA,93706
+1379,1,2834.8444,6,,2834.8444,9999.0,Dorine,Thornton,,dorine.thornton@gmail.com,8730 N. Atlantic Street,Sunnyside,NY,11104
+1380,1,2319.992,1,,2319.992,9999.0,Eliz,Lynch,,eliz.lynch@hotmail.com,717 West Deerfield Ave.,Uniondale,NY,11553
+1381,1,2414.9629999999997,4,,2414.9629999999997,9999.0,Mercedez,Brooks,,mercedez.brooks@hotmail.com,7483 Ann St.,Duarte,CA,91010
+1382,1,16491.52,9,,16491.52,9999.0,Wynona,Douglas,,wynona.douglas@msn.com,6 Country Ave.,Harlingen,TX,78552
+1383,1,1392.273,3,,1392.273,9999.0,Desire,Mcgowan,(661) 800-8091,desire.mcgowan@msn.com,942 North Ohio Road,Bakersfield,CA,93306
+1384,1,2518.1494000000002,6,,2518.1494000000002,9999.0,Elmo,Sweeney,,elmo.sweeney@yahoo.com,43 Arch Ave.,San Carlos,CA,94070
+1385,1,2006.0629,6,2017-11-03,2006.0629,399.0,Kenton,Hughes,,kenton.hughes@gmail.com,632 Sleepy Hollow Drive,Canandaigua,NY,14424
+1386,1,1806.4125000000001,5,2016-12-02,1806.4125000000001,735.0,Cesar,Wilkins,(619) 685-5786,cesar.wilkins@hotmail.com,7 Inverness St.,San Diego,CA,92111
+1387,1,1199.984,2,2016-03-08,1199.984,1004.0,Phylicia,Stout,,phylicia.stout@aol.com,8842 Littleton Lane,Canandaigua,NY,14424
+1388,1,2559.992,1,,2559.992,9999.0,Nanette,Harris,,nanette.harris@hotmail.com,26 Pin Oak Lane,East Meadow,NY,11554
+1389,1,1499.382,2,,1499.382,9999.0,Ulrike,Chan,,ulrike.chan@aol.com,7949 Lancaster St.,Port Chester,NY,10573
+1390,1,5333.335,7,,5333.335,9999.0,Genoveva,Lloyd,,genoveva.lloyd@aol.com,706 Devonshire St.,Bayside,NY,11361
+1391,1,17086.9343,7,,17086.9343,9999.0,Sheryl,Chase,,sheryl.chase@gmail.com,388 Cedar Avenue,Floral Park,NY,11001
+1392,1,5922.4725,3,,5922.4725,9999.0,Trista,Lambert,,trista.lambert@gmail.com,79 River Street,Fairport,NY,14450
+1393,1,1681.4810000000002,2,2018-12-01,1681.4810000000002,6.0,Vivian,Deleon,,vivian.deleon@msn.com,9925 Hamilton Street,Jamaica,NY,11432
+1394,1,2615.976,3,,2615.976,9999.0,Genny,Fields,,genny.fields@msn.com,9145 San Juan Dr.,Amityville,NY,11701
+1395,1,5220.4734,6,,5220.4734,9999.0,Eliseo,Knight,,eliseo.knight@msn.com,693 Holly Street,Woodhaven,NY,11421
+1396,1,5984.981,2,,5984.981,9999.0,Delma,Bailey,(657) 454-8493,delma.bailey@gmail.com,9883 West King Lane,Anaheim,CA,92806
+1397,1,4921.1544,6,2016-06-09,4921.1544,911.0,Dewayne,Herring,,dewayne.herring@aol.com,9015 Willow Lane,Webster,NY,14580
+1398,1,7688.2721,5,,7688.2721,9999.0,Nevada,Hood,,nevada.hood@aol.com,515 Bank Rd.,Hopewell Junction,NY,12533
+1399,1,2319.7538999999997,5,,2319.7538999999997,9999.0,Angelika,Perry,,angelika.perry@msn.com,7684 South Branch Drive,Canandaigua,NY,14424
+1400,1,2928.6839999999997,4,2016-12-07,2928.6839999999997,730.0,Shayla,Hart,,shayla.hart@msn.com,9092 Aspen St.,Woodhaven,NY,11421
+1401,1,2200.9444,6,2017-10-12,2200.9444,421.0,Willetta,Murphy,,willetta.murphy@msn.com,436 Devonshire Street,East Elmhurst,NY,11369
+1402,1,799.992,1,,799.992,9999.0,Sandee,Alvarado,,sandee.alvarado@aol.com,69 Bowman Street,Depew,NY,14043
+1403,1,12595.073,5,,12595.073,9999.0,Mila,Moody,(248) 234-5902,mila.moody@gmail.com,675 Williams St.,Troy,NY,12180
+1404,1,3015.3129,6,,3015.3129,9999.0,Loyce,Conway,,loyce.conway@aol.com,729 State Lane,Central Islip,NY,11722
+1405,1,1649.9724999999999,3,,1649.9724999999999,9999.0,Thanh,Figueroa,,thanh.figueroa@yahoo.com,6 Roberts Drive,Mount Vernon,NY,10550
+1406,1,7900.4347,7,,7900.4347,9999.0,Farrah,Orr,,farrah.orr@msn.com,8711 W. Ashley St.,New Hyde Park,NY,11040
+1407,1,1856.075,3,2017-11-06,1856.075,396.0,Hugh,Craft,,hugh.craft@msn.com,8716 Homewood Court,Centereach,NY,11720
+1408,1,4829.1825,4,,4829.1825,9999.0,Eleanor,Mendez,,eleanor.mendez@yahoo.com,4 West St.,Port Chester,NY,10573
+1409,1,2093.4135,5,,2093.4135,9999.0,Lamar,Bush,(716) 294-7174,lamar.bush@msn.com,76 Lilac Drive,Buffalo,NY,14215
+1410,1,1829.6655,6,,1829.6655,9999.0,Lurlene,Finch,(914) 367-7691,lurlene.finch@msn.com,849 Magnolia St.,Yonkers,NY,10701
+1411,1,4960.4587,5,,4960.4587,9999.0,Shanda,Stevenson,,shanda.stevenson@yahoo.com,9547 N. Courtland St.,Freeport,NY,11520
+1412,1,1234.9715,3,,1234.9715,9999.0,Adrien,Hunter,,adrien.hunter@yahoo.com,720 Thompson Lane,Rego Park,NY,11374
+1413,1,3014.3239999999996,4,2016-10-02,3014.3239999999996,796.0,Ophelia,Decker,,ophelia.decker@yahoo.com,69 Rockwell Court,New Windsor,NY,12553
+1414,1,176.6907,1,,176.6907,9999.0,Sonja,Walls,,sonja.walls@aol.com,30 Marshall Dr.,Queensbury,NY,12804
+1415,1,9725.8374,9,2017-09-07,9725.8374,456.0,Harold,O'Connor,,harold.o'connor@gmail.com,9530 Summerhouse Street,Santa Cruz,CA,95060
+1416,1,3254.9907,1,2017-01-05,3254.9907,701.0,Miranda,Kennedy,,miranda.kennedy@gmail.com,726 East High St.,Astoria,NY,11102
+1417,1,557.9814,2,,557.9814,9999.0,Jasper,Castro,,jasper.castro@aol.com,977 SE. Railroad Road,Forney,TX,75126
+1418,1,4162.8555,5,,4162.8555,9999.0,Penni,Best,(657) 611-2991,penni.best@msn.com,875 Second Drive,Anaheim,CA,92806
+1419,1,4399.992,1,,4399.992,9999.0,Lurlene,Cotton,,lurlene.cotton@yahoo.com,8218 George St.,Pleasanton,CA,94566
+1420,1,1407.552,3,2016-10-05,1407.552,793.0,Kelsey,Noble,,kelsey.noble@hotmail.com,36 Pearl Court,Mount Vernon,NY,10550
+1421,1,17494.9405,7,2017-04-10,17494.9405,606.0,Edris,Barrett,,edris.barrett@hotmail.com,36 Pulaski Drive,Plattsburgh,NY,12901
+1422,1,7049.673,3,,7049.673,9999.0,Tempie,Jacobson,,tempie.jacobson@hotmail.com,136 Old Fairview St.,Smithtown,NY,11787
+1423,1,11238.6544,6,,11238.6544,9999.0,Dollie,Cervantes,(682) 362-7457,dollie.cervantes@aol.com,8828 Applegate Drive,Fort Worth,TX,76110
+1424,1,6591.976000000001,3,2017-02-09,6591.976000000001,666.0,Lashunda,Cole,,lashunda.cole@hotmail.com,783 Baker St.,Monsey,NY,10952
+1425,1,4639.984,2,2016-04-07,4639.984,974.0,Justina,Jenkins,,justina.jenkins@msn.com,345 SE. Green Lane,Shirley,NY,11967
+1426,1,6782.3368,9,,6782.3368,9999.0,Londa,Gould,(361) 206-5550,londa.gould@aol.com,9169 Beech Lane,Corpus Christi,TX,78418
+1427,1,351.992,1,,351.992,9999.0,Mikel,Wilkerson,,mikel.wilkerson@msn.com,9233 Clinton St.,Atwater,CA,95301
+1428,1,674.991,1,,674.991,9999.0,Carola,Johns,,carola.johns@msn.com,7077 Fordham Rd.,Santa Cruz,CA,95060
+1429,1,2042.0634,5,2016-03-11,2042.0634,1001.0,Lorrie,Justice,,lorrie.justice@gmail.com,8396 Brook Drive,Pomona,CA,91768
+1430,1,3628.5127,2,,3628.5127,9999.0,Tayna,Wade,(661) 858-1224,tayna.wade@hotmail.com,65 Smith Store Dr.,Bakersfield,CA,93306
+1431,1,1705.9632,4,2016-08-03,1705.9632,856.0,Mark,Benton,,mark.benton@aol.com,83 Eagle St.,East Elmhurst,NY,11369
+1432,1,2696.9907,1,,2696.9907,9999.0,Zona,Cameron,,zona.cameron@aol.com,42 Bridle Court,East Northport,NY,11731
+1433,1,4226.2305,8,,4226.2305,9999.0,Nicola,Knight,,nicola.knight@aol.com,25 SE. Miles Lane,Scarsdale,NY,10583
+1434,1,1530.963,4,,1530.963,9999.0,Elana,Miles,,elana.miles@yahoo.com,7077 Euclid Ave.,Liverpool,NY,13090
+1435,1,8069.656499999999,7,,8069.656499999999,9999.0,Merrie,Fowler,,merrie.fowler@aol.com,532 Leatherwood Ave.,Scarsdale,NY,10583
+1436,1,9334.509399999999,8,,9334.509399999999,9999.0,Macie,Ayers,,macie.ayers@msn.com,8730 Longfellow St.,Bellmore,NY,11710
+1437,1,3799.9905,1,,3799.9905,9999.0,Son,Warner,,son.warner@hotmail.com,20 W. Rosewood Ave.,Rockville Centre,NY,11570
+1438,1,12980.9387,7,2017-03-06,12980.9387,641.0,Lee,Dunn,(408) 807-6157,lee.dunn@aol.com,8626 Grand Ave.,San Jose,CA,95127
+1439,1,9919.921,9,2017-10-08,9919.921,425.0,Florrie,Little,,florrie.little@yahoo.com,8330 Marsh St.,New Rochelle,NY,10801
+1440,1,10360.255,7,,10360.255,9999.0,Ernest,Rollins,,ernest.rollins@yahoo.com,4 West Ridge Dr.,Oakland Gardens,NY,11364
+1441,1,9173.3817,4,,9173.3817,9999.0,Jamaal,Morrison,,jamaal.morrison@msn.com,796 SE. Nut Swamp St.,Staten Island,NY,10301
+1442,1,6987.2487,8,,6987.2487,9999.0,Cassie,Cline,,cassie.cline@gmail.com,947 Lafayette Drive,Brooklyn,NY,11201
+1443,1,10372.0934,7,,10372.0934,9999.0,Lezlie,Lamb,,lezlie.lamb@gmail.com,401 Brandywine Street,Central Islip,NY,11722
+1444,1,1399.976,3,,1399.976,9999.0,Ivette,Estes,,ivette.estes@gmail.com,88 N. Canterbury Ave.,Canandaigua,NY,14424
+1445,1,7999.984,2,2018-07-03,7999.984,157.0,Ester,Acevedo,,ester.acevedo@gmail.com,671 Miles Court,San Lorenzo,CA,94580
