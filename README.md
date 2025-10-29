@@ -1,75 +1,165 @@
-# 🛍️ Retail Sales & Inventory Intelligence System
+🛍️ Retail Sales & Inventory Intelligence System
 
-**Author:** Shruti Sumadhur Ghosh  
-**Organization:** Labmentix  
-**Tools Used:** Excel | SQL (SQLite) | Power BI  
+Author: Shruti Sumadhur Ghosh
+Organization: Labmentix
+Tools Used: Excel | SQL (SQLite) | Python (pandas, scikit-learn) | Power BI
 
----
+📘 Project Overview
 
-## 📘 Project Overview
-This project analyzes retail sales and inventory data for a company selling mobile phones and laptops.  
-It tracks store performance, staff efficiency, customer orders, and stock optimization using an end-to-end data analytics pipeline.
+This project analyzes retail sales and inventory data for a company selling mobile phones and laptops.
+It provides an end-to-end data analytics solution — from raw data to actionable insights — through data cleaning, relational modeling, Python-based customer segmentation, and interactive Power BI dashboards.
 
----
+🧩 Tech Stack
 
-## 🧩 Tech Stack
-- **Excel** – Data cleaning & preprocessing  
-- **SQLite** – Database creation, schema design, and SQL querying  
-- **Power BI** – Interactive dashboards and KPI visualization  
+Excel – Data cleaning & preprocessing
 
----
+SQLite – Database creation, schema design, and SQL querying
 
-## ⚙️ Project Phases
+Python (pandas, scikit-learn) – Customer segmentation using KMeans clustering
 
-### Phase 1 – Data Cleaning
-- Removed duplicates and nulls
-- Standardized date formats and discount values
-- Ensured product-category mapping consistency
+Power BI – Interactive dashboards, KPIs, and dynamic tooltips
 
-### Phase 2 – SQL Data Modeling
-- Built relational schema with 9 tables
-- Verified foreign key integrity (`PRAGMA integrity_check`)
-- Indexed key fields for faster query performance
+⚙️ Project Phases
+Phase 1 – Data Cleaning
 
-### Phase 3 – Power BI Visualization
-- Built two dashboards:
-  1. **Executive Sales Dashboard**
-  2. **Inventory & Stock Overview Dashboard**
+Removed duplicates and nulls
 
----
+Standardized date formats and discount fields
 
-## 📊 Dashboards
+Ensured product–category mapping consistency
 
-### Executive Sales Dashboard
-- KPIs: Total Sales, Orders, Customers, Average Order Value  
-- Charts: Sales by Category, Store, Brand, Staff, and Over Time  
+Phase 2 – SQL Data Modeling
 
-### Inventory & Stock Overview
-- KPIs: Total Stock Quantity, Distinct Products, Stores in Stock  
-- Charts: Inventory by Category, Store, and Top Products  
+Built relational schema with 9 interconnected tables
 
----
+Verified referential integrity using PRAGMA integrity_check
 
-## 💡 Key Insights
-- *Trek* brand and *Mountain Bikes* drive majority sales.  
-- *Baldwin Bikes* is top-performing store.  
-- Inventory is evenly distributed across stores.  
+Created indexes on key columns to improve query performance
 
----
+Phase 3 – Python Customer Segmentation (NEW)
 
-## 🧾 Deliverables
-- `retail_sales.db` (SQL database)  
-- `Retail_Sales_Analytics.pbix` (Power BI file)  
-- `Retail_Sales_Project_Report.pdf` (final documentation)
+Implemented customer-level feature aggregation using pandas
 
----
+Performed KMeans clustering with scikit-learn to segment customers by purchase behavior
 
-## 📹 Presentation
-A 7–10 minute video walkthrough explains each dashboard, KPI, and business insight.
-[(https://drive.google.com/file/d/1atrACO0pMFR4A7ICxQCOSKRUMS7Vp1yh/view?usp=sharing)]
----
+Calculated metrics:
 
-## 📬 Contact
-**Shruti Sumadhur Ghosh**  
-📧 [shrutisghosh@outlook.com]  
-🔗 [https://www.linkedin.com/in/shruti-sumadhur-ghosh-61306855/]  
+Total Sales
+
+Order Count
+
+Average Order Value
+
+Recency (days since last order)
+
+Saved analytical outputs to python_analysis/:
+
+customer_aggregates.csv — Customer-level metrics
+
+customer_segments.csv — Cluster assignment per customer
+
+segments_scatter.png and cluster_distribution.png — Visual cluster summaries
+
+Phase 4 – Power BI Visualization
+
+Built three Power BI dashboards:
+
+Executive Sales Dashboard – Overall business performance
+
+Inventory & Stock Overview – Stock health, product distribution, and store metrics
+
+Customer Insights (NEW) – Cluster-wise customer behavior using Python segmentation
+
+📊 Dashboards
+1️⃣ Executive Sales Dashboard
+
+KPIs: Total Sales, Orders, Customers, Average Order Value
+
+Visuals: Sales by Category, Store, Brand, Staff, and Trends over Time
+
+2️⃣ Inventory & Stock Overview
+
+KPIs: Total Stock Quantity, Distinct Products, and Stores in Stock
+
+Visuals: Inventory by Category, Store-level stock, and Top Products
+
+3️⃣ Customer Insights (NEW)
+
+Integrated Python segmentation outputs with Power BI visuals
+
+KPIs:
+
+Average Sales per Segment
+
+Average Orders per Customer
+
+Average Recency per Segment
+
+Visuals:
+
+Count of Customers by Cluster
+
+Average Sales per Customer by Cluster
+
+Segment-level summary table
+
+Added a dedicated Tooltip Page (Tooltip_cluster_info) showing dynamic metrics per cluster when hovering over visuals.
+
+💡 Key Insights
+Sales & Inventory Insights
+
+Trek brand and Mountain Bikes lead total sales.
+
+Baldwin Bikes is the top-performing store.
+
+Inventory levels are balanced across stores, ensuring stock availability.
+
+Customer Segmentation Insights
+
+Total 1,445 customers segmented into four clusters:
+
+Loyal Customers (620): Largest base with steady repeat orders.
+
+New Buyers (441): Recent acquisitions — opportunity to nurture.
+
+Churn Risk (279): High-value but inactive — ideal for reactivation campaigns.
+
+Low Value (105): Small group but high spend — potential premium customers.
+
+Average Sales per Customer: 5.32K
+
+Average Orders per Customer: 1.12
+
+Average Recency: 6,134 days — highlights re-engagement potential.
+
+📂 Project Deliverables
+File	Description
+Database/retail_sales.db	SQLite database with 9 normalized tables
+python_analysis/retail_customer_segmentation.py	Python segmentation script
+python_analysis/customer_segments.csv	Clustered customer output
+Retail_Sales_Analytics.pbix	Power BI dashboards
+Retail_Sales_Project_Report.pdf	Final project documentation
+📹 Project Presentation
+
+🎥 A 7–10 minute video walkthrough explaining data processing, dashboard design, and business insights.
+👉 Watch here
+
+🧭 Future Enhancements
+
+Integrate predictive analytics for sales forecasting
+
+Add RFM (Recency-Frequency-Monetary) scoring in Python
+
+Connect Power BI directly to Python outputs for automated refresh
+
+📬 Contact
+
+👩‍💻 Shruti Sumadhur Ghosh
+📧 [shrutisghosh@outlook.com
+]
+🔗 LinkedIn
+
+🏷️ Tags
+
+#DataAnalytics #PowerBI #Python #CustomerSegmentation #SQL #RetailAnalytics #BusinessIntelligence #DataVisualization
+
