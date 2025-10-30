@@ -142,7 +142,7 @@ Retail_Sales_Project_Report.pdf	Final project documentation
 📹 Project Presentation
 
 🎥 A 7–10 minute video walkthrough explaining data processing, dashboard design, and business insights.
-👉 Watch here
+👉 Watch here [https://drive.google.com/file/d/1WHf8Do6t2zK0UqjcbKOTw8N9w-pYVWd_/view?usp=sharing]
 
 🧭 Future Enhancements
 
